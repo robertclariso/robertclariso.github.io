@@ -5,9 +5,9 @@
 <dl>
   <dt>PhD Thesis - <a href="https://computing.phd.upc.edu/en">PhD in Computer Science</a> </dt>
   <dd>Robert Clarisó. [Abstract interpretation techniques for the verification of timed systems](https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf). Universitat Politècnica de Catalunya. 2005.</dd>
-  <dt>MSc Thesis</dt> ([Diploma in Advanced Studies](https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain))
+  <dt>MSc Thesis - <a href="https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain">Master of Advanced Studies</a>
   <dd>Robert Clarisó. [Abstract interpretation techniques for the verification of concurrent systems](https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf). Universitat Politècnica de Catalunya. 2002.</dd>
-  <dt>BSc Thesis</dt> ([BSc in Computer Science](https://www.fib.upc.edu/en/estudiar-enginyeria-informatica/enginyeries-pla-2003/EI.html))
+  <dt>BSc Thesis - <a href="https://www.fib.upc.edu/en/estudiar-enginyeria-informatica/enginyeries-pla-2003/EI.html">BSc in Computer Science</a></dt>
   <dd>Robert Clarisó. [Entorn per optimització i generació de codi](https://robertclariso.github.io/docs/thesis/rclariso-bsc-thesis.pdf). Universitat Politècnica de Catalunya. 2000</dd>
 </dl>
 
