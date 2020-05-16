@@ -5,13 +5,12 @@
 
 ## Thesis
 
-### PhD Thesis
-
-1. Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2005.
-
-### BSc Thesis
-
-1. Robert Clarisó. Entorn per optimització i generació de codi. Universitat Politècnica de Catalunya. 2000
+- **PhD Thesis**
+  Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2005.
+- **MSc Thesis**
+  Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2002
+- **BSc Thesis**
+  Robert Clarisó. Entorn per optimització i generació de codi. Universitat Politècnica de Catalunya. 2000
 
 ## Books
 
