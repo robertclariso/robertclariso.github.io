@@ -10,7 +10,7 @@
 
   <dd>Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2005.</dd>
 <dt>MSc Thesis</dt>
-<dd>Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2002.</dd>
+<dd>Robert Clarisó. Abstract interpretation techniques for the verification of concurrent systems. Universitat Politècnica de Catalunya. 2002.</dd>
 <dt>BSc Thesis</dt>
 <dd>Robert Clarisó. Entorn per optimització i generació de codi. Universitat Politècnica de Catalunya. 2000</dd>
 </dl>
