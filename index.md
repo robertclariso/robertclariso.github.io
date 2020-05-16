@@ -3,7 +3,7 @@
 ## Thesis
 
 <dl>
-  <dt>PhD Thesis</dt> ([PhD in Computer Science](https://computing.phd.upc.edu/en))
+  <dt>PhD Thesis - [PhD in Computer Science](https://computing.phd.upc.edu/en) </dt>
   <dd>Robert Clarisó. [Abstract interpretation techniques for the verification of timed systems](https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf). Universitat Politècnica de Catalunya. 2005.</dd>
   <dt>MSc Thesis</dt> ([Diploma in Advanced Studies](https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain))
   <dd>Robert Clarisó. [Abstract interpretation techniques for the verification of concurrent systems](https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf). Universitat Politècnica de Catalunya. 2002.</dd>
