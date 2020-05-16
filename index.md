@@ -6,13 +6,12 @@
 ## Thesis
 
 <dl>
-  <dt>PhD Thesis</dt>
-
-  <dd>Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2005.</dd>
-<dt>MSc Thesis</dt>
-<dd>Robert Clarisó. Abstract interpretation techniques for the verification of concurrent systems. Universitat Politècnica de Catalunya. 2002.</dd>
-<dt>BSc Thesis</dt>
-<dd>Robert Clarisó. Entorn per optimització i generació de codi. Universitat Politècnica de Catalunya. 2000</dd>
+  <dt>PhD Thesis ([PhD in Computer Science](https://computing.phd.upc.edu/en))</dt>
+  <dd>Robert Clarisó. [Abstract interpretation techniques for the verification of timed systems](https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf). Universitat Politècnica de Catalunya. 2005.</dd>
+<dt>MSc Thesis ([Diploma in Advanced Studies](https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain))</dt>
+<dd>Robert Clarisó. [Abstract interpretation techniques for the verification of concurrent systems](https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf). Universitat Politècnica de Catalunya. 2002.</dd>
+<dt>BSc Thesis ([BSc in Computer Science](https://www.fib.upc.edu/en/estudiar-enginyeria-informatica/enginyeries-pla-2003/EI.html))</dt>
+<dd>Robert Clarisó. [Entorn per optimització i generació de codi](https://robertclariso.github.io/docs/thesis/rclariso-bsc-thesis.pdf). Universitat Politècnica de Catalunya. 2000</dd>
 </dl>
 
 ## Books
