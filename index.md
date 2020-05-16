@@ -47,7 +47,7 @@
 ## Invited presentations
 
 1. Invited course: *Model-Driven Engineering meets Artificial Intelligence*. Postgraduate course at the [Facultad de Ingeniería](https://www.fing.edu.uy/) of the [Universidad de la República](http://www.universidad.edu.uy/). Montevideo, Uruguay. 08/04/2019-10/04/2019.
-2. Invited talk: *Máster en Ingeniería Informática: Una perspectiva online*. [Panel on "Desafíos de los Másteres en Ingeniería Informática](http://jenui2015.uols.org/mesa_redonda). XXI Jornadas sobre la Enseñanza Universitaria de la Informática. Andorra la Vella, Andorra. 10/07/2015.
+2. Invited talk: *Máster en Ingeniería Informática: Una perspectiva online*. [Panel on "Desafíos de los Másteres en Ingeniería Informática"](http://jenui2015.uols.org/mesa_redonda). XXI Jornadas sobre la Enseñanza Universitaria de la Informática. Andorra la Vella, Andorra. 10/07/2015.
 3.	Invited talk: *Applying Constraint Programming to MDE problems*. AtlanMod research group. INRIA/LINA/École des Mines de Nantes, France. 14/12/2010.
 4.	Invited talk: *Verifying UML/OCL class diagrams*. Masters Course on "Formal Model-Driven Software Development". Escuela Politècnica Superior, Universidad Autónoma de Madrid, Spain. 09/12/2008.
 
