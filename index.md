@@ -5,16 +5,15 @@
 
 ## Thesis
 
-- **PhD Thesis**
+<dl>
+  <dt>PhD Thesis</dt>
 
-  Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2005.
-- **MSc Thesis**
-
-  Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2002
-- **BSc Thesis**
-
-  Robert Clarisó. Entorn per optimització i generació de codi. Universitat Politècnica de Catalunya. 2000
-
+  <dd>Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2005.</dd>
+<dt>MSc Thesis</dt>
+<dd>Robert Clarisó. Abstract interpretation techniques for the verification of timed systems. Universitat Politècnica de Catalunya. 2002.</dd>
+<dt>BSc Thesis</dt>
+<dd>Robert Clarisó. Entorn per optimització i generació de codi. Universitat Politècnica de Catalunya. 2000</dd>
+</dl>
 ## Books
 
 1. Santi Caballé, Robert Clarisó (editors). [Formative Assessment, Learning Data Analytics and Gamification in ICT Education](https://doi.org/10.1016/C2015-0-00087-9). Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 978-0-12-803637-2
