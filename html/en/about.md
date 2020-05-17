@@ -30,6 +30,12 @@ permalink: /
         <dd>
           rclariso AT uoc.edu
         </dd>
+        <dt>
+          Full CV
+       </dt>
+       <dd>
+         <a href="/docs/rclariso-research-cv.pdf">Download here [PDF]</a>
+       </dd>
       </dl> 
     </td>
     <td>
