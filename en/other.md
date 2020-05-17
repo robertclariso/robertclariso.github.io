@@ -1,0 +1,4 @@
+# Other activities
+
+## Blogging
+
