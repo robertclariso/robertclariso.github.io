@@ -31,10 +31,11 @@ permalink: /
           rclariso AT uoc.edu
         </dd>
         <dt>
-          Full CV
+          Other contacts
        </dt>
        <dd>
-         <a href="/docs/rclariso-research-cv.pdf">Download here [PDF]</a>
+         <a href="https://twitter.com/robertclariso?lang=en">Twitter</a>,
+         <a href="https://www.linkedin.com/in/robertclariso/">LinkedIn</a>
        </dd>
       </dl> 
     </td>
