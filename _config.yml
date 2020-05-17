@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
 title: Robert Clarisó
 description: Associate professor at UOC
+include: about.md teaching.md research.md publications.md other.md
