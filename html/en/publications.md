@@ -10,7 +10,7 @@
     Robert Clarisó. <a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf">Abstract interpretation techniques for the verification of timed systems</a>. Universitat Politècnica de Catalunya. 2005.
   </dd>
   <dt>
-    MSc Thesis - <a href="https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain">Master of Advanced Studies</a>
+    MSc Thesis - <a href="https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain">Master of Advanced Studies (DEA)</a>
   </dt>
   <dd>
     Robert Clarisó. <a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf">Abstract interpretation techniques for the verification of concurrent systems</a>. Universitat Politècnica de Catalunya. 2002.
@@ -23,7 +23,7 @@
 
 ## Books
 
-1. Santi Caballé, Robert Clarisó (editors). [Formative Assessment, Learning Data Analytics and Gamification in ICT Education](https://doi.org/10.1016/C2015-0-00087-9). Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 978-0-12-803637-2
+1. Santi Caballé, Robert Clarisó (editors). [**Formative Assessment, Learning Data Analytics and Gamification in ICT Education**](https://doi.org/10.1016/C2015-0-00087-9). Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 978-0-12-803637-2
 
 ## Indexed journals
 
