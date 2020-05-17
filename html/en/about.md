@@ -50,7 +50,7 @@ permalink: /
     <td width="20%" style="text-align:center;"> Professional experience </td>
     <td width="20%" style="text-align:center;"> Fellowships & awards </td>
     <td width="20%" style="text-align:center;"> Institutional duties </td>
-    <td width="20%" style="text-align:center;"> [Full CV](/docs/rclariso-research-cv.pdf) </td>
+    <td width="20%" style="text-align:center;"> <a href="/docs/rclariso-research-cv.pdf">Full CV</a> </td>
   </tr> 
 </table>
 
