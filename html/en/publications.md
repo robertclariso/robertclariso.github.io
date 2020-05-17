@@ -38,7 +38,16 @@
 9.	Robert Clarisó, Jordi Cortadella. [The octahedron abstract domain](http://dx.doi.org/10.1016/j.scico.2006.03.009). Science of Computer Programming, 64(1):115-139, 2007.
 10. Robert Clarisó, Jordi Cortadella. [Verification of Concurrent Systems with Parametric Delays using Octahedra](http://iospress.metapress.com/content/6304h65116152104/). Fundamenta Informaticae, 78(1):1-33, 2007. 
 
-## Journals (non-indexed)
+## Non-indexed Journals
+
+1. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.
+[Towards a Framework for Assessing IT Strategy Execution](https://www.mdpi.com/2073-431X/8/3/69/pdf). Computers, 8(69), 2019. DOI: 10.3390/computers8030069
+2. Davi Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres. [ICT-FLAG: A Web-based e-Assessment Platform Featuring Learning Analytics and Gamification](http://www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-12-2016-0074). International Journal of Web Information Systems, 13(1), 2017. DOI: 10.1108/IJWIS-12-2016-0074.
+3. Robert Clarisó, Maria Jesús Marco, Josep Maria Marco-Simó, Josep Prieto, Daniel Riera. [El Máster Universitario en Ingeniería Informática en un contexto no presencial](http://www.aenui.net/ojs/index.php?journal=revision&page=article&op=view&path%5B%5D=189). ReVisión, 8(2), 2015.
+4. Jordi Cabot, Robert Clarisó. [Evaluating the Quality of Software Models using Light-weight Formal Methods](http://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods). ERCIM News, 99:29--30, 2014.
+5. Àngels Rius, Robert Clarisó, David Masip. [Student projects empowering mobile learning in higher education](http://dx.doi.org/10.7238/rusc.v11i1.1901). Universities and Knowledge Society Journal (RUSC), 11(1):192--207, 2014.
+6. Jordi Cabot, Robert Clarisó, Martin Gogolla, Burkhart Wolff. [Preface to the Proceedings of the Workshop on OCL and Textual Modeling (OCL 2011)](http://journal.ub.tu-berlin.de/eceasst/article/viewFile/666/676). Electronic Communications of the EASST, 44, 2011.
+7. Davinia Hernández-Leo, Verónica Moreno Oliver, Irene Camps, Robert Clarisó, Alejandra Martínez-Monés, Maria Jesús Marco, Javier Melero. [Implementación de buenas prácticas en los Trabajos Fin de Grado](https://polipapers.upv.es/index.php/REDU/article/view/5556/5547). Revista de Docencia Universitaria, 11:269--278, 2013.
 
 ## International conferences
 
