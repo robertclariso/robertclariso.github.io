@@ -13,6 +13,6 @@ Here you can find a list of:
 - [Publications](https://robertclariso.github.io/html/en/publications)
 - [Projects](https://robertclariso.github.io/html/en/projects) where I have participated
 - [Events](https://robertclariso.github.io/html/en/events) I have been involved in
-- [Community service](https://robertclariso.github.io/html/en/event) such as reviewing
+- [Community service](https://robertclariso.github.io/html/en/event) such as reviewing and others
 
 
