@@ -2,7 +2,7 @@
 
 ## Blogging
 
-- I am a regular collaborator in [Informática++](http://informatica.blogs.uoc.edu/), the technology blog at the IT, Multimedia and Telecommunications Department at UOC. It is aimed as less technical audience. [Here](http://informatica.blogs.uoc.edu/author/robert/) you can find a list of my posts, and the following are a few of the ones I'm most proud of:
+- I am a regular collaborator in [Informática++](http://informatica.blogs.uoc.edu/), the technology blog at the IT, Multimedia and Telecommunications Department at UOC, which targets a general audience. [Here](http://informatica.blogs.uoc.edu/author/robert/) you can find a list of my posts, and the following are a few of the ones I'm most proud of:
   - ["Don't let your project sink"](http://informatica.blogs.uoc.edu/2011/07/11/que-no-se-hunda-tu-proyecto/): Discusses the similarities between many software projects and the shripwreck of the [Vasa warship](https://en.wikipedia.org/wiki/Vasa_(ship)). 
   - ["Trade-offs in computer science"](http://informatica.blogs.uoc.edu/2019/02/04/trade-offs-ingenieria-informatica/).
   - ["Why is software quality so hard to achieve?"](http://informatica.blogs.uoc.edu/2016/04/18/por-que-es-tan-dificil-conseguir-software-de-calidad/). 
