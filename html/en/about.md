@@ -54,8 +54,6 @@ permalink: /
   </tr> 
 </table>
 
----
-
 ## Short CV
 
 BSc in Computer Science from [UPC-Barcelona Tech](https://www.upc.edu/en) (2000) as the top of his class. Special mention in the [Spanish National University Degree Awards](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-15324) (Premios Nacionales de Fin de Carrera de Educación Universitaria, 2000).
