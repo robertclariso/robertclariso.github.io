@@ -45,12 +45,12 @@ permalink: /
 </table>
 
 <table width="100%">
-  <tr>
-    <td> Education </td>
-    <td> Professional experience </td>
-    <td> Fellowships & awards </td>
-    <td> Institutional duties </td>
-    <td> Full CV </td>
+  <tr style="text-align:center;">
+    <td width="20%" style="text-align:center;"> Education </td>
+    <td width="20%" style="text-align:center;"> Professional experience </td>
+    <td width="20%" style="text-align:center;"> Fellowships & awards </td>
+    <td width="20%" style="text-align:center;"> Institutional duties </td>
+    <td width="20%" style="text-align:center;"> Full CV </td>
   </tr> 
 </table>
 
