@@ -1,4 +1,6 @@
-
+---
+permalink: /
+---
 # About me
 
 Presentation  
