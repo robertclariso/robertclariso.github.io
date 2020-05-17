@@ -33,7 +33,7 @@ permalink: /
       </dl> 
     </td>
     <td>
-      <img src="/img/robert-clariso.jpg" alt="Photo of Robert Clarisó" height="75%">
+      <img src="/img/robert-clariso.jpg" alt="Photo of Robert Clarisó" height="60%">
     </td>
   </tr>
 </table>
