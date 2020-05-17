@@ -41,13 +41,16 @@
 ## Non-indexed Journals
 
 1. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.
-**[Towards a Framework for Assessing IT Strategy Execution](https://www.mdpi.com/2073-431X/8/3/69/pdf)**. Computers, 8(69), 2019. DOI: 10.3390/computers8030069
+  **[Towards a Framework for Assessing IT Strategy Execution](https://www.mdpi.com/2073-431X/8/3/69/pdf)**. Computers, 8(69), 2019. DOI: 10.3390/computers8030069
 2. Davi Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres. 
-**[ICT-FLAG: A Web-based e-Assessment Platform Featuring Learning Analytics and Gamification](http://www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-12-2016-0074)**. International Journal of Web Information Systems, 13(1), 2017. DOI: 10.1108/IJWIS-12-2016-0074.
+
+  **[ICT-FLAG: A Web-based e-Assessment Platform Featuring Learning Analytics and Gamification](http://www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-12-2016-0074)**. International Journal of Web Information Systems, 13(1), 2017. DOI: 10.1108/IJWIS-12-2016-0074.
 3. Robert Clarisó, Maria Jesús Marco, Josep Maria Marco-Simó, Josep Prieto, Daniel Riera. 
+
 **[El Máster Universitario en Ingeniería Informática en un contexto no presencial](http://www.aenui.net/ojs/index.php?journal=revision&page=article&op=view&path%5B%5D=189)**. ReVisión, 8(2), 2015.
 4. Jordi Cabot, Robert Clarisó. 
-**[Evaluating the Quality of Software Models using Light-weight Formal Methods](http://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods)**. ERCIM News, 99:29--30, 2014.
+
+  **[Evaluating the Quality of Software Models using Light-weight Formal Methods](http://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods)**. ERCIM News, 99:29--30, 2014.
 5. Àngels Rius, Robert Clarisó, David Masip. 
 **[Student projects empowering mobile learning in higher education](http://dx.doi.org/10.7238/rusc.v11i1.1901)**. Universities and Knowledge Society Journal (RUSC), 11(1):192--207, 2014.
 6. Jordi Cabot, Robert Clarisó, Martin Gogolla, Burkhart Wolff. 
