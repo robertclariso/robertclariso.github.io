@@ -3,7 +3,7 @@
 ## Bibliographic databases
 
 You can find more information about my publications in the following services:
-- [ORCID](http://orcid.org/0000-0001-9639-0186) 
+- [ORCID](https://orcid.org/0000-0001-9639-0186) 
 - [Publons](https://publons.com/researcher/2867338/robert-clariso/)
 - [Google Scholar](https://scholar.google.com/citations?user=h5sMrVAAAAAJ&hl=en)
 - [DBLP](https://dblp.org/pers/c/Claris=oacute=:Robert.html)
@@ -34,11 +34,15 @@ You can find more information about my publications in the following services:
     Universitat Politècnica de Catalunya. 2000.</dd>
 </dl>
 
+---
+
 ## Books
 
 1. Santi Caballé, Robert Clarisó (editors).  
 **[Formative Assessment, Learning Data Analytics and Gamification in ICT Education](https://doi.org/10.1016/C2015-0-00087-9)**.  
 Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 978-0-12-803637-2
+
+---
 
 ## Indexed journals
 
@@ -73,6 +77,8 @@ Science of Computer Programming, 64(1):115-139, 2007.
 **[Verification of Concurrent Systems with Parametric Delays using Octahedra](http://iospress.metapress.com/content/6304h65116152104/)**.  
 Fundamenta Informaticae, 78(1):1-33, 2007. 
 
+---
+
 ## Non-indexed Journals
 
 1. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
@@ -97,9 +103,15 @@ Electronic Communications of the EASST, 44, 2011.
 **[Implementación de buenas prácticas en los Trabajos Fin de Grado](https://polipapers.upv.es/index.php/REDU/article/view/5556/5547)**.  
 Revista de Docencia Universitaria, 11:269--278, 2013.
 
+---
+
 ## International conferences
 
+---
+
 ## Workshops and national conferences
+
+---
 
 ## Invited presentations
 
