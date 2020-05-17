@@ -1,5 +1,18 @@
 # Publications
 
+## Bibliographic databases
+
+You can find more information about my publications in the following services:
+- [ORCID](http://orcid.org/0000-0001-9639-0186) 
+- [Publons](https://publons.com/researcher/2867338/robert-clariso/)
+- [Google Scholar](https://scholar.google.com/citations?user=h5sMrVAAAAAJ&hl=en)
+- [DBLP](https://dblp.org/pers/c/Claris=oacute=:Robert.html)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=8948086100)
+- [ACM Portal](https://dl.acm.org/profile/81100432765) 
+- [ResearchGate](https://www.researchgate.net/profile/Robert_Clariso)
+
+---
+
 ## Thesis
 
 <dl>
