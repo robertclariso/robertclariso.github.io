@@ -58,12 +58,12 @@ permalink: /
 
 Dr. Robert Clarisó has a BSc in Computer Science (2000, top of his class) and PhD in Computer Science (2005) from [Universitat Politècnica de Catalunya (UPC-Barcelona Tech)](https://www.upc.edu/en). 
 
-Between 2000 and 2002, he worked as a researcher at UPC in a project financed by the company Cadence Design Systems. In 2011, he worked in a 3-month research internship at Cadence Berkeley Labs (Berkeley, California). Between 2002 and 2005, he continued his research with an predoctoral grant from the Spanish Ministry of Science (FPU, Formación de Profesorado Universitario).
+Between 2000 and 2002, he worked as a researcher at UPC in a project funded by the [Cadence Design Systems](https://www.cadence.com/). In 2011, he worked in a 3-month research internship at Cadence Berkeley Labs (Berkeley, California). Between 2002 and 2005, he continued his research with a predoctoral FPU grant from the Spanish Ministry of Science.
 
 Since 2005, he works at [Universitat Oberta de Catalunya](https://www.uoc.edu) where he is a full-time associate professor in the 
 [Faculty of IT, Multimedia and Telecommunications](https://www.uoc.edu/portal/en/estudis_arees/informatica_multimedia_telecomunicacio/index.html). In the past, he has also collaborated as a part-time associate professor at [Universitat Politècnica de Catalunya (UPC-BarcelonaTech)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.edu) (2006-2011).
 
 His [teaching activity](html/en/teaching) focuses on Computer Science, particularly theoretical computer science and software development. His [research](html/en/research) focuses on formal methods, software engineering and tools for e-learning. 
 
-You can find further information in my [full CV (PDF)](/docs/rclariso-research-cv.pdf).
+You can find further information in his [full CV (PDF)](/docs/rclariso-research-cv.pdf).
     
