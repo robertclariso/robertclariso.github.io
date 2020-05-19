@@ -3,7 +3,7 @@
 I am a **full-time associate professor** at the [Faculty of IT, Multimedia and Telecommunications](https://www.uoc.edu/portal/en/estudis_arees/informatica_multimedia_telecomunicacio/index.html) of  [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu).
 In the past, I have also been a part-time associate professor at  [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.es) (2006-2011).
 
-The courses I am teaching this year are:
+This year I am teaching the following **courses** at UOC:
 - Graph and complexity theory (BSc in Computer Science)
 - Compilers (BSc in Computer Science)
 - Logic (BSc in Computer Science)
