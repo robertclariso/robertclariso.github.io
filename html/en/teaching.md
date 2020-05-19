@@ -5,16 +5,15 @@ In the past, I have also been a part-time associate professor at  [Universitat P
 
 This year I am teaching the following **courses** at UOC:
 
-
-| Course | Degree |
-| --- | --- |
-| Graph and complexity theory | BSc in Computer Science |
-| Compilers | BSc in Computer Science |
-| Logic | BSc in Computer Science |
-| Advanced Techniques in Software Engineering | MSc in Computer Engineering |
-| Mobile development and technology | MSc in Computer Engineering / Mobile App development |
-| Android app development | MSc in Mobile App Development |
-| Formal proofs | PhD in Network and Information Technologies |
+| Course | Semester | Degree | 
+| --- | --- | --- | 
+| [Graph and complexity theory](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20201&cod_asignatura=75.569&idioma=CAS&pagina=PD_PREV_PORTAL) | Fall + Spring | BSc in Computer Engineering |
+| [Compilers](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20201&cod_asignatura=75.580&idioma=CAS&pagina=PD_PREV_PORTAL) | Fall | BSc in Computer Engineering |
+| [Logic](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20201&cod_asignatura=75.570&idioma=CAS&pagina=PD_PREV_PORTAL) | Fall + Spring | BSc in Computer Engineering |
+| [Advanced Techniques in Software Engineering](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20201&cod_asignatura=M1.303&idioma=CAS&pagina=PD_PREV_PORTAL&cache=S) | Spring | MSc in Computer Engineering |
+| [Mobile development and technology](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20201&cod_asignatura=M1.308&idioma=CAS&pagina=PD_PREV_PORTAL&cache=S) | Fall + Spring | MSc in Computer Engineering / Mobile App development |
+| [Android app development](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20201&cod_asignatura=M0.652&idioma=CAS&pagina=PD_PREV_PORTAL) | Fall | MSc in Mobile App Development |
+| [Formal proofs]() | Fall + Spring | PhD in Network and Information Technologies |
 
 In the past I have also taught courses on *data structures*, *automata theory* and *knowledge representation*.
 
