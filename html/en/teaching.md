@@ -4,13 +4,17 @@ I am a **full-time associate professor** at the [Faculty of IT, Multimedia and T
 In the past, I have also been a part-time associate professor at  [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.es) (2006-2011).
 
 This year I am teaching the following **courses** at UOC:
-- Graph and complexity theory (BSc in Computer Science)
-- Compilers (BSc in Computer Science)
-- Logic (BSc in Computer Science)
-- Advanced Techniques in Software Engineering (MSc in Computer Engineering)
-- Mobile development and technology (MSc in Computer Engineering / Mobile App development
-- Android app development (MSc in Mobile App Development)
-- Formal proofs (PhD in Network and Information Technologies)
+
+
+| Course | Degree |
+| --- | --- |
+| Graph and complexity theory | BSc in Computer Science |
+| Compilers | BSc in Computer Science |
+| Logic | BSc in Computer Science |
+| Advanced Techniques in Software Engineering | MSc in Computer Engineering |
+| Mobile development and technology | MSc in Computer Engineering / Mobile App development |
+| Android app development | MSc in Mobile App Development |
+| Formal proofs | PhD in Network and Information Technologies |
 
 In the past I have also taught courses on *data structures*, *automata theory* and *knowledge representation*.
 
