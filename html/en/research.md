@@ -2,11 +2,11 @@
 
 <table width="100%" style="border-top:1px solid #aaa">
   <tr style="text-align:center;">
-    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/publications">Publications</a> </td>
-    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/software">Software</a> </td>
-    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/projects">Research projects</a> </td>
-    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/events">Scientific events</a> </td>
-    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/service">Community service</a> </td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/publications">Publications</a> </strong></td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/software">Software</a> </strong></td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/projects">Research projects</a> </strong></td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/events">Scientific events</a></strong> </td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/service">Community service</a> </strong></td>
   </tr> 
 </table>
 
