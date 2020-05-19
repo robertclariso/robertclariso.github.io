@@ -1,5 +1,14 @@
 # Research
 
+<table width="100%">
+  <tr style="text-align:center;">
+    <td width="25%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/publications">Publications</a> </td>
+    <td width="25%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/projects">Projects</a> </td>
+    <td width="25%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/events">Scientific events</a> </td>
+    <td width="25%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/service">Community service</a> </td>
+  </tr> 
+</table>
+
 I am a member of the [SOM Research Lab](https://som-research.uoc.edu), an [ICREA](https://www.icrea.cat)-[UOC](https://www.uoc.edu) research group within the [Internet Interdisciplinary Institute (IN3)](https://in3.uoc.edu) at Universitat Oberta de Catalunya.
 
 My **research interests** include:
@@ -13,6 +22,6 @@ Follow the links to find a list of:
 - [Publications](https://robertclariso.github.io/html/en/publications).
 - [Projects](https://robertclariso.github.io/html/en/projects) where I have participated.
 - [Events](https://robertclariso.github.io/html/en/events) I have been involved in.
-- [Community service](https://robertclariso.github.io/html/en/event) such as reviewing and others.
+- [Community service](https://robertclariso.github.io/html/en/service) such as reviewing and others.
 
 
