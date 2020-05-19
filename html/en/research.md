@@ -1,6 +1,5 @@
 # Research
 
----
 <table width="100%" style="border-top:1px solid #aaa">
   <tr style="text-align:center;">
     <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/publications">Publications</a> </td>
