@@ -56,13 +56,14 @@ permalink: /
 
 ## Short CV
 
-BSc in Computer Science from [UPC-Barcelona Tech](https://www.upc.edu/en) (2000) as the top of his class. Special mention in the [Spanish National University Degree Awards](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-15324) (Premios Nacionales de Fin de Carrera de Educación Universitaria, 2000).
+Dr. Robert Clarisó has a BSc in Computer Science (2000, top of his class) and PhD in Computer Science (2005) from [Universitat Politècnica de Catalunya (UPC-Barcelona Tech)](https://www.upc.edu/en). 
 
-PhD in Computer Science from [UPC-Barcelona Tech](https://www.upc.edu/en) (2005). His PhD thesis, titled [Abstract Interpretation Techniques for the Verification of Timed Systems](/docs/thesis/rclariso-phd-thesis.pdf), was directed by [Dr. Jordi Cortadella Fortuny](https://www.cs.upc.edu/~jordicf/).
- 
 Between 2000 and 2002, he worked as a researcher at UPC in a project financed by the company Cadence Design Systems. In 2011, he worked in a 3-month research internship at Cadence Berkeley Labs (Berkeley, California). Between 2002 and 2005, he continued his research with an predoctoral grant from the Spanish Ministry of Science (FPU, Formación de Profesorado Universitario).
- 
-In 2005, he joined [Universitat Oberta de Catalunya](https://www.uoc.edu) as a lecturer. In 2006 he worked as a part-time associate professor at UPC-Barcelona Tech and, between 2006 and 2011, at the [Universitat Autònoma de Barcelona](https://www.uab.edu). His lectures focus on the following topics: automata theory, compilers, algorithms and data structures, graph theory, mobile apps and undergraduate thesis. Regarding research, he continues his research on formal methods applied to software engineering, as the coordinator of the [Research Group on Software Engineering](gres.uoc.edu) at UOC (GRES-UOC) from 2008 to 2015, and since 2015 within the [SOM Research Lab](https://som-research.uoc.edu).
- 
-Between 2008 and 2014 he coordinated undergraduate thesis at the bachelor level in the IT, Multimedia and Telecommunication Department. Between 2008 and 2011, he was the Academic Director of postgraduate courses in this Department. From 2011 to 2019, he was the Academic Director of the Official Master in Computing Engineering and in 2019 he was the Academic Director of the Bachelor in Computer Science.
+
+Since 2005, he works at [Universitat Oberta de Catalunya](https://www.uoc.edu) where he is a full-time associate professor in the 
+[Faculty of IT, Multimedia and Telecommunications](https://www.uoc.edu/portal/en/estudis_arees/informatica_multimedia_telecomunicacio/index.html). In the past, he has also collaborated as a part-time associate professor at [Universitat Politècnica de Catalunya (UPC-BarcelonaTech)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.edu)] (2006-2011).
+
+His [teaching activity](html/en/teaching) focuses on Computer Science, particularly theoretical computer science and software development. His [research](html/en/research) focuses on formal methods, software engineering and tools for e-learning. 
+
+You can find further information in my [full CV (PDF)](/docs/rclariso-research-cv.pdf).
     
