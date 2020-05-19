@@ -4,10 +4,21 @@ I am a **full-time associate professor** at the [Faculty of IT, Multimedia and T
 In the past, I have also been a part-time associate professor at  [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.es) (2006-2011).
 
 My fields of expertise include:
-- **Theoretical computer science**: algorithms, graph theory, automata theory, complexity theory, compilers
-- **Logic**: logic, formal proofs, knowledge representation 
-- **Software engineering**: model-driven software engineering 
-- **Mobile app development**: introduction to mobile apps, Android app development
+- **Theoretical computer science** 
+  - Algorithms
+  - Graph theory
+  - Automata theory 
+  - Complexity theory
+  - Compilers
+- **Logic** 
+  - Logic
+  - Formal proofs
+  - Knowledge representation 
+- **Software engineering** 
+  - Model-driven software engineering 
+- **Mobile app development** 
+  - Introduction to mobile apps
+  - Android app development
 - **Supervision of Bachelor's and Master's thesis**
 
 I have been the **academic coordinator** of the following areas:
