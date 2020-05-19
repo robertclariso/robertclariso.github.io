@@ -3,6 +3,8 @@
 I am a **full-time associate professor** at the [Faculty of IT, Multimedia and Telecommunications](https://www.uoc.edu/portal/en/estudis_arees/informatica_multimedia_telecomunicacio/index.html) of  [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu).
 In the past, I have also been a part-time associate professor at  [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.es) (2006-2011).
 
+---
+
 This year I am teaching the following **courses** at UOC:
 
 | Course | Semester | Degree | 
@@ -16,6 +18,8 @@ This year I am teaching the following **courses** at UOC:
 | [Formal proofs]() | Fall + Spring | PhD in Network and Information Technologies |
 
 In the past I have also taught courses on *data structures*, *automata theory* and *knowledge representation*.
+
+---
 
 I have been the **academic coordinator** of the following areas:
 - Postgraduate degrees in the Faculty of IT, Multimedia and Telecommunications of UOC (Fall 2008--Spring 2011)
