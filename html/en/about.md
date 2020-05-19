@@ -13,7 +13,7 @@ permalink: /
         <dd> 
           Associate professor <br/>
           <a href="https://www.uoc.edu/portal/en/estudis_arees/informatica_multimedia_telecomunicacio/index.html">Faculty of IT, Multimedia and Telecommunications</a> <br/>
-          <a href="https://www.uoc.edu">Universitat Oberta de Catalunya</a> 
+          <a href="https://www.uoc.edu">Universitat Oberta de Catalunya (UOC)</a> 
         </dd>
         <dt>
           Address
