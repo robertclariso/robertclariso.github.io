@@ -3,10 +3,11 @@
 ---
 <table width="100%">
   <tr style="text-align:center;">
-    <td width="25%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/publications">Publications</a> </td>
-    <td width="25%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/projects">Projects</a> </td>
-    <td width="25%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/events">Scientific events</a> </td>
-    <td width="25%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/service">Community service</a> </td>
+    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/publications">Publications</a> </td>
+    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/software">Software</a> </td>
+    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/projects">Research projects</a> </td>
+    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/events">Scientific events</a> </td>
+    <td width="20%" style="text-align:center;"> <a href="https://robertclariso.github.io/html/en/service">Community service</a> </td>
   </tr> 
 </table>
 
