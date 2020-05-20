@@ -12,7 +12,8 @@
     <td width="25%" style="text-align:center;"> <strong><a href="https://www.scopus.com/authid/detail.uri?authorId=8948086100">Scopus</a> </strong></td>
     <td width="25%" style="text-align:center;"> <strong><a href="https://dl.acm.org/profile/81100432765">ACM Portal</a> </strong></td>
     <td width="25%" style="text-align:center;"> <strong><a href="https://www.researchgate.net/profile/Robert_Clariso">ResearchGate</a> </strong></td>
-    <td width="20%" style="text-align:center;"> <strong><a href="https://academic.microsoft.com/profile/991hfjie-3eh6-475g-9h0f-3i14j6ef8e83/RobertClaris&">MSN Academic Search</a></strong>  </tr> 
+    <td width="20%" style="text-align:center;"> <strong><a href="https://academic.microsoft.com/profile/991hfjie-3eh6-475g-9h0f-3i14j6ef8e83/RobertClaris&">MSN Academic Search</a></strong> </td>
+  </tr> 
 </table>
 
 ## Bibliographic databases
