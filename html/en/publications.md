@@ -1,5 +1,19 @@
 # Publications
 
+
+<table width="100%" style="border-top:1px solid #aaa">
+  <tr style="text-align:center;">
+    <td width="25%" style="text-align:center;"> <strong><a href="https://orcid.org/0000-0001-9639-0186">ORCID</a> </strong></td>
+    <td width="25%" style="text-align:center;"> <strong><a href="https://publons.com/researcher/2867338/robert-clariso/">Publons</a> </strong></td>
+    <td width="25%" style="text-align:center;"> <strong><a href="https://scholar.google.com/citations?user=h5sMrVAAAAAJ&hl=en">Google Scholar</a> </strong></td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://dblp.org/pers/c/Claris=oacute=:Robert.html">DBLP</a></strong>  </tr> 
+ <tr style="text-align:center;">
+    <td width="25%" style="text-align:center;"> <strong><a href="https://www.scopus.com/authid/detail.uri?authorId=8948086100">Scopus</a> </strong></td>
+    <td width="25%" style="text-align:center;"> <strong><a href="https://dl.acm.org/profile/81100432765">ACM Portal</a> </strong></td>
+    <td width="25%" style="text-align:center;"> <strong><a href="https://www.researchgate.net/profile/Robert_Clariso">ResearchGate</a> </strong></td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://academic.microsoft.com/profile/991hfjie-3eh6-475g-9h0f-3i14j6ef8e83/RobertClaris&">MSN Academic Search</a></strong>  </tr> 
+</table>
+
 ## Bibliographic databases
 
 You can find more information about my publications in the following services:
