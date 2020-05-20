@@ -8,4 +8,4 @@ The tool is implemented in Java and uses the [ECLiPSe](http://eclipseclp.org/) c
 - **[EMFtoSCP](https://github.com/SOM-Research/EMFtoCSP):** An evolution of UMLtoCSP for the analysis of class diagrams in EMF format.
 
 - **[FeatureX](https://github.com/5Quintessential/FeatureX):** A tool for the extraction of feature models of a software product line from a set of textual requirements. 
-The tools is implemented in Python and uses the [Natural Language Toolkit (NLTK)](https://www.nltk.org/) for the analysis of natural language text.
+The tool is implemented in Python and uses the [Natural Language Toolkit (NLTK)](https://www.nltk.org/) for the analysis of natural language text.
