@@ -34,7 +34,9 @@ permalink: /
        </dt>
        <dd>
          <a href="https://twitter.com/robertclariso?lang=en">Twitter</a>,
-         <a href="https://www.linkedin.com/in/robertclariso/">LinkedIn</a>
+         <a href="https://www.linkedin.com/in/robertclariso/">LinkedIn</a>,
+         <a href="https://github.com/robertclariso">GitHub<a>,
+         <a href="https://www.slideshare.net/rclariso">SlideShare<a>
        </dd>
       </dl> 
     </td>
