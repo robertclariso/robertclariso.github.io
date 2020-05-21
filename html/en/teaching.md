@@ -6,7 +6,7 @@ In the past, I have also been a part-time associate professor at  [Universitat P
 ---
 ## Courses
 
-This year I am teaching the following courses at UOC:
+I am currently teaching the following courses at UOC:
 
 - [Graph and complexity theory](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20201&cod_asignatura=75.569&idioma=CAS&pagina=PD_PREV_PORTAL) (BSc in Computer Engineering)
 - [Compilers](http://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20201&cod_asignatura=75.580&idioma=CAS&pagina=PD_PREV_PORTAL) (BSc in Computer Engineering)
