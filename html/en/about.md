@@ -45,16 +45,6 @@ permalink: /
   </tr>
 </table>
 
-<table width="100%">
-  <tr style="text-align:center;">
-    <td width="20%" style="text-align:center;"> <a href="/html/en/education">Education</a> </td>
-    <td width="20%" style="text-align:center;"> <a href="/html/en/experience">Professional experience</a> </td>
-    <td width="20%" style="text-align:center;"> <a href="/html/en/fellowships-awards">Fellowships & awards</a> </td>
-    <td width="20%" style="text-align:center;"> <a href="/html/en/responsibilities">Institutional responsibilities</a> </td>
-    <td width="20%" style="text-align:center;"> <a href="/docs/rclariso-research-cv.pdf">Full CV</a> </td>
-  </tr> 
-</table>
-
 ## Short CV
 
 I am a full-time associate professor in the 
