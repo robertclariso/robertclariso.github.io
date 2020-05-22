@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-<table style="width:100%; margin: 5px 5px;">
+<table style="width:100%; margin: 5px 10px;">
   <tr>
     <td>
      <dl>
