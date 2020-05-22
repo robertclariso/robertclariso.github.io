@@ -4,9 +4,9 @@
   <tr style="text-align:center;">
     <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/publications">Publications</a> </strong></td>
     <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/software">Software</a> </strong></td>
-    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/projects">Research projects</a> </strong></td>
-    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/events">Scientific events</a></strong> </td>
-    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/service">Community service</a> </strong></td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/projects">Projects</a> </strong></td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/events">Events</a></strong> </td>
+    <td width="20%" style="text-align:center;"> <strong><a href="https://robertclariso.github.io/html/en/service">Reviews</a> </strong></td>
   </tr> 
 </table>
 
