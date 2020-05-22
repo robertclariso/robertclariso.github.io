@@ -61,7 +61,7 @@ I hold a BSc in Computer Science (2000, top of the class) and PhD in Computer Sc
 
 Between 2000 and 2002, I worked as a researcher at UPC in a project funded by the [Cadence Design Systems](https://www.cadence.com/). In 2011, I worked in a 3-month research internship at Cadence Berkeley Labs (Berkeley, California). Between 2002 and 2005, I continued my research with a predoctoral FPU grant from the Spanish Ministry of Science.
 
-Since 2005, I joined Universitat Oberta de Catalunya. I have also collaborated as a part-time associate professor at [Universitat Politècnica de Catalunya (UPC-BarcelonaTech)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.edu) (2006-2011).
+In 2005 I joined Universitat Oberta de Catalunya. Since then, I have also collaborated as a part-time associate professor at [Universitat Politècnica de Catalunya (UPC-BarcelonaTech)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.edu) (2006-2011).
  
 You can find additional information in my [full CV (PDF)](/docs/rclariso-research-cv.pdf).
     
