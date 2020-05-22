@@ -58,10 +58,10 @@ permalink: /
 ## Short CV
 
 I am a full-time associate professor in the 
-[Faculty of IT, Multimedia and Telecommunications](https://www.uoc.edu/portal/en/estudis_arees/informatica_multimedia_telecomunicacio/index.html) at the [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu). My [teaching activity](html/en/teaching) focuses on Computer Science, particularly **theoretical computer science** and **software development**.
+[Faculty of IT, Multimedia and Telecommunications](https://www.uoc.edu/portal/en/estudis_arees/informatica_multimedia_telecomunicacio/index.html) at the [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu). My [teaching activity](html/en/teaching) focuses on Computer Science, particularly *theoretical computer science* and *software development*.
 
 Regarding my [research](html/en/research), I am a member of the 
-[Systems, Software and Models Lab (SOM)](https://som-research.uoc.edu/) at the [Internet Interdisciplinary Institute (IN3)(IN3-UOC)](https://in3.uoc.edu). My research interests focus on **formal methods**, **software engineering** and **tools for e-learning**. 
+[Systems, Software and Models Lab (SOM)](https://som-research.uoc.edu/) at the [Internet Interdisciplinary Institute (IN3)(IN3-UOC)](https://in3.uoc.edu). My research interests focus on *formal methods*, *software engineering* and *tools for e-learning*. 
 
 Regarding my previous background, I hold a BSc in Computer Science (2000, top of the class) and PhD in Computer Science (2005), both from [Universitat Politècnica de Catalunya (UPC-Barcelona Tech)](https://www.upc.edu/en). 
 
