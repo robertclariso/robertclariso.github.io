@@ -1,7 +1,6 @@
 ---
 permalink: /
 ---
-# About me
 
 <table style="width:100%; margin: 5px 5px;">
   <tr>
