@@ -53,6 +53,8 @@ I am a full-time associate professor in the
 Regarding my [research](html/en/research), I am a member of the 
 [Systems, Software and Models Lab (SOM)](https://som-research.uoc.edu/) at the [Internet Interdisciplinary Institute (IN3-UOC)](https://in3.uoc.edu). My research interests focus on *formal methods*, *software engineering* and *tools for e-learning*. 
 
+You can find additional information in my [full CV (PDF)](/docs/rclariso-research-cv.pdf).
+
 ---
 
 ## Previous background
@@ -61,7 +63,4 @@ I hold a BSc in Computer Science (2000, top of the class) and PhD in Computer Sc
 
 Between 2000 and 2002, I worked as a researcher at UPC in a project funded by the [Cadence Design Systems](https://www.cadence.com/). In 2011, I worked in a 3-month research internship at Cadence Berkeley Labs (Berkeley, California). Between 2002 and 2005, I continued my research with a predoctoral FPU grant from the Spanish Ministry of Science.
 
-In 2005 I joined Universitat Oberta de Catalunya. Since then, I have also collaborated as a part-time associate professor at [Universitat Politècnica de Catalunya (UPC-BarcelonaTech)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.edu) (2006-2011).
- 
-You can find additional information in my [full CV (PDF)](/docs/rclariso-research-cv.pdf).
-    
+In 2005 I joined Universitat Oberta de Catalunya. Since then, I have also collaborated as a part-time associate professor at [Universitat Politècnica de Catalunya (UPC-BarcelonaTech)](https://www.upc.edu) (2006) and [Universitat Autònoma de Barcelona (UAB)](https://www.uab.edu) (2006-2011).    
