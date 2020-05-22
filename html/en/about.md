@@ -53,6 +53,8 @@ I am a full-time associate professor in the
 Regarding my [research](html/en/research), I am a member of the 
 [Systems, Software and Models Lab (SOM)](https://som-research.uoc.edu/) at the [Internet Interdisciplinary Institute (IN3)(IN3-UOC)](https://in3.uoc.edu). My research interests focus on *formal methods*, *software engineering* and *tools for e-learning*. 
 
+---
+
 ## Previous background
 
 I hold a BSc in Computer Science (2000, top of the class) and PhD in Computer Science (2005), both from [Universitat Politècnica de Catalunya (UPC-Barcelona Tech)](https://www.upc.edu/en). 
