@@ -162,7 +162,7 @@ In Proc: 10th International Conference on Complex, Intelligent, and Software Int
 In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.87--94, IEEE Computer Society, 2016.
 
 10. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
-(https://doi.org/10.1109/INCoS.2016.33)[A Prototype of an eLearning Platform in Support for Learning Analytics and Gamification].  
+[A Prototype of an eLearning Platform in Support for Learning Analytics and Gamification](https://doi.org/10.1109/INCoS.2016.33).  
 International Conference on Intelligent Networking and Collaborative Systems (INCoS'2016), pp. 362--369, IEEE, 2016.
 
 11. Robert Clarisó, Carlos A. González, Jordi Cabot.  
