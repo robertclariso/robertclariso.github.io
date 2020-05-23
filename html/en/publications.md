@@ -23,17 +23,17 @@
     PhD Thesis  
   </dt>
   <dd>
-    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf">Abstract interpretation techniques for the verification of timed systems</a>. <br/><a href="https://computing.phd.upc.edu/en">PhD in Computer Science</a>. Universitat Politècnica de Catalunya. 2005.
+    <a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf">Abstract interpretation techniques for the verification of timed systems</a>. <br/><a href="https://computing.phd.upc.edu/en">PhD in Computer Science</a>. Universitat Politècnica de Catalunya. 2005.
   </dd>
   <dt>
     MSc Thesis  
   </dt>
   <dd>
-    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf">Abstract interpretation techniques for the verification of concurrent systems</a>. <br/><a href="https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain">Master of Advanced Studies (DEA)</a>. Universitat Politècnica de Catalunya. 2002.
+    <a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf">Abstract interpretation techniques for the verification of concurrent systems</a>. <br/><a href="https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain">Master of Advanced Studies (DEA)</a>. Universitat Politècnica de Catalunya. 2002.
   </dd>
   <dt>BSc Thesis </dt>
   <dd>
-    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-bsc-thesis.pdf">Entorn per optimització i generació de codi</a>. <br/>
+    <a href="https://robertclariso.github.io/docs/thesis/rclariso-bsc-thesis.pdf">Entorn per optimització i generació de codi</a>. <br/>
     <a href="https://www.fib.upc.edu/en/estudiar-enginyeria-informatica/enginyeries-pla-2003/EI.html">BSc in Computer Science</a>. Universitat Politècnica de Catalunya. 2000.</dd>
 </dl>
 
@@ -149,90 +149,137 @@ In. Proc. 22nd International Systems and Software Product Line Conference (SPLC'
 [Fixing defects in integrity constraints via constraint mutation](https://doi.org/10.1109/QUATIC.2018.00020).  
 In Proc. 11th International Conference on the Quality of Information and Communications Technology (QUATIC'2018), pp. 74-82, IEEE, 2018.
 
-7. Jesús Sánchez Cuadrado, Esther Guerra, Juan de Lara, Robert Clarisó, Jordi Cabot. [Translating target to source constraints in model-to-model transformations](https://www.computer.org/csdl/proceedings/models/2017/3492/00/3492a012-abs.html). In Proc. 20th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'2017), pp. 12--22, IEEE Computer Society, 2017.
+7. Jesús Sánchez Cuadrado, Esther Guerra, Juan de Lara, Robert Clarisó, Jordi Cabot.  
+[Translating target to source constraints in model-to-model transformations](https://www.computer.org/csdl/proceedings/models/2017/3492/00/3492a012-abs.html).  
+In Proc. 20th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'2017), pp. 12--22, IEEE Computer Society, 2017.
 
-8. David Bañeres, Santi Caballé, Robert Clarisó.
-[Towards a Learning Analytics Support for Intelligent Tutoring Systems on MOOC Platforms](https://doi.org/10.1109/CISIS.2016.48).
+8. David Bañeres, Santi Caballé, Robert Clarisó.  
+[Towards a Learning Analytics Support for Intelligent Tutoring Systems on MOOC Platforms](https://doi.org/10.1109/CISIS.2016.48).  
 In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.103--110, IEEE Computer Society, 2016.
 
-9. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.
-[Analysis and Design of an eLearning Platform Featuring Learning Analytics and Gamification](https://doi.org/10.1109/CISIS.2016.42).
+9. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
+[Analysis and Design of an eLearning Platform Featuring Learning Analytics and Gamification](https://doi.org/10.1109/CISIS.2016.42).  
 In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.87--94, IEEE Computer Society, 2016.
 
-10. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.
-(https://doi.org/10.1109/INCoS.2016.33)[A Prototype of an eLearning Platform in Support for Learning Analytics and Gamification].
+10. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
+(https://doi.org/10.1109/INCoS.2016.33)[A Prototype of an eLearning Platform in Support for Learning Analytics and Gamification].  
 International Conference on Intelligent Networking and Collaborative Systems (INCoS'2016), pp. 362--369, IEEE, 2016.
 
-11. Robert Clarisó, Carlos A. González, Jordi Cabot. [Towards domain refinement for UML/OCL bounded verification](http://dx.doi.org/10.1007/978-3-319-22969-0_8). In Proc. 13th Int. Conf. on Software Engineering and Formal Methods (SEFM'2015), pages 108-114, volume 9276 of LNCS, Springer, 2015.
+11. Robert Clarisó, Carlos A. González, Jordi Cabot.  
+[Towards domain refinement for UML/OCL bounded verification](http://dx.doi.org/10.1007/978-3-319-22969-0_8).  
+In Proc. 13th Int. Conf. on Software Engineering and Formal Methods (SEFM'2015), pages 108-114, volume 9276 of LNCS, Springer, 2015.
 
-12.	Asadullah Shaikh, Robert Clarisó, Uffe Kock Wiil, Nasrullah Memon. [Verification-driven slicing of UML/OCL Models](http://doi.acm.org/10.1145/1858996.1859038). In Proc. 25th IEEE/ACM Int. Conf. on Automated Software Engineering (ASE'2010), pages 185-194, ACM, 2010. 
+12.	Asadullah Shaikh, Robert Clarisó, Uffe Kock Wiil, Nasrullah Memon.  
+[Verification-driven slicing of UML/OCL Models](http://doi.acm.org/10.1145/1858996.1859038).  
+In Proc. 25th IEEE/ACM Int. Conf. on Automated Software Engineering (ASE'2010), pages 185-194, ACM, 2010. 
 
-13.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara. [Synthesis of OCL Pre-conditions for Graph Transformation Rules](http://dx.doi.org/10.1007/978-3-642-13688-7_4). In Proc. 3rd Int. Conf. on Model Transformation (ICMT'2010), volume 6142 of LNCS, pages 45-60, Springer-Verlag, 2010. 
+13.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
+[Synthesis of OCL Pre-conditions for Graph Transformation Rules](http://dx.doi.org/10.1007/978-3-642-13688-7_4).  
+In Proc. 3rd Int. Conf. on Model Transformation (ICMT'2010), volume 6142 of LNCS, pages 45-60, Springer-Verlag, 2010. 
 
-14.	Jordi Cabot, Robert Clarisó, Daniel Riera. [Verifying UML/OCL Operation Contracts](http://dx.doi.org/10.1007/978-3-642-00255-7_4). In Proc. 7th Int. Conf. on Integrated Formal methods (iFM'2009), volume 5423 of LNCS, pages 40-55, Springer-Verlag, February 2009. 
+14.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
+[Verifying UML/OCL Operation Contracts](http://dx.doi.org/10.1007/978-3-642-00255-7_4).  
+In Proc. 7th Int. Conf. on Integrated Formal methods (iFM'2009), volume 5423 of LNCS, pages 40-55, Springer-Verlag, February 2009. 
 
-15.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara. [An Invariant-Based Method for the Analysis of Declarative Model-to-Model Transformations](http://dx.doi.org/10.1007/978-3-540-87875-9_3). In Proc. 11th Int. Conf. on Model-Driven Engineering Languages and Systems (MODELS'2008), volume 5301 of LNCS, pages 37-52, Springer-Verlag, September 2008. 
+15.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
+[An Invariant-Based Method for the Analysis of Declarative Model-to-Model Transformations](http://dx.doi.org/10.1007/978-3-540-87875-9_3).  
+In Proc. 11th Int. Conf. on Model-Driven Engineering Languages and Systems (MODELS'2008), volume 5301 of LNCS, pages 37-52, Springer-Verlag, September 2008. 
 
-16.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara. [Analysing Graph Transformation Rules Through OCL](http://dx.doi.org/10.1007/978-3-540-69927-9_16). In Proc. Int. Conf. on Model Transformation (ICMT'2008), volume 5063 of LNCS, pages 225-239, Springer-Verlag, July 2008. 
+16.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
+[Analysing Graph Transformation Rules Through OCL](http://dx.doi.org/10.1007/978-3-540-69927-9_16).  
+In Proc. Int. Conf. on Model Transformation (ICMT'2008), volume 5063 of LNCS, pages 225-239, Springer-Verlag, July 2008. 
 
-17.	Jordi Cabot, Robert Clarisó, Daniel Riera. [UMLtoCSP: A Tool For the Formal Verification of UML/OCL Models Using Constraint Programming](http://doi.acm.org/10.1145/1321631.1321737). In Proc. 22nd ACM/IEEE Int. Conf. on Automated Software Engineering (ASE'2007), pages 547-548. November 2007. 
+17.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
+[UMLtoCSP: A Tool For the Formal Verification of UML/OCL Models Using Constraint Programming](http://doi.acm.org/10.1145/1321631.1321737).  
+In Proc. 22nd ACM/IEEE Int. Conf. on Automated Software Engineering (ASE'2007), pages 547-548. November 2007. 
 
-18.	Robert Clarisó and Jordi Cortadella. [Verification of Concurrent Systems with Parametric Delays Using Octahedra](http://doi.ieeecomputersociety.org/10.1109/ACSD.2005.34). In Proc. 5th Int. Conf. on Application of Concurrency to System Design (ACSD'2005), pages 122-131, IEEE Computer Society Press. 2005. 
+18.	Robert Clarisó and Jordi Cortadella.  
+[Verification of Concurrent Systems with Parametric Delays Using Octahedra](http://doi.ieeecomputersociety.org/10.1109/ACSD.2005.34).  
+In Proc. 5th Int. Conf. on Application of Concurrency to System Design (ACSD'2005), pages 122-131, IEEE Computer Society Press. 2005. 
 
-19.	Robert Clarisó, Enric Rodríguez-Carbonell and Jordi Cortadella. [Derivation of Non-structural Invariants of Petri Nets Using Abstract Interpretation](http://dx.doi.org/10.1007/11494744_12). In Proc. 26th Int. Conf. On Application and Theory of Petri Nets and Other Models of Concurrency (ICATPN'2005), volume 3536 of LNCS, pages 188-207, Springer-Verlag, 2005. 
+19.	Robert Clarisó, Enric Rodríguez-Carbonell and Jordi Cortadella.  
+[Derivation of Non-structural Invariants of Petri Nets Using Abstract Interpretation](http://dx.doi.org/10.1007/11494744_12).  
+In Proc. 26th Int. Conf. On Application and Theory of Petri Nets and Other Models of Concurrency (ICATPN'2005), volume 3536 of LNCS, pages 188-207, Springer-Verlag, 2005. 
 
-20.	Robert Clarisó and Jordi Cortadella. [The octahedron abstract domain](http://dx.doi.org/10.1007/978-3-540-27864-1_23). In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327. Springer-Verlag, 2004.
+20.	Robert Clarisó and Jordi Cortadella.  
+[The octahedron abstract domain](http://dx.doi.org/10.1007/978-3-540-27864-1_23).  
+In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327. Springer-Verlag, 2004.
 
 ---
 
 ## Workshops and national conferences
 
-1. Robert Clarisó, Martin Gogolla. [A Feasibility Study on Using Classifying Terms in Alloy](https://oclworkshop.github.io/2019/papers/OCL2019_paper_000.pdf). 19th International Workshop in OCL and Textual Modeling (OCL'20129), Munich, Germany.
+1. Robert Clarisó, Martin Gogolla.  
+[A Feasibility Study on Using Classifying Terms in Alloy](https://oclworkshop.github.io/2019/papers/OCL2019_paper_000.pdf).  
+19th International Workshop in OCL and Textual Modeling (OCL'20129), Munich, Germany.
 
-2. Javier Luis Cánovas-Izquierdo, Robert Clarisó, David Bañeres. [Una herramienta para la evaluación de debates en aulas virtuales](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=download&path%5B%5D=516&path%5B%5D=719). XXV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2019).
+2. Javier Luis Cánovas-Izquierdo, Robert Clarisó, David Bañeres.  
+[Una herramienta para la evaluación de debates en aulas virtuales](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=download&path%5B%5D=516&path%5B%5D=719).  
+XXV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2019).
 
-3. Loli Burgueño, Robert Clarisó, Jordi Cabot, Sébastien Gérard, Antonio Vallecillo. [Belief Uncertainty in Software Models](https://dl.acm.org/doi/10.1109/MiSE.2019.00011). In Proc. 11th Workshop on Modelling in Software Engineering (MiSE'2019) - co-located with ICSE'2019, 19--26. 
+3. Loli Burgueño, Robert Clarisó, Jordi Cabot, Sébastien Gérard, Antonio Vallecillo.  
+[Belief Uncertainty in Software Models](https://dl.acm.org/doi/10.1109/MiSE.2019.00011).  
+In Proc. 11th Workshop on Modelling in Software Engineering (MiSE'2019) - co-located with ICSE'2019, 19--26. 
 
-4. Robert Clarisó, Jordi Cabot.
-[Applying Graph Kernels to Model-Driven Engineering Problems](https://dx.doi.org/10.1145/3243127.3243128). In Proc. 1st International Workshop on Machine Learning and Software Engineering in Symbiosis (MASES'2018). ISBN: 978-1-4503-5972-6/18/09. ACM, New York.
+4. Robert Clarisó, Jordi Cabot.  
+[Applying Graph Kernels to Model-Driven Engineering Problems](https://dx.doi.org/10.1145/3243127.3243128).  
+In Proc. 1st International Workshop on Machine Learning and Software Engineering in Symbiosis (MASES'2018). ISBN: 978-1-4503-5972-6/18/09. ACM, New York.
 
-5. Jordi Cabot, Robert Clarisó, Marco Brambilla, Sébastién Gérard.
-[Cognifying Model-Driven Software Engineering](http://www.edusymp.org/Grand2017/en/programme/Jordi.pdf). In Proc. Workshop on Grand Challenges in Modeling 2017 (Grand'2017). 
+5. Jordi Cabot, Robert Clarisó, Marco Brambilla, Sébastién Gérard.  
+[Cognifying Model-Driven Software Engineering](http://www.edusymp.org/Grand2017/en/programme/Jordi.pdf).  
+In Proc. Workshop on Grand Challenges in Modeling 2017 (Grand'2017). 
 
-6. Robert Clarisó, Joan Arnedo-Moreno, David Bañeres, Santi Caballé, Jordi Conesa, David Gañán. [Gamification as a Service for Formative Assessment E-Learning Tools](https://riull.ull.es/xmlui/handle/915/4768). 
+6. Robert Clarisó, Joan Arnedo-Moreno, David Bañeres, Santi Caballé, Jordi Conesa, David Gañán.  
+[Gamification as a Service for Formative Assessment E-Learning Tools](https://riull.ull.es/xmlui/handle/915/4768).  
 In Proc. 1st Workshop on Gamification and Games for Learning (GamiLearn'2017). ISBN: 978-84-697-3570-1. 2017.
 
-7. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa. [Towards the Effective Software Development of an eLearning Platform Featuring Learning Analytics and Gamification](http://dx.doi.org/10.1109/WAINA.2016.7). In Proc. 4th Int. Workshop on Collaborative Enterprise Systems (COLLABES'2016) in conjunction with the 30th IEEE Int. Conf. on Advanced Information Networking and Applications (AINA'2016), March 23-25, 2016. Crans-Montana, Switzerland, pp. 177-182. IEEE Computer Society. ISBN: 978-1-5090-2461-2/16. **Best paper award**
+7. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
+[Towards the Effective Software Development of an eLearning Platform Featuring Learning Analytics and Gamification](http://dx.doi.org/10.1109/WAINA.2016.7).  
+In Proc. 4th Int. Workshop on Collaborative Enterprise Systems (COLLABES'2016) in conjunction with the 30th IEEE Int. Conf. on Advanced Information Networking and Applications (AINA'2016), March 23-25, 2016. Crans-Montana, Switzerland, pp. 177-182. IEEE Computer Society. ISBN: 978-1-5090-2461-2/16. **Best paper award**
 
-8. Anjali Sree-Kumar, Elena Planas, Robert Clarisó. [Analysis of Feature Models Using Alloy: A Survey](http://dx.doi.org/10.4204/EPTCS.206.5). In Julia Rubin and Thomas Thüm: Proc. 7th Int. Workshop on Formal Methods and Analysis in Software Product Line Engineering (FMSPLE 2016), Eindhoven, The Netherlands, April 3, 2016, Electronic Proceedings in Theoretical Computer Science 206, pp. 46--60. 
+8. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.  
+[Analysis of Feature Models Using Alloy: A Survey](http://dx.doi.org/10.4204/EPTCS.206.5).  
+In Julia Rubin and Thomas Thüm: Proc. 7th Int. Workshop on Formal Methods and Analysis in Software Product Line Engineering (FMSPLE 2016), Eindhoven, The Netherlands, April 3, 2016, Electronic Proceedings in Theoretical Computer Science 206, pp. 46--60. 
 
-9. Ignasi Colomina, Joan Arnedo-Moreno, Robert Clarisó.
-[A Study on Practices against Malware in Free Software Projects](https://doi.org/10.1109/WAINA.2013.245).
+9. Ignasi Colomina, Joan Arnedo-Moreno, Robert Clarisó.  
+[A Study on Practices against Malware in Free Software Projects](https://doi.org/10.1109/WAINA.2013.245).  
 In Proc. 9th International Symposium on Frontiers of Information Systems and Network Applications (FINA'2013) in conjuntion with the 27th International Conference on Advanced Information Networking and Applications (AINA'2013), pp. 1070--1075, 2013. 
 
-10. Carlos A. González, Fabian Büttner, Robert Clarisó, Jordi Cabot. [EMFtoCSP: a tool for the lightweight verification of EMF models](http://dx.doi.org/10.1109/FormSERA.2012.6229788). In Proc. 1st Int. Workshop on Formal Methods in Software Engineering - Rigorous and Agile Approaches (FormSERA), 44-50, IEEE, 2012.
+10. Carlos A. González, Fabian Büttner, Robert Clarisó, Jordi Cabot.  
+[EMFtoCSP: a tool for the lightweight verification of EMF models](http://dx.doi.org/10.1109/FormSERA.2012.6229788).  
+In Proc. 1st Int. Workshop on Formal Methods in Software Engineering - Rigorous and Agile Approaches (FormSERA), 44-50, IEEE, 2012.
 
-11. Salvador Sánchez-Alonso, Daniel Rodríguez-García, Robert Clarisó. [Comparing a fully online course to a blended one: the case of compilers](http://www.uoc.edu/webs/rclariso/_resources/documents/mcce09.pdf). In. Proc. 2nd Workshop on Methods and Cases in Computing Education (MCCE'09), 2009. 
+11. Salvador Sánchez-Alonso, Daniel Rodríguez-García, Robert Clarisó.  
+[Comparing a fully online course to a blended one: the case of compilers](http://www.uoc.edu/webs/rclariso/_resources/documents/mcce09.pdf).  
+In. Proc. 2nd Workshop on Methods and Cases in Computing Education (MCCE'09), 2009. 
 
-12. Jordi Cabot, Robert Clarisó.
-[UML/OCL Verification in Practice](http://gres.uoc.edu/pubs/ChaMDE08.pdf). In Proc. 1st International Workshop on Challenges in Model-Driven Software Engineering (ChaMDE'2008), 2008.
+12. Jordi Cabot, Robert Clarisó.  
+[UML/OCL Verification in Practice](http://gres.uoc.edu/pubs/ChaMDE08.pdf).  
+In Proc. 1st International Workshop on Challenges in Model-Driven Software Engineering (ChaMDE'2008), 2008.
 
-13. Jordi Cabot, Robert Clarisó, Daniel Riera. [Verification of UML/OCL Class Diagrams using Constraint Programming](https://doi.org/10.1109/ICSTW.2008.54). In Proc. ICST Workshop on Model Driven Engineering, Verification and Validation: Integrating Verification and Validation in MDE (MoDeVVa'2008), pp. 73--80, 2008.
+13. Jordi Cabot, Robert Clarisó, Daniel Riera.  
+[Verification of UML/OCL Class Diagrams using Constraint Programming](https://doi.org/10.1109/ICSTW.2008.54).  
+In Proc. ICST Workshop on Model Driven Engineering, Verification and Validation: Integrating Verification and Validation in MDE (MoDeVVa'2008), pp. 73--80, 2008.
 
-14. Jordi Cabot, Robert Clarisó, Patricia de la Fuente, Daniel Riera.
-[UMLtoCSP: Una herramienta para la verificación de modelos UML/OCL mediante Constraint Programming](https://unavailable). XII Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2007), pp. 385--386, 2007.
+14. Jordi Cabot, Robert Clarisó, Patricia de la Fuente, Daniel Riera.  
+[UMLtoCSP: Una herramienta para la verificación de modelos UML/OCL mediante Constraint Programming](https://unavailable).  
+XII Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2007), pp. 385--386, 2007.
 
-15. Robert Clarisó, Jordi Cortadella.
-[Verification of parametric timed circuits using octahedra](https://unavailable). In Proc. International Workshop on Designing Correct Circuits (DCC'04)}, 2004.
+15. Robert Clarisó, Jordi Cortadella.  
+[Verification of parametric timed circuits using octahedra](https://unavailable).  
+In Proc. International Workshop on Designing Correct Circuits (DCC'04)}, 2004.
 
-16. Robert Clarisó, Jordi Cortadella.
-[Verification of timed circuits with symbolic delays](https://unavailable). In Proc. of the 12th International Workshop on Logic and Synthesis (IWLS'03), pp. 310--317, 2003.
+16. Robert Clarisó, Jordi Cortadella.  
+[Verification of timed circuits with symbolic delays](https://unavailable).  
+In Proc. of the 12th International Workshop on Logic and Synthesis (IWLS'03), pp. 310--317, 2003.
 
-17. Robert Clarisó, Jordi Cortadella.
-[Symbolic timing analysis for the verification of asynchronous circuits](https://unavailable). In 3rd Workshop of the Working Group on Asynchronous Circuit Design (ACiD-WG'03), 2003.
+17. Robert Clarisó, Jordi Cortadella.  
+[Symbolic timing analysis for the verification of asynchronous circuits](https://unavailable).  
+In 3rd Workshop of the Working Group on Asynchronous Circuit Design (ACiD-WG'03), 2003.
 
-18. Robert Clarisó, Jordi Cortadella, Alex Kondratyev, Luciano Lavagno, Claudio Passerone and Yosinori Watanabe. 
-[Synthesis of embedded software for reactive systems](https://unavailable). In Proc. 2nd International Workshop on Integration of Specification Techniques for Applications in Engineering (INT'02), pp. 2--20, 2002.
+18. Robert Clarisó, Jordi Cortadella, Alex Kondratyev, Luciano Lavagno, Claudio Passerone and Yosinori Watanabe.  
+[Synthesis of embedded software for reactive systems](https://unavailable).  
+In Proc. 2nd International Workshop on Integration of Specification Techniques for Applications in Engineering (INT'02), pp. 2--20, 2002.
 
 ---
 
