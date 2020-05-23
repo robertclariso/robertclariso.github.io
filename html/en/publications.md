@@ -20,21 +20,21 @@
 
 <dl>
   <dt>
-    PhD Thesis - <a href="https://computing.phd.upc.edu/en">PhD in Computer Science</a> 
+    PhD Thesis  
   </dt>
   <dd>
-    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf">Abstract interpretation techniques for the verification of timed systems</a>. <br/>Universitat Politècnica de Catalunya. 2005.
+    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf">Abstract interpretation techniques for the verification of timed systems</a>. <br/><a href="https://computing.phd.upc.edu/en">PhD in Computer Science</a>. Universitat Politècnica de Catalunya. 2005.
   </dd>
   <dt>
-    MSc Thesis - <a href="https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain">Master of Advanced Studies (DEA)</a>
+    MSc Thesis  
   </dt>
   <dd>
-    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf">Abstract interpretation techniques for the verification of concurrent systems</a>. <br/>Universitat Politècnica de Catalunya. 2002.
+    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf">Abstract interpretation techniques for the verification of concurrent systems</a>. <br/><a href="https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain">Master of Advanced Studies (DEA)</a>. Universitat Politècnica de Catalunya. 2002.
   </dd>
-  <dt>BSc Thesis - <a href="https://www.fib.upc.edu/en/estudiar-enginyeria-informatica/enginyeries-pla-2003/EI.html">BSc in Computer Science</a></dt>
+  <dt>BSc Thesis </dt>
   <dd>
     Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-bsc-thesis.pdf">Entorn per optimització i generació de codi</a>. <br/>
-    Universitat Politècnica de Catalunya. 2000.</dd>
+    <a href="https://www.fib.upc.edu/en/estudiar-enginyeria-informatica/enginyeries-pla-2003/EI.html">BSc in Computer Science</a>. Universitat Politècnica de Catalunya. 2000.</dd>
 </dl>
 
 ---
@@ -112,6 +112,7 @@ ERCIM News, 99:29--30, 2014.
 5. Àngels Rius, Robert Clarisó, David Masip.  
 [Student projects empowering mobile learning in higher education](http://dx.doi.org/10.7238/rusc.v11i1.1901).  
 Universities and Knowledge Society Journal (RUSC), 11(1):192--207, 2014.
+
 6. Jordi Cabot, Robert Clarisó, Martin Gogolla, Burkhart Wolff.  
 [Preface to the Proceedings of the Workshop on OCL and Textual Modeling (OCL 2011)](http://journal.ub.tu-berlin.de/eceasst/article/viewFile/666/676).  
 Electronic Communications of the EASST, 44, 2011.
