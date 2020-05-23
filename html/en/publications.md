@@ -23,17 +23,17 @@
     PhD Thesis - <a href="https://computing.phd.upc.edu/en">PhD in Computer Science</a> 
   </dt>
   <dd>
-    Robert Clarisó. <br/><strong><a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf">Abstract interpretation techniques for the verification of timed systems</a></strong>. <br/>Universitat Politècnica de Catalunya. 2005.
+    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf">Abstract interpretation techniques for the verification of timed systems</a>. <br/>Universitat Politècnica de Catalunya. 2005.
   </dd>
   <dt>
     MSc Thesis - <a href="https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain">Master of Advanced Studies (DEA)</a>
   </dt>
   <dd>
-    Robert Clarisó. <br/><strong><a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf">Abstract interpretation techniques for the verification of concurrent systems</a></strong>. <br/>Universitat Politècnica de Catalunya. 2002.
+    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf">Abstract interpretation techniques for the verification of concurrent systems</a>. <br/>Universitat Politècnica de Catalunya. 2002.
   </dd>
   <dt>BSc Thesis - <a href="https://www.fib.upc.edu/en/estudiar-enginyeria-informatica/enginyeries-pla-2003/EI.html">BSc in Computer Science</a></dt>
   <dd>
-    Robert Clarisó. <br/><strong><a href="https://robertclariso.github.io/docs/thesis/rclariso-bsc-thesis.pdf">Entorn per optimització i generació de codi</a></strong>. <br/>
+    Robert Clarisó. <br/><a href="https://robertclariso.github.io/docs/thesis/rclariso-bsc-thesis.pdf">Entorn per optimització i generació de codi</a>. <br/>
     Universitat Politècnica de Catalunya. 2000.</dd>
 </dl>
 
@@ -42,7 +42,7 @@
 ## Books
 
 1. Santi Caballé, Robert Clarisó (editors).  
-**[Formative Assessment, Learning Data Analytics and Gamification in ICT Education](https://doi.org/10.1016/C2015-0-00087-9)**.  
+[Formative Assessment, Learning Data Analytics and Gamification in ICT Education](https://doi.org/10.1016/C2015-0-00087-9).  
 Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 978-0-12-803637-2
 
 ---
@@ -94,25 +94,30 @@ Fundamenta Informaticae, 78(1):1-33, 2007.
 ## Non-indexed Journals
 
 1. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
-**[Towards a Framework for Assessing IT Strategy Execution](https://www.mdpi.com/2073-431X/8/3/69/pdf)**.  
+[Towards a Framework for Assessing IT Strategy Execution](https://www.mdpi.com/2073-431X/8/3/69/pdf).  
 Computers, 8(69), 2019. DOI: 10.3390/computers8030069
-2. Davi Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres.   
-**[ICT-FLAG: A Web-based e-Assessment Platform Featuring Learning Analytics and Gamification](http://www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-12-2016-0074)**.  
+
+2. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres.   
+[ICT-FLAG: A Web-based e-Assessment Platform Featuring Learning Analytics and Gamification](http://www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-12-2016-0074).  
 International Journal of Web Information Systems, 13(1), 2017. DOI: 10.1108/IJWIS-12-2016-0074.
+
 3. Robert Clarisó, Maria Jesús Marco, Josep Maria Marco-Simó, Josep Prieto, Daniel Riera.  
-**[El Máster Universitario en Ingeniería Informática en un contexto no presencial](http://www.aenui.net/ojs/index.php?journal=revision&page=article&op=view&path%5B%5D=189)**.  
+[El Máster Universitario en Ingeniería Informática en un contexto no presencial](http://www.aenui.net/ojs/index.php?journal=revision&page=article&op=view&path%5B%5D=189).  
 ReVisión, 8(2), 2015.
+
 4. Jordi Cabot, Robert Clarisó.  
-**[Evaluating the Quality of Software Models using Light-weight Formal Methods](http://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods)**.  
+[Evaluating the Quality of Software Models using Light-weight Formal Methods](http://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods).  
 ERCIM News, 99:29--30, 2014.
+
 5. Àngels Rius, Robert Clarisó, David Masip.  
-**[Student projects empowering mobile learning in higher education](http://dx.doi.org/10.7238/rusc.v11i1.1901)**.  
+[Student projects empowering mobile learning in higher education](http://dx.doi.org/10.7238/rusc.v11i1.1901).  
 Universities and Knowledge Society Journal (RUSC), 11(1):192--207, 2014.
 6. Jordi Cabot, Robert Clarisó, Martin Gogolla, Burkhart Wolff.  
-**[Preface to the Proceedings of the Workshop on OCL and Textual Modeling (OCL 2011)](http://journal.ub.tu-berlin.de/eceasst/article/viewFile/666/676)**.  
+[Preface to the Proceedings of the Workshop on OCL and Textual Modeling (OCL 2011)](http://journal.ub.tu-berlin.de/eceasst/article/viewFile/666/676).  
 Electronic Communications of the EASST, 44, 2011.
+
 7. Davinia Hernández-Leo, Verónica Moreno Oliver, Irene Camps, Robert Clarisó, Alejandra Martínez-Monés, Maria Jesús Marco, Javier Melero.  
-**[Implementación de buenas prácticas en los Trabajos Fin de Grado](https://polipapers.upv.es/index.php/REDU/article/view/5556/5547)**.  
+[Implementación de buenas prácticas en los Trabajos Fin de Grado](https://polipapers.upv.es/index.php/REDU/article/view/5556/5547).  
 Revista de Docencia Universitaria, 11:269--278, 2013.
 
 ---
