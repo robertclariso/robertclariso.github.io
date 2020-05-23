@@ -125,34 +125,62 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 
 ## International conferences
 
-1. Robert Clarisó, Jordi Cabot.
-[Diverse scenario exploration in model finders using graph kernels and clustering](https://doi.org/10.1007/978-3-030-48077-6_3). 7th International Conference on Rigorous State Based Methods (ABZ'2020), Springer, to appear.
-2. Loli Burgueño, Jordi Cabot, Robert Clarisó, Martin Gogolla.
-[A Systematic Approach to Generate Diverse Instantiations for Conceptual Schemas](https://doi.org/10.1007/978-3-030-33223-5_42). In Proc. 38th International Conference on Conceptual Modeling (ER'2019), Lecture Notes in Computer Science, vol 11788, pp. 512--531, Springer.
-3. Mattia Gasparini, Javier Luis Cánovas-Izquierdo, Robert Clarisó, Marco Brambilla, Jordi Cabot. [Analyzing Rich-Club Behavior in Open Source Projects](https://doi.org/10.1145/3306446.3340825). In Proc. 15th International Symposium on Open Collaboration (OpenSym'2019), pp. 6:1--6:9.
-4. Jose-Ramon Rodríguez, Robert Clarisó, Josep Maria Marco-Simó. [Strategy in the making: Assessing the execution of a Strategic Information Systems Plan](https://doi.org/10.1007/978-3-030-11395-7_37). In Proc. European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS'2018), Lecture Notes in Business Information Processing, vol 341, pp. 475--488, Springer.
-5. Anjali Sree-Kumar, Elena Planas, Robert Clarisó. 
-[Extracting Software Product Line Feature Models from Natural Language Specifications](https://doi.org/10.1145/3233027.3233029). In. Proc. 22nd International Systems and Software Product Line Conference (SPLC'2018), Volume 1, pp. 43--53, ACM. 
-6. Robert Clarisó, Jordi Cabot. [Fixing defects in integrity constraints via constraint mutation](https://doi.org/10.1109/QUATIC.2018.00020). In Proc. 11th International Conference on the Quality of Information and Communications Technology (QUATIC'2018), pp. 74-82, IEEE, 2018.
+1. Robert Clarisó, Jordi Cabot.  
+[Diverse scenario exploration in model finders using graph kernels and clustering](https://doi.org/10.1007/978-3-030-48077-6_3).   
+7th International Conference on Rigorous State Based Methods (ABZ'2020), Springer, to appear.
+
+2. Loli Burgueño, Jordi Cabot, Robert Clarisó, Martin Gogolla.  
+[A Systematic Approach to Generate Diverse Instantiations for Conceptual Schemas](https://doi.org/10.1007/978-3-030-33223-5_42).  
+In Proc. 38th International Conference on Conceptual Modeling (ER'2019), Lecture Notes in Computer Science, vol 11788, pp. 512--531, Springer.
+
+3. Mattia Gasparini, Javier Luis Cánovas-Izquierdo, Robert Clarisó, Marco Brambilla, Jordi Cabot.  
+[Analyzing Rich-Club Behavior in Open Source Projects](https://doi.org/10.1145/3306446.3340825).  
+In Proc. 15th International Symposium on Open Collaboration (OpenSym'2019), pp. 6:1--6:9.
+
+4. Jose-Ramon Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
+[Strategy in the making: Assessing the execution of a Strategic Information Systems Plan](https://doi.org/10.1007/978-3-030-11395-7_37).  
+In Proc. European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS'2018), Lecture Notes in Business Information Processing, vol 341, pp. 475--488, Springer.
+
+5. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.   
+[Extracting Software Product Line Feature Models from Natural Language Specifications](https://doi.org/10.1145/3233027.3233029).  
+In. Proc. 22nd International Systems and Software Product Line Conference (SPLC'2018), Volume 1, pp. 43--53, ACM. 
+
+6. Robert Clarisó, Jordi Cabot.  
+[Fixing defects in integrity constraints via constraint mutation](https://doi.org/10.1109/QUATIC.2018.00020).  
+In Proc. 11th International Conference on the Quality of Information and Communications Technology (QUATIC'2018), pp. 74-82, IEEE, 2018.
+
 7. Jesús Sánchez Cuadrado, Esther Guerra, Juan de Lara, Robert Clarisó, Jordi Cabot. [Translating target to source constraints in model-to-model transformations](https://www.computer.org/csdl/proceedings/models/2017/3492/00/3492a012-abs.html). In Proc. 20th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'2017), pp. 12--22, IEEE Computer Society, 2017.
+
 8. David Bañeres, Santi Caballé, Robert Clarisó.
 [Towards a Learning Analytics Support for Intelligent Tutoring Systems on MOOC Platforms](https://doi.org/10.1109/CISIS.2016.48).
 In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.103--110, IEEE Computer Society, 2016.
+
 9. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.
 [Analysis and Design of an eLearning Platform Featuring Learning Analytics and Gamification](https://doi.org/10.1109/CISIS.2016.42).
 In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.87--94, IEEE Computer Society, 2016.
+
 10. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.
 (https://doi.org/10.1109/INCoS.2016.33)[A Prototype of an eLearning Platform in Support for Learning Analytics and Gamification].
 International Conference on Intelligent Networking and Collaborative Systems (INCoS'2016), pp. 362--369, IEEE, 2016.
+
 11. Robert Clarisó, Carlos A. González, Jordi Cabot. [Towards domain refinement for UML/OCL bounded verification](http://dx.doi.org/10.1007/978-3-319-22969-0_8). In Proc. 13th Int. Conf. on Software Engineering and Formal Methods (SEFM'2015), pages 108-114, volume 9276 of LNCS, Springer, 2015.
+
 12.	Asadullah Shaikh, Robert Clarisó, Uffe Kock Wiil, Nasrullah Memon. [Verification-driven slicing of UML/OCL Models](http://doi.acm.org/10.1145/1858996.1859038). In Proc. 25th IEEE/ACM Int. Conf. on Automated Software Engineering (ASE'2010), pages 185-194, ACM, 2010. 
+
 13.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara. [Synthesis of OCL Pre-conditions for Graph Transformation Rules](http://dx.doi.org/10.1007/978-3-642-13688-7_4). In Proc. 3rd Int. Conf. on Model Transformation (ICMT'2010), volume 6142 of LNCS, pages 45-60, Springer-Verlag, 2010. 
+
 14.	Jordi Cabot, Robert Clarisó, Daniel Riera. [Verifying UML/OCL Operation Contracts](http://dx.doi.org/10.1007/978-3-642-00255-7_4). In Proc. 7th Int. Conf. on Integrated Formal methods (iFM'2009), volume 5423 of LNCS, pages 40-55, Springer-Verlag, February 2009. 
+
 15.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara. [An Invariant-Based Method for the Analysis of Declarative Model-to-Model Transformations](http://dx.doi.org/10.1007/978-3-540-87875-9_3). In Proc. 11th Int. Conf. on Model-Driven Engineering Languages and Systems (MODELS'2008), volume 5301 of LNCS, pages 37-52, Springer-Verlag, September 2008. 
+
 16.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara. [Analysing Graph Transformation Rules Through OCL](http://dx.doi.org/10.1007/978-3-540-69927-9_16). In Proc. Int. Conf. on Model Transformation (ICMT'2008), volume 5063 of LNCS, pages 225-239, Springer-Verlag, July 2008. 
+
 17.	Jordi Cabot, Robert Clarisó, Daniel Riera. [UMLtoCSP: A Tool For the Formal Verification of UML/OCL Models Using Constraint Programming](http://doi.acm.org/10.1145/1321631.1321737). In Proc. 22nd ACM/IEEE Int. Conf. on Automated Software Engineering (ASE'2007), pages 547-548. November 2007. 
+
 18.	Robert Clarisó and Jordi Cortadella. [Verification of Concurrent Systems with Parametric Delays Using Octahedra](http://doi.ieeecomputersociety.org/10.1109/ACSD.2005.34). In Proc. 5th Int. Conf. on Application of Concurrency to System Design (ACSD'2005), pages 122-131, IEEE Computer Society Press. 2005. 
+
 19.	Robert Clarisó, Enric Rodríguez-Carbonell and Jordi Cortadella. [Derivation of Non-structural Invariants of Petri Nets Using Abstract Interpretation](http://dx.doi.org/10.1007/11494744_12). In Proc. 26th Int. Conf. On Application and Theory of Petri Nets and Other Models of Concurrency (ICATPN'2005), volume 3536 of LNCS, pages 188-207, Springer-Verlag, 2005. 
+
 20.	Robert Clarisó and Jordi Cortadella. [The octahedron abstract domain](http://dx.doi.org/10.1007/978-3-540-27864-1_23). In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327. Springer-Verlag, 2004.
 
 ---
@@ -211,8 +239,11 @@ In Proc. 9th International Symposium on Frontiers of Information Systems and Net
 ## Invited presentations
 
 1. Invited course: *Model-Driven Engineering meets Artificial Intelligence*. Postgraduate course at the [Facultad de Ingeniería](https://www.fing.edu.uy/) of the [Universidad de la República](http://www.universidad.edu.uy/). Montevideo, Uruguay. 08/04/2019-10/04/2019.
+
 2. Invited talk: *Máster en Ingeniería Informática: Una perspectiva online*. [Panel on "Desafíos de los Másteres en Ingeniería Informática"](http://jenui2015.uols.org/mesa_redonda). XXI Jornadas sobre la Enseñanza Universitaria de la Informática. Andorra la Vella, Andorra. 10/07/2015.
+
 3.	Invited talk: *Applying Constraint Programming to MDE problems*. AtlanMod research group. INRIA/LINA/École des Mines de Nantes, France. 14/12/2010.
+
 4.	Invited talk: *Verifying UML/OCL class diagrams*. Masters Course on "Formal Model-Driven Software Development". Escuela Politècnica Superior, Universidad Autónoma de Madrid, Spain. 09/12/2008.
 
 ---
@@ -220,6 +251,7 @@ In Proc. 9th International Symposium on Frontiers of Information Systems and Net
 ## Blogging
 
 - I am a regular collaborator in [Informática++](http://informatica.blogs.uoc.edu/), the technology blog at the IT, Multimedia and Telecommunications Department at UOC, which targets a general audience. [Here](http://informatica.blogs.uoc.edu/author/robert/) you can find a list of my posts.
+
 - I have also collaborated in [Crónicas del intangible](https://elpais.com/tecnologia/2018/01/16/actualidad/1516121401_534975.html), the computer science blog from [SISTEDES](https://sistedes.es) published in the digital version of the [El País](https://elpais.com/) newspaper.
 
 
