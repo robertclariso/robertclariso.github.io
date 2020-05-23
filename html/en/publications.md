@@ -200,4 +200,12 @@ In Proc. 9th International Symposium on Frontiers of Information Systems and Net
 3.	Invited talk: *Applying Constraint Programming to MDE problems*. AtlanMod research group. INRIA/LINA/École des Mines de Nantes, France. 14/12/2010.
 4.	Invited talk: *Verifying UML/OCL class diagrams*. Masters Course on "Formal Model-Driven Software Development". Escuela Politècnica Superior, Universidad Autónoma de Madrid, Spain. 09/12/2008.
 
+---
+
+## Blogging
+
+- I am a regular collaborator in [Informática++](http://informatica.blogs.uoc.edu/), the technology blog at the IT, Multimedia and Telecommunications Department at UOC, which targets a general audience. [Here](http://informatica.blogs.uoc.edu/author/robert/) you can find a list of my posts.
+- I have also collaborated in [Crónicas del intangible](https://elpais.com/tecnologia/2018/01/16/actualidad/1516121401_534975.html), the computer science blog from [SISTEDES](https://sistedes.es) published in the digital version of the [El País](https://elpais.com/) newspaper.
+
+
 
