@@ -27,13 +27,13 @@ FeatureX is implemented in Python and uses the [Natural Language Toolkit (NLTK)]
 
 I have participated in the organization of several scientific events:
 
-- [**OCL 2020**: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2020). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
-- [**OCL 2020**: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2018). Program co-chair with Dr. Achim Brucker and Dr. Hao Wu.
-- [**ECOOP 2017**: 31st European Conference on Object-Oriented Programming](http://2017.ecoop.org/). Student volunteer co-chair with Dr. Elvira Pino.
-- [**BPM 2017**: 15th Int. Conference on Business Process Management](https://bpm2017.cs.upc.edu/). Demo session co-chair with Dr. Henrik Leopold.
-- [**OCL 2011**: International Workshop on OCL and Textual Modeling](http://gres.uoc.edu/OCL2011/). Program co-chair with Dr. Jordi Cabot, Dr. Martin Gogolla and Dr. Burkhart Wolff
-- [**ER 2008**: 27th International Conference on Conceptual Modeling](https://web.archive.org/web/20080513043645/http://www.upc.edu/ER2008/). Member of the local organizing committe.
-- [**ETAPS 2004**: European Joint Conferences on Theory and Practice of Software](http://www.etaps.org/2004/}). Member of the local organizing committee.
+- [OCL'2020: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2020). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
+- [OCL'2020: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2018). Program co-chair with Dr. Achim Brucker and Dr. Hao Wu.
+- [ECOOP'2017: 31st European Conference on Object-Oriented Programming](http://2017.ecoop.org/). Student volunteer co-chair with Dr. Elvira Pino.
+- [BPM'2017: 15th Int. Conference on Business Process Management](https://bpm2017.cs.upc.edu/). Demo session co-chair with Dr. Henrik Leopold.
+- [OCL'2011: International Workshop on OCL and Textual Modeling](http://gres.uoc.edu/OCL2011/). Program co-chair with Dr. Jordi Cabot, Dr. Martin Gogolla and Dr. Burkhart Wolff
+- [ER'2008: 27th International Conference on Conceptual Modeling](https://web.archive.org/web/20080513043645/http://www.upc.edu/ER2008/). Member of the local organizing committe.
+- [ETAPS'2004: European Joint Conferences on Theory and Practice of Software](http://www.etaps.org/2004/}). Member of the local organizing committee.
 
 ## PC Member & Reviewer
 
