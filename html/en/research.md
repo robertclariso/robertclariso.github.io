@@ -2,6 +2,8 @@
 
 I am a member of the [SOM Research Lab](https://som-research.uoc.edu), an [ICREA](https://www.icrea.cat)-[UOC](https://www.uoc.edu) research group within the [Internet Interdisciplinary Institute (IN3)](https://in3.uoc.edu) at Universitat Oberta de Catalunya.
 
+---
+
 ## Research lines
 
 My research interests include:
@@ -10,6 +12,8 @@ My research interests include:
 - Tools for e-learning
 
 If you are looking for a **PhD advisor**, you can find a list of open research lines [here](https://www.uoc.edu/portal/en/escola-doctorat/linies-recerca/linies-nit/software-engineering/index.html). I supervise PhD thesis within the [Network and Information Technologies PhD Programme](http://studies.uoc.edu/web/estudia/en/doctoral-programmes/technologies-information-networks/presentation) at the [UOC Doctoral School](https://www.uoc.edu/portal/en/escola-doctorat/index.html). There is a yearly call for new candidates which opens around January-March, with a limited number of grants for exceptional candidates. If you are interested, please [get in touch](https://robertclariso.github.io).  
+
+---
 
 ## Research tools and software
 
@@ -23,6 +27,8 @@ UMLtoCSP is implemented in Java and uses the [ECLiPSe](http://eclipseclp.org/) c
 - **[FeatureX](https://github.com/5Quintessential/FeatureX):** A tool for the extraction of feature models of a software product line from a set of textual requirements. 
 FeatureX is implemented in Python and uses the [Natural Language Toolkit (NLTK)](https://www.nltk.org/) for the analysis of natural language text.
 
+---
+
 ## Scientific events
 
 I have participated in the organization of several scientific events:
@@ -34,6 +40,8 @@ I have participated in the organization of several scientific events:
 - [OCL'2011: International Workshop on OCL and Textual Modeling](http://gres.uoc.edu/OCL2011/). Program co-chair with Dr. Jordi Cabot, Dr. Martin Gogolla and Dr. Burkhart Wolff
 - [ER'2008: 27th International Conference on Conceptual Modeling](https://web.archive.org/web/20080513043645/http://www.upc.edu/ER2008/). Member of the local organizing committe.
 - [ETAPS'2004: European Joint Conferences on Theory and Practice of Software](http://www.etaps.org/2004/}). Member of the local organizing committee.
+
+---
 
 ## PC Member & Reviewer
 
