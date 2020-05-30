@@ -270,11 +270,13 @@ In Proc. 1st Workshop on Gamification and Games for Learning (GamiLearn'2017). I
 
 7. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
 [Towards the Effective Software Development of an eLearning Platform Featuring Learning Analytics and Gamification](http://dx.doi.org/10.1109/WAINA.2016.7).  
-In Proc. 4th Int. Workshop on Collaborative Enterprise Systems (COLLABES'2016) in conjunction with the 30th IEEE Int. Conf. on Advanced Information Networking and Applications (AINA'2016), March 23-25, 2016. Crans-Montana, Switzerland, pp. 177-182. IEEE Computer Society. ISBN: 978-1-5090-2461-2/16. **Best paper award**
+In Proc. 4th Int. Workshop on Collaborative Enterprise Systems (COLLABES'2016) in conjunction with the 30th IEEE Int. Conf. on Advanced Information Networking and Applications (AINA'2016), March 23-25, 2016. Crans-Montana, Switzerland, pp. 177-182. IEEE Computer Society. ISBN: 978-1-5090-2461-2/16. **Best paper award**  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/aina/JimenezCCC16)]
 
 8. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.  
 [Analysis of Feature Models Using Alloy: A Survey](http://dx.doi.org/10.4204/EPTCS.206.5).  
-In Julia Rubin and Thomas Thüm: Proc. 7th Int. Workshop on Formal Methods and Analysis in Software Product Line Engineering (FMSPLE 2016), Eindhoven, The Netherlands, April 3, 2016, Electronic Proceedings in Theoretical Computer Science 206, pp. 46--60. 
+In Julia Rubin and Thomas Thüm: Proc. 7th Int. Workshop on Formal Methods and Analysis in Software Product Line Engineering (FMSPLE 2016), Eindhoven, The Netherlands, April 3, 2016, Electronic Proceedings in Theoretical Computer Science 206, pp. 46--60.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/corr/Sree-KumarPC16)]
 
 9. Ignasi Colomina, Joan Arnedo-Moreno, Robert Clarisó.  
 [A Study on Practices against Malware in Free Software Projects](https://doi.org/10.1109/WAINA.2013.245).  
@@ -282,7 +284,8 @@ In Proc. 9th International Symposium on Frontiers of Information Systems and Net
 
 10. Carlos A. González, Fabian Büttner, Robert Clarisó, Jordi Cabot.  
 [EMFtoCSP: a tool for the lightweight verification of EMF models](http://dx.doi.org/10.1109/FormSERA.2012.6229788).  
-In Proc. 1st Int. Workshop on Formal Methods in Software Engineering - Rigorous and Agile Approaches (FormSERA), 44-50, IEEE, 2012.
+In Proc. 1st Int. Workshop on Formal Methods in Software Engineering - Rigorous and Agile Approaches (FormSERA), 44-50, IEEE, 2012.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/corr/Sree-KumarPC16)]
 
 11. Salvador Sánchez-Alonso, Daniel Rodríguez-García, Robert Clarisó.  
 [Comparing a fully online course to a blended one: the case of compilers](http://www.uoc.edu/webs/rclariso/_resources/documents/mcce09.pdf).  
