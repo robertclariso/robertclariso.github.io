@@ -283,7 +283,8 @@ In Julia Rubin and Thomas Thüm: Proc. 7th Int. Workshop on Formal Methods and A
 
 9. Ignasi Colomina, Joan Arnedo-Moreno, Robert Clarisó.  
 [A Study on Practices against Malware in Free Software Projects](https://doi.org/10.1109/WAINA.2013.245).  
-In Proc. 9th International Symposium on Frontiers of Information Systems and Network Applications (FINA'2013) in conjuntion with the 27th International Conference on Advanced Information Networking and Applications (AINA'2013), pp. 1070--1075, 2013. 
+In Proc. 9th International Symposium on Frontiers of Information Systems and Network Applications (FINA'2013) in conjuntion with the 27th International Conference on Advanced Information Networking and Applications (AINA'2013), pp. 1070--1075, 2013.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/aina/ColominaAC13)]
 
 10. Carlos A. González, Fabian Büttner, Robert Clarisó, Jordi Cabot.  
 [EMFtoCSP: a tool for the lightweight verification of EMF models](http://dx.doi.org/10.1109/FormSERA.2012.6229788).  
@@ -300,11 +301,13 @@ In Proc. 1st International Workshop on Challenges in Model-Driven Software Engin
 
 13. Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [Verification of UML/OCL Class Diagrams using Constraint Programming](https://doi.org/10.1109/ICSTW.2008.54).  
-In Proc. ICST Workshop on Model Driven Engineering, Verification and Validation: Integrating Verification and Validation in MDE (MoDeVVa'2008), pp. 73--80, 2008.
+In Proc. ICST Workshop on Model Driven Engineering, Verification and Validation: Integrating Verification and Validation in MDE (MoDeVVa'2008), pp. 73--80, 2008.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/icst/CabotCR08)]
 
 14. Jordi Cabot, Robert Clarisó, Patricia de la Fuente, Daniel Riera.  
 [UMLtoCSP: Una herramienta para la verificación de modelos UML/OCL mediante Constraint Programming](https://unavailable).  
-XII Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2007), pp. 385--386, 2007.
+XII Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2007), pp. 385--386, 2007.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/jisbd/CabotCFR07)]
 
 15. Robert Clarisó, Jordi Cortadella.  
 [Verification of parametric timed circuits using octahedra](https://unavailable).  
