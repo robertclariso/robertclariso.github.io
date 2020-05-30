@@ -206,12 +206,12 @@ In Proc. 3rd Int. Conf. on Model Transformation (ICMT'2010), volume 6142 of LNCS
 14.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [Verifying UML/OCL Operation Contracts](http://dx.doi.org/10.1007/978-3-642-00255-7_4).  
 In Proc. 7th Int. Conf. on Integrated Formal methods (iFM'2009), volume 5423 of LNCS, pages 40-55, Springer-Verlag, February 2009.  
-[[BibTex]()]
+[[BibTex](https://dblp.org/rec/bibtex/conf/ifm/CabotCR09)]
 
 15.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [An Invariant-Based Method for the Analysis of Declarative Model-to-Model Transformations](http://dx.doi.org/10.1007/978-3-540-87875-9_3).  
 In Proc. 11th Int. Conf. on Model-Driven Engineering Languages and Systems (MODELS'2008), volume 5301 of LNCS, pages 37-52, Springer-Verlag, September 2008.  
-[[BibTex](https://dblp.org/rec/bibtex/conf/ifm/CabotCR09)]
+[[BibTex](https://dblp.org/rec/bibtex/conf/models/CabotCGL08)]
 
 16.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [Analysing Graph Transformation Rules Through OCL](http://dx.doi.org/10.1007/978-3-540-69927-9_16).  
