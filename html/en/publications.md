@@ -252,15 +252,17 @@ XXV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2019).
 3. Loli Burgueño, Robert Clarisó, Jordi Cabot, Sébastien Gérard, Antonio Vallecillo.  
 [Belief Uncertainty in Software Models](https://dl.acm.org/doi/10.1109/MiSE.2019.00011).  
 In Proc. 11th Workshop on Modelling in Software Engineering (MiSE'2019) - co-located with ICSE'2019, 19--26.  
-[[https://dblp.org/rec/bibtex/conf/icse/BurguenoCCGV19](https://dblp.org/rec/bibtex/conf/icse/BurguenoCCGV19)]
+[[BibTeX](https://dblp.org/rec/bibtex/conf/icse/BurguenoCCGV19)]
 
 4. Robert Clarisó, Jordi Cabot.  
 [Applying Graph Kernels to Model-Driven Engineering Problems](https://dx.doi.org/10.1145/3243127.3243128).  
-In Proc. 1st International Workshop on Machine Learning and Software Engineering in Symbiosis (MASES'2018). ISBN: 978-1-4503-5972-6/18/09. ACM, New York.
+In Proc. 1st International Workshop on Machine Learning and Software Engineering in Symbiosis (MASES'2018). ISBN: 978-1-4503-5972-6/18/09. ACM, New York.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/kbse/ClarisoC18)]
 
 5. Jordi Cabot, Robert Clarisó, Marco Brambilla, Sébastién Gérard.  
 [Cognifying Model-Driven Software Engineering](http://www.edusymp.org/Grand2017/en/programme/Jordi.pdf).  
-In Proc. Workshop on Grand Challenges in Modeling 2017 (Grand'2017). 
+In Proc. Workshop on Grand Challenges in Modeling 2017 (Grand'2017).  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/staf/CabotC0G17)]
 
 6. Robert Clarisó, Joan Arnedo-Moreno, David Bañeres, Santi Caballé, Jordi Conesa, David Gañán.  
 [Gamification as a Service for Formative Assessment E-Learning Tools](https://riull.ull.es/xmlui/handle/915/4768).  
