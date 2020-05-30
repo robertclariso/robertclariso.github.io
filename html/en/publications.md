@@ -60,35 +60,43 @@ International Journal of Engineering Education, 35(1(A)):286--303, 2019.
 
 3. Athanasios Zolotas, Robert Clarisó, Nicholas Matragkas, Dimitrios S. Kolovos, Richard F. Paige.  
 [Constraint Programming for Type Inference in Flexible Model-Driven Engineering](http://dx.doi.org/10.1016/j.cl.2016.12.002).  
-Computer Languages, Systems & Structures, 49:216--230,  2017.
+Computer Languages, Systems & Structures, 49:216--230,  2017.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/cl/ZolotasCMKP17)]
 
 4. Robert Clarisó, Jordi Cabot, Esther Guerra, Juan de Lara.  
 [Backwards reasoning for model transformations: Method and applications](http://dx.doi.org/10.1016/j.jss.2015.08.017).  
-Journal of Systems and Software, 116:113--132, 2016.
+Journal of Systems and Software, 116:113--132, 2016.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/jss/ClarisoCGL16)]
 
 5.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [On the Verification of UML/OCL Class Diagrams Using Constraint Programming](http://dx.doi.org/10.1016/j.jss.2014.03.023).  
-Journal of Systems and Software, 93:1--23, 2014. 
+Journal of Systems and Software, 93:1--23, 2014.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/jss/CabotCR14)]
 
 6.	David Bañeres, Robert Clarisó, Josep Jorba, Montse Serra.  
 [Experiences in Digital Circuit Design Courses: A Self-Study Platform for Learning Support](http://dx.doi.org/10.1109/TLT.2014.2320919).  
-IEEE Transactions on Learning Technologies, 7(4):360-374, 2014. 
+IEEE Transactions on Learning Technologies, 7(4):360-374, 2014.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/tlt/BaneresCJS14)]
 
 7. Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [Verification and Validation of Declarative Model-to-Model Transformations Through Invariants](http://dx.doi.org/10.1016/j.jss.2009.08.012).  
-Journal of Systems and Software, 83(2): 283-302, 2010. 
+Journal of Systems and Software, 83(2): 283-302, 2010.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/jss/CabotCGL10)]
 
 8.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [A UML/OCL Framework for the Analysis of Graph Transformation Rules](http://dx.doi.org/10.1007/s10270-009-0129-0).  
-Software and Systems Modeling. 9(3): 335-357, 2010. 
+Software and Systems Modeling. 9(3): 335-357, 2010.  
+[[BibTex](https://dblp.org/rec/bibtex/journals/sosym/CabotCGL10)]
 
 9.	Robert Clarisó, Jordi Cortadella.  
 [The octahedron abstract domain](http://dx.doi.org/10.1016/j.scico.2006.03.009).  
-Science of Computer Programming, 64(1):115-139, 2007.
+Science of Computer Programming, 64(1):115-139, 2007.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/scp/ClarisoC07)]
 
 10. Robert Clarisó, Jordi Cortadella.  
 [Verification of Concurrent Systems with Parametric Delays using Octahedra](http://iospress.metapress.com/content/6304h65116152104/).  
-Fundamenta Informaticae, 78(1):1-33, 2007. 
+Fundamenta Informaticae, 78(1):1-33, 2007.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/fuin/ClarisoC07)]
 
 ---
 
@@ -139,7 +147,7 @@ In Proc. 38th International Conference on Conceptual Modeling (ER'2019), Lecture
 
 3. Mattia Gasparini, Javier Luis Cánovas-Izquierdo, Robert Clarisó, Marco Brambilla, Jordi Cabot.  
 [Analyzing Rich-Club Behavior in Open Source Projects](https://doi.org/10.1145/3306446.3340825).  
-In Proc. 15th International Symposium on Open Collaboration (OpenSym'2019), pp. 6:1--6:9.
+In Proc. 15th International Symposium on Open Collaboration (OpenSym'2019), pp. 6:1--6:9.  
 [[BibTeX](https://dblp.org/rec/bibtex/conf/wikis/GaspariniIC0C19)]
 
 4. Jose-Ramon Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
@@ -159,7 +167,8 @@ In Proc. 11th International Conference on the Quality of Information and Communi
 
 7. Jesús Sánchez Cuadrado, Esther Guerra, Juan de Lara, Robert Clarisó, Jordi Cabot.  
 [Translating target to source constraints in model-to-model transformations](https://www.computer.org/csdl/proceedings/models/2017/3492/00/3492a012-abs.html).  
-In Proc. 20th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'2017), pp. 12--22, IEEE Computer Society, 2017.
+In Proc. 20th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'2017), pp. 12--22, IEEE Computer Society, 2017.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/models/CuadradoGLCC17)]
 
 8. David Bañeres, Santi Caballé, Robert Clarisó.  
 [Towards a Learning Analytics Support for Intelligent Tutoring Systems on MOOC Platforms](https://doi.org/10.1109/CISIS.2016.48).  
