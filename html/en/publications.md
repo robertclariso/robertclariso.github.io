@@ -95,7 +95,8 @@ Fundamenta Informaticae, 78(1):1-33, 2007.
 
 1. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
 [Towards a Framework for Assessing IT Strategy Execution](https://www.mdpi.com/2073-431X/8/3/69/pdf).  
-Computers, 8(69), 2019. DOI: 10.3390/computers8030069
+Computers, 8(69), 2019. DOI: 10.3390/computers8030069  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/computers/RodriguezCM19)]
 
 2. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres.   
 [ICT-FLAG: A Web-based e-Assessment Platform Featuring Learning Analytics and Gamification](http://www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-12-2016-0074).  
@@ -127,7 +128,7 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 
 1. Robert Clarisó, Jordi Cabot.  
 [Diverse scenario exploration in model finders using graph kernels and clustering](https://doi.org/10.1007/978-3-030-48077-6_3).   
-7th International Conference on Rigorous State Based Methods (ABZ'2020), Springer, pp. 27--43.
+7th International Conference on Rigorous State Based Methods (ABZ'2020), Springer, pp. 27--43.  
 [[BibTeX](https://dblp.org/rec/bibtex/conf/asm/ClarisoC20)]
 
 2. Loli Burgueño, Jordi Cabot, Robert Clarisó, Martin Gogolla.  
