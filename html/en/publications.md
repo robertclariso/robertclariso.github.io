@@ -128,6 +128,7 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 1. Robert Clarisó, Jordi Cabot.  
 [Diverse scenario exploration in model finders using graph kernels and clustering](https://doi.org/10.1007/978-3-030-48077-6_3).   
 7th International Conference on Rigorous State Based Methods (ABZ'2020), Springer, pp. 27--43.
+[[BibTeX](https://dblp.org/rec/bibtex/conf/asm/ClarisoC20)]
 
 2. Loli Burgueño, Jordi Cabot, Robert Clarisó, Martin Gogolla.  
 [A Systematic Approach to Generate Diverse Instantiations for Conceptual Schemas](https://doi.org/10.1007/978-3-030-33223-5_42).  
