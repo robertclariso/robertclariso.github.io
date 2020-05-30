@@ -172,55 +172,69 @@ In Proc. 20th ACM/IEEE International Conference on Model Driven Engineering Lang
 
 8. David Bañeres, Santi Caballé, Robert Clarisó.  
 [Towards a Learning Analytics Support for Intelligent Tutoring Systems on MOOC Platforms](https://doi.org/10.1109/CISIS.2016.48).  
-In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.103--110, IEEE Computer Society, 2016.
+In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.103--110, IEEE Computer Society, 2016.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/cisis/BaneresCC16)]
 
 9. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
 [Analysis and Design of an eLearning Platform Featuring Learning Analytics and Gamification](https://doi.org/10.1109/CISIS.2016.42).  
-In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.87--94, IEEE Computer Society, 2016.
+In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.87--94, IEEE Computer Society, 2016.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/cisis/GananCCC16)]
 
 10. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
 [A Prototype of an eLearning Platform in Support for Learning Analytics and Gamification](https://doi.org/10.1109/INCoS.2016.33).  
-International Conference on Intelligent Networking and Collaborative Systems (INCoS'2016), pp. 362--369, IEEE, 2016.
+International Conference on Intelligent Networking and Collaborative Systems (INCoS'2016), pp. 362--369, IEEE, 2016.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/incos/GananCCC16)]
 
 11. Robert Clarisó, Carlos A. González, Jordi Cabot.  
 [Towards domain refinement for UML/OCL bounded verification](http://dx.doi.org/10.1007/978-3-319-22969-0_8).  
-In Proc. 13th Int. Conf. on Software Engineering and Formal Methods (SEFM'2015), pages 108-114, volume 9276 of LNCS, Springer, 2015.
+In Proc. 13th Int. Conf. on Software Engineering and Formal Methods (SEFM'2015), pages 108-114, volume 9276 of LNCS, Springer, 2015.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/sefm/ClarisoGC15)]
 
 12.	Asadullah Shaikh, Robert Clarisó, Uffe Kock Wiil, Nasrullah Memon.  
 [Verification-driven slicing of UML/OCL Models](http://doi.acm.org/10.1145/1858996.1859038).  
-In Proc. 25th IEEE/ACM Int. Conf. on Automated Software Engineering (ASE'2010), pages 185-194, ACM, 2010. 
+In Proc. 25th IEEE/ACM Int. Conf. on Automated Software Engineering (ASE'2010), pages 185-194, ACM, 2010.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/kbse/ShaikhCWM10)]
 
 13.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [Synthesis of OCL Pre-conditions for Graph Transformation Rules](http://dx.doi.org/10.1007/978-3-642-13688-7_4).  
-In Proc. 3rd Int. Conf. on Model Transformation (ICMT'2010), volume 6142 of LNCS, pages 45-60, Springer-Verlag, 2010. 
+In Proc. 3rd Int. Conf. on Model Transformation (ICMT'2010), volume 6142 of LNCS, pages 45-60, Springer-Verlag, 2010.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/icmt/CabotCGL10)]
 
 14.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [Verifying UML/OCL Operation Contracts](http://dx.doi.org/10.1007/978-3-642-00255-7_4).  
-In Proc. 7th Int. Conf. on Integrated Formal methods (iFM'2009), volume 5423 of LNCS, pages 40-55, Springer-Verlag, February 2009. 
+In Proc. 7th Int. Conf. on Integrated Formal methods (iFM'2009), volume 5423 of LNCS, pages 40-55, Springer-Verlag, February 2009.  
+[[BibTex]()]
 
 15.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [An Invariant-Based Method for the Analysis of Declarative Model-to-Model Transformations](http://dx.doi.org/10.1007/978-3-540-87875-9_3).  
-In Proc. 11th Int. Conf. on Model-Driven Engineering Languages and Systems (MODELS'2008), volume 5301 of LNCS, pages 37-52, Springer-Verlag, September 2008. 
+In Proc. 11th Int. Conf. on Model-Driven Engineering Languages and Systems (MODELS'2008), volume 5301 of LNCS, pages 37-52, Springer-Verlag, September 2008.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/ifm/CabotCR09)]
 
 16.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [Analysing Graph Transformation Rules Through OCL](http://dx.doi.org/10.1007/978-3-540-69927-9_16).  
-In Proc. Int. Conf. on Model Transformation (ICMT'2008), volume 5063 of LNCS, pages 225-239, Springer-Verlag, July 2008. 
+In Proc. Int. Conf. on Model Transformation (ICMT'2008), volume 5063 of LNCS, pages 225-239, Springer-Verlag, July 2008.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/icmt/CabotCGL08)]
 
 17.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [UMLtoCSP: A Tool For the Formal Verification of UML/OCL Models Using Constraint Programming](http://doi.acm.org/10.1145/1321631.1321737).  
-In Proc. 22nd ACM/IEEE Int. Conf. on Automated Software Engineering (ASE'2007), pages 547-548. November 2007. 
+In Proc. 22nd ACM/IEEE Int. Conf. on Automated Software Engineering (ASE'2007), pages 547-548. November 2007.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/kbse/CabotCR07)]
 
 18.	Robert Clarisó and Jordi Cortadella.  
 [Verification of Concurrent Systems with Parametric Delays Using Octahedra](http://doi.ieeecomputersociety.org/10.1109/ACSD.2005.34).  
-In Proc. 5th Int. Conf. on Application of Concurrency to System Design (ACSD'2005), pages 122-131, IEEE Computer Society Press. 2005. 
+In Proc. 5th Int. Conf. on Application of Concurrency to System Design (ACSD'2005), pages 122-131, IEEE Computer Society Press. 2005.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/acsd/ClarisoC05)]
 
 19.	Robert Clarisó, Enric Rodríguez-Carbonell and Jordi Cortadella.  
 [Derivation of Non-structural Invariants of Petri Nets Using Abstract Interpretation](http://dx.doi.org/10.1007/11494744_12).  
-In Proc. 26th Int. Conf. On Application and Theory of Petri Nets and Other Models of Concurrency (ICATPN'2005), volume 3536 of LNCS, pages 188-207, Springer-Verlag, 2005. 
+In Proc. 26th Int. Conf. On Application and Theory of Petri Nets and Other Models of Concurrency (ICATPN'2005), volume 3536 of LNCS, pages 188-207, Springer-Verlag, 2005.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/apn/ClarisoRC05)]
 
 20.	Robert Clarisó and Jordi Cortadella.  
 [The octahedron abstract domain](http://dx.doi.org/10.1007/978-3-540-27864-1_23).  
-In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327. Springer-Verlag, 2004.
+In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327. Springer-Verlag, 2004.  
+[[BibTex](https://dblp.org/rec/bibtex/conf/sas/ClarisoC04)]
+
 
 ---
 
