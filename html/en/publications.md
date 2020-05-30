@@ -51,7 +51,8 @@ Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 
 
 1. Robert Clarisó, Carlos A. González, Jordi Cabot.  
 [Smart Bound Selection for the Verification of UML/OCL Class Diagrams](http://dx.doi.org/10.1109/TSE.2017.2777830).  
-IEEE Transactions on Software Engineering, 45(4):412--426, 2019.
+IEEE Transactions on Software Engineering, 45(4):412--426, 2019.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/tse/ClarisoGC19)]
 
 2. David Bañeres, Robert Clarisó.  
 [Evaluation of a New Self-Study Platform for Introductory Digital Systems](https://www.ijee.ie/latestissues/Vol35-1A/25_ijee3717.pdf).   
@@ -133,7 +134,8 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 
 2. Loli Burgueño, Jordi Cabot, Robert Clarisó, Martin Gogolla.  
 [A Systematic Approach to Generate Diverse Instantiations for Conceptual Schemas](https://doi.org/10.1007/978-3-030-33223-5_42).  
-In Proc. 38th International Conference on Conceptual Modeling (ER'2019), Lecture Notes in Computer Science, vol 11788, pp. 512--531, Springer.
+In Proc. 38th International Conference on Conceptual Modeling (ER'2019), Lecture Notes in Computer Science, vol 11788, pp. 512--531, Springer.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/er/BurguenoCCG19)]
 
 3. Mattia Gasparini, Javier Luis Cánovas-Izquierdo, Robert Clarisó, Marco Brambilla, Jordi Cabot.  
 [Analyzing Rich-Club Behavior in Open Source Projects](https://doi.org/10.1145/3306446.3340825).  
@@ -213,7 +215,8 @@ In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327
 
 1. Robert Clarisó, Martin Gogolla.  
 [A Feasibility Study on Using Classifying Terms in Alloy](https://oclworkshop.github.io/2019/papers/OCL2019_paper_000.pdf).  
-19th International Workshop in OCL and Textual Modeling (OCL'20129), Munich, Germany.
+19th International Workshop in OCL and Textual Modeling (OCL'20129), Munich, Germany.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/models/ClarisoG19)]
 
 2. Javier Luis Cánovas-Izquierdo, Robert Clarisó, David Bañeres.  
 [Una herramienta para la evaluación de debates en aulas virtuales](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=download&path%5B%5D=516&path%5B%5D=719).  
@@ -221,7 +224,8 @@ XXV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2019).
 
 3. Loli Burgueño, Robert Clarisó, Jordi Cabot, Sébastien Gérard, Antonio Vallecillo.  
 [Belief Uncertainty in Software Models](https://dl.acm.org/doi/10.1109/MiSE.2019.00011).  
-In Proc. 11th Workshop on Modelling in Software Engineering (MiSE'2019) - co-located with ICSE'2019, 19--26. 
+In Proc. 11th Workshop on Modelling in Software Engineering (MiSE'2019) - co-located with ICSE'2019, 19--26.  
+[[https://dblp.org/rec/bibtex/conf/icse/BurguenoCCGV19](https://dblp.org/rec/bibtex/conf/icse/BurguenoCCGV19)]
 
 4. Robert Clarisó, Jordi Cabot.  
 [Applying Graph Kernels to Model-Driven Engineering Problems](https://dx.doi.org/10.1145/3243127.3243128).  
