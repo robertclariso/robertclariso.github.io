@@ -140,18 +140,22 @@ In Proc. 38th International Conference on Conceptual Modeling (ER'2019), Lecture
 3. Mattia Gasparini, Javier Luis Cánovas-Izquierdo, Robert Clarisó, Marco Brambilla, Jordi Cabot.  
 [Analyzing Rich-Club Behavior in Open Source Projects](https://doi.org/10.1145/3306446.3340825).  
 In Proc. 15th International Symposium on Open Collaboration (OpenSym'2019), pp. 6:1--6:9.
+[[BibTeX](https://dblp.org/rec/bibtex/conf/wikis/GaspariniIC0C19)]
 
 4. Jose-Ramon Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
 [Strategy in the making: Assessing the execution of a Strategic Information Systems Plan](https://doi.org/10.1007/978-3-030-11395-7_37).  
-In Proc. European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS'2018), Lecture Notes in Business Information Processing, vol 341, pp. 475--488, Springer.
+In Proc. European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS'2018), Lecture Notes in Business Information Processing, vol 341, pp. 475--488, Springer.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/emcis/RodriguezCM18)]
 
 5. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.   
 [Extracting Software Product Line Feature Models from Natural Language Specifications](https://doi.org/10.1145/3233027.3233029).  
-In. Proc. 22nd International Systems and Software Product Line Conference (SPLC'2018), Volume 1, pp. 43--53, ACM. 
+In. Proc. 22nd International Systems and Software Product Line Conference (SPLC'2018), Volume 1, pp. 43--53, ACM.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/splc/Sree-KumarPC18)]
 
 6. Robert Clarisó, Jordi Cabot.  
 [Fixing defects in integrity constraints via constraint mutation](https://doi.org/10.1109/QUATIC.2018.00020).  
-In Proc. 11th International Conference on the Quality of Information and Communications Technology (QUATIC'2018), pp. 74-82, IEEE, 2018.
+In Proc. 11th International Conference on the Quality of Information and Communications Technology (QUATIC'2018), pp. 74-82, IEEE, 2018.  
+[[BibTeX](https://dblp.org/rec/bibtex/conf/quatic/ClarisoC18)]
 
 7. Jesús Sánchez Cuadrado, Esther Guerra, Juan de Lara, Robert Clarisó, Jordi Cabot.  
 [Translating target to source constraints in model-to-model transformations](https://www.computer.org/csdl/proceedings/models/2017/3492/00/3492a012-abs.html).  
