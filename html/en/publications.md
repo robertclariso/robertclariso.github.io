@@ -109,7 +109,8 @@ Computers, 8(69), 2019. DOI: 10.3390/computers8030069
 
 2. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres.   
 [ICT-FLAG: A Web-based e-Assessment Platform Featuring Learning Analytics and Gamification](http://www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-12-2016-0074).  
-International Journal of Web Information Systems, 13(1), 2017. DOI: 10.1108/IJWIS-12-2016-0074.
+International Journal of Web Information Systems, 13(1), 2017. DOI: 10.1108/IJWIS-12-2016-0074.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/ijwis/GananCCCB17)]
 
 3. Robert Clarisó, Maria Jesús Marco, Josep Maria Marco-Simó, Josep Prieto, Daniel Riera.  
 [El Máster Universitario en Ingeniería Informática en un contexto no presencial](http://www.aenui.net/ojs/index.php?journal=revision&page=article&op=view&path%5B%5D=189).  
@@ -117,7 +118,8 @@ ReVisión, 8(2), 2015.
 
 4. Jordi Cabot, Robert Clarisó.  
 [Evaluating the Quality of Software Models using Light-weight Formal Methods](http://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods).  
-ERCIM News, 99:29--30, 2014.
+ERCIM News, 99:29--30, 2014.  
+[[BibTeX](https://dblp.org/rec/bibtex/journals/ercim/CabotC14)]
 
 5. Àngels Rius, Robert Clarisó, David Masip.  
 [Student projects empowering mobile learning in higher education](http://dx.doi.org/10.7238/rusc.v11i1.1901).  
@@ -125,7 +127,8 @@ Universities and Knowledge Society Journal (RUSC), 11(1):192--207, 2014.
 
 6. Jordi Cabot, Robert Clarisó, Martin Gogolla, Burkhart Wolff.  
 [Preface to the Proceedings of the Workshop on OCL and Textual Modeling (OCL 2011)](http://journal.ub.tu-berlin.de/eceasst/article/viewFile/666/676).  
-Electronic Communications of the EASST, 44, 2011.
+Electronic Communications of the EASST, 44, 2011.  
+[[BibTex](https://dblp.org/rec/bibtex/journals/eceasst/CabotCGW11)]
 
 7. Davinia Hernández-Leo, Verónica Moreno Oliver, Irene Camps, Robert Clarisó, Alejandra Martínez-Monés, Maria Jesús Marco, Javier Melero.  
 [Implementación de buenas prácticas en los Trabajos Fin de Grado](https://polipapers.upv.es/index.php/REDU/article/view/5556/5547).  
