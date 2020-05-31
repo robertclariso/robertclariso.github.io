@@ -289,7 +289,7 @@ In Proc. 9th International Symposium on Frontiers of Information Systems and Net
 10. Carlos A. González, Fabian Büttner, Robert Clarisó, Jordi Cabot.  
 [EMFtoCSP: a tool for the lightweight verification of EMF models](http://dx.doi.org/10.1109/FormSERA.2012.6229788).  
 In Proc. 1st Int. Workshop on Formal Methods in Software Engineering - Rigorous and Agile Approaches (FormSERA), 44-50, IEEE, 2012.  
-[[BibTeX](https://dblp.org/rec/bibtex/journals/corr/Sree-KumarPC16)]
+[[BibTeX](https://dblp.org/rec/bibtex/conf/icse/GonzalezBCC12)]
 
 11. Salvador Sánchez-Alonso, Daniel Rodríguez-García, Robert Clarisó.  
 [Comparing a fully online course to a blended one: the case of compilers](http://www.uoc.edu/webs/rclariso/_resources/documents/mcce09.pdf).  
