@@ -297,7 +297,8 @@ In. Proc. 2nd Workshop on Methods and Cases in Computing Education (MCCE'09), 20
 
 12. Jordi Cabot, Robert Clarisó.  
 [UML/OCL Verification in Practice](http://gres.uoc.edu/pubs/ChaMDE08.pdf).  
-In Proc. 1st International Workshop on Challenges in Model-Driven Software Engineering (ChaMDE'2008), 2008.
+In Proc. 1st International Workshop on Challenges in Model-Driven Software Engineering (ChaMDE'2008), 2008.  
+[[Preprint PDF](http://gres.uoc.edu/pubs/ChaMDE08.pdf)]
 
 13. Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [Verification of UML/OCL Class Diagrams using Constraint Programming](https://doi.org/10.1109/ICSTW.2008.54).  
