@@ -25,7 +25,7 @@
   <dd>
     <a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf">Abstract interpretation techniques for the verification of timed systems</a>. <br/><a href="https://computing.phd.upc.edu/en">PhD in Computer Science</a>. Universitat Politècnica de Catalunya. 2005.<br/>
     <a href="https://robertclariso.github.io/docs/bibtex/phdthesis.bib"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
-    <a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+    <a href="https://robertclariso.github.io/docs/thesis/rclariso-phd-thesis.pdf"><img src="https://robertclariso.github.io/img/pdf.svg" height="30" alt="PDF preprint"></a>
   </dd>
   <dt>
     MSc Thesis  
@@ -34,7 +34,7 @@
     <a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf">Abstract interpretation techniques for the verification of concurrent systems</a>. <br/>
     <a href="https://en.wikipedia.org/wiki/Master_of_Advanced_Studies#Spain">Master of Advanced Studies (DEA)</a>. Universitat Politècnica de Catalunya. 2002.<br/>
     <a href="https://robertclariso.github.io/docs/bibtex/masterthesis.bib"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
-    <a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+    <a href="https://robertclariso.github.io/docs/thesis/rclariso-msc-thesis.pdf"><img src="https://robertclariso.github.io/img/pdf.svg" height="30" alt="PDF preprint"></a>
   </dd>
   <dt>BSc Thesis </dt>
   <dd>
