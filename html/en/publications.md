@@ -66,47 +66,57 @@ IEEE Transactions on Software Engineering, 45(4):412--426, 2019.
 
 2. David Bañeres, Robert Clarisó.  
 [Evaluation of a New Self-Study Platform for Introductory Digital Systems](https://www.ijee.ie/latestissues/Vol35-1A/25_ijee3717.pdf).   
-International Journal of Engineering Education, 35(1(A)):286--303, 2019.
+International Journal of Engineering Education, 35(1(A)):286--303, 2019.  
+<a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 3. Athanasios Zolotas, Robert Clarisó, Nicholas Matragkas, Dimitrios S. Kolovos, Richard F. Paige.  
 [Constraint Programming for Type Inference in Flexible Model-Driven Engineering](http://dx.doi.org/10.1016/j.cl.2016.12.002).  
 Computer Languages, Systems & Structures, 49:216--230,  2017.  
-[[BibTeX](https://dblp.org/rec/bibtex/journals/cl/ZolotasCMKP17)]
+<a href="https://dblp.org/rec/bibtex/journals/cl/ZolotasCMKP17"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 4. Robert Clarisó, Jordi Cabot, Esther Guerra, Juan de Lara.  
 [Backwards reasoning for model transformations: Method and applications](http://dx.doi.org/10.1016/j.jss.2015.08.017).  
 Journal of Systems and Software, 116:113--132, 2016.  
-[[BibTeX](https://dblp.org/rec/bibtex/journals/jss/ClarisoCGL16)]
+<a href="https://dblp.org/rec/bibtex/journals/jss/ClarisoCGL16"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 5.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [On the Verification of UML/OCL Class Diagrams Using Constraint Programming](http://dx.doi.org/10.1016/j.jss.2014.03.023).  
 Journal of Systems and Software, 93:1--23, 2014.  
-[[BibTeX](https://dblp.org/rec/bibtex/journals/jss/CabotCR14)]
+<a href="https://dblp.org/rec/bibtex/journals/jss/CabotCR14"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 6.	David Bañeres, Robert Clarisó, Josep Jorba, Montse Serra.  
 [Experiences in Digital Circuit Design Courses: A Self-Study Platform for Learning Support](http://dx.doi.org/10.1109/TLT.2014.2320919).  
 IEEE Transactions on Learning Technologies, 7(4):360-374, 2014.  
-[[BibTeX](https://dblp.org/rec/bibtex/journals/tlt/BaneresCJS14)]
+<a href="https://dblp.org/rec/bibtex/journals/tlt/BaneresCJS14"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 7. Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [Verification and Validation of Declarative Model-to-Model Transformations Through Invariants](http://dx.doi.org/10.1016/j.jss.2009.08.012).  
 Journal of Systems and Software, 83(2): 283-302, 2010.  
-[[BibTeX](https://dblp.org/rec/bibtex/journals/jss/CabotCGL10)]
+<a href="https://dblp.org/rec/bibtex/journals/jss/CabotCGL10"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 8.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [A UML/OCL Framework for the Analysis of Graph Transformation Rules](http://dx.doi.org/10.1007/s10270-009-0129-0).  
 Software and Systems Modeling. 9(3): 335-357, 2010.  
-[[BibTex](https://dblp.org/rec/bibtex/journals/sosym/CabotCGL10)]
+<a href="https://dblp.org/rec/bibtex/journals/sosym/CabotCGL10"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 9.	Robert Clarisó, Jordi Cortadella.  
 [The octahedron abstract domain](http://dx.doi.org/10.1016/j.scico.2006.03.009).  
 Science of Computer Programming, 64(1):115-139, 2007.  
-[[BibTeX](https://dblp.org/rec/bibtex/journals/scp/ClarisoC07)]
+<a href="https://dblp.org/rec/bibtex/journals/scp/ClarisoC07"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 10. Robert Clarisó, Jordi Cortadella.  
 [Verification of Concurrent Systems with Parametric Delays using Octahedra](http://iospress.metapress.com/content/6304h65116152104/).  
 Fundamenta Informaticae, 78(1):1-33, 2007.  
-[[BibTeX](https://dblp.org/rec/bibtex/journals/fuin/ClarisoC07)]
+<a href="https://dblp.org/rec/bibtex/journals/fuin/ClarisoC07"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 ---
 
