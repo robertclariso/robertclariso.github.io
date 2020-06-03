@@ -67,7 +67,7 @@ IEEE Transactions on Software Engineering, 45(4):412--426, 2019.
 2. David Bañeres, Robert Clarisó.  
 [Evaluation of a New Self-Study Platform for Introductory Digital Systems](https://www.ijee.ie/latestissues/Vol35-1A/25_ijee3717.pdf).   
 International Journal of Engineering Education, 35(1(A)):286--303, 2019.  
-<a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="https://robertclariso.github.io/docs/bibtex/baneres2019evaluation.bib"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 3. Athanasios Zolotas, Robert Clarisó, Nicholas Matragkas, Dimitrios S. Kolovos, Richard F. Paige.  
