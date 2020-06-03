@@ -58,7 +58,7 @@ Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 
 [Smart Bound Selection for the Verification of UML/OCL Class Diagrams](http://dx.doi.org/10.1109/TSE.2017.2777830).  
 IEEE Transactions on Software Engineering, 45(4):412--426, 2019.  
 <a href="https://dblp.org/rec/bibtex/journals/tse/ClarisoGC19"><img src="https://robertclariso.github.io/img/bibtex.png" height="30"></a>
-<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30"><</a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30"></a>
 
 2. David Bañeres, Robert Clarisó.  
 [Evaluation of a New Self-Study Platform for Introductory Digital Systems](https://www.ijee.ie/latestissues/Vol35-1A/25_ijee3717.pdf).   
