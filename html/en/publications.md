@@ -124,7 +124,7 @@ Fundamenta Informaticae, 78(1):1-33, 2007.
 
 1. Robert Clarisó, Carlos A. González, Jordi Cabot.  
 [Incremental verification of UML/OCL models](https://to-appear)
-Journal of Object Technology, 2020. To appear.
+Journal of Object Technology, 2020. To appear.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
