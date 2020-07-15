@@ -122,43 +122,49 @@ Fundamenta Informaticae, 78(1):1-33, 2007.
 
 ## Non-indexed Journals
 
-1. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
+1. Robert Clarisó, Carlos A. González, Jordi Cabot.  
+[Incremental verification of UML/OCL models](https://to-appear)
+Journal of Object Technology, 2020. To appear.
+<a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+
+2. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
 [Towards a Framework for Assessing IT Strategy Execution](https://www.mdpi.com/2073-431X/8/3/69/pdf).  
 Computers, 8(69), 2019. DOI: 10.3390/computers8030069  
 <a href="https://dblp.org/rec/bibtex/journals/computers/RodriguezCM19"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-2. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres.   
+3. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres.   
 [ICT-FLAG: A Web-based e-Assessment Platform Featuring Learning Analytics and Gamification](http://www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-12-2016-0074).  
 International Journal of Web Information Systems, 13(1), 2017. DOI: 10.1108/IJWIS-12-2016-0074.  
 <a href="https://dblp.org/rec/bibtex/journals/ijwis/GananCCCB17"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-3. Robert Clarisó, Maria Jesús Marco, Josep Maria Marco-Simó, Josep Prieto, Daniel Riera.  
+4. Robert Clarisó, Maria Jesús Marco, Josep Maria Marco-Simó, Josep Prieto, Daniel Riera.  
 [El Máster Universitario en Ingeniería Informática en un contexto no presencial](http://www.aenui.net/ojs/index.php?journal=revision&page=article&op=view&path%5B%5D=189).  
 ReVisión, 8(2), 2015.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="http://www.aenui.net/ojs/index.php?journal=revision&page=article&op=view&path%5B%5D=189&path%5B%5D=308"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-4. Jordi Cabot, Robert Clarisó.  
+5. Jordi Cabot, Robert Clarisó.  
 [Evaluating the Quality of Software Models using Light-weight Formal Methods](http://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods).  
 ERCIM News, 99:29--30, 2014.  
 <a href="https://dblp.org/rec/bibtex/journals/ercim/CabotC14"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-5. Àngels Rius, Robert Clarisó, David Masip.  
+6. Àngels Rius, Robert Clarisó, David Masip.  
 [Student projects empowering mobile learning in higher education](http://dx.doi.org/10.7238/rusc.v11i1.1901).  
 Universities and Knowledge Society Journal (RUSC), 11(1):192--207, 2014.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="http://rusc.uoc.edu/rusc/ca/index.php/rusc/article/view/v11n1-rius-clariso-masip/v11n1-rius-clariso-masip-en.html"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-6. Jordi Cabot, Robert Clarisó, Martin Gogolla, Burkhart Wolff.  
+7. Jordi Cabot, Robert Clarisó, Martin Gogolla, Burkhart Wolff.  
 [Preface to the Proceedings of the Workshop on OCL and Textual Modeling (OCL 2011)](http://journal.ub.tu-berlin.de/eceasst/article/viewFile/666/676).  
 Electronic Communications of the EASST, 44, 2011.  
 <a href="https://dblp.org/rec/bibtex/journals/eceasst/CabotCGW11"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://journal.ub.tu-berlin.de/eceasst/article/viewFile/666/676"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-7. Davinia Hernández-Leo, Verónica Moreno Oliver, Irene Camps, Robert Clarisó, Alejandra Martínez-Monés, Maria Jesús Marco, Javier Melero.  
+8. Davinia Hernández-Leo, Verónica Moreno Oliver, Irene Camps, Robert Clarisó, Alejandra Martínez-Monés, Maria Jesús Marco, Javier Melero.  
 [Implementación de buenas prácticas en los Trabajos Fin de Grado](https://polipapers.upv.es/index.php/REDU/article/view/5556/5547).  
 Revista de Docencia Universitaria, 11:269--278, 2013.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
