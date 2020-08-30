@@ -193,7 +193,7 @@ In Proc. 38th International Conference on Conceptual Modeling (ER'2019), Lecture
 
 4. Mattia Gasparini, Javier Luis Cánovas-Izquierdo, Robert Clarisó, Marco Brambilla, Jordi Cabot.  
 [Analyzing Rich-Club Behavior in Open Source Projects](https://doi.org/10.1145/3306446.3340825).  
-In Proc. 15th International Symposium on Open Collaboration (OpenSym'2019), pp. 6:1--6:9.
+In Proc. 15th International Symposium on Open Collaboration (OpenSym'2019), pp. 6:1--6:9.  
 <a href="https://dblp.org/rec/bibtex/conf/wikis/GaspariniIC0C19"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 5. Jose-Ramon Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
@@ -288,7 +288,8 @@ In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327
 1. Robert Clarisó, Martin Gogolla.  
 [A Feasibility Study on Using Classifying Terms in Alloy](https://oclworkshop.github.io/2019/papers/OCL2019_paper_000.pdf).  
 19th International Workshop in OCL and Textual Modeling (OCL'20129), Munich, Germany.  
-[[BibTeX](https://dblp.org/rec/bibtex/conf/models/ClarisoG19)]
+<a href="https://dblp.org/rec/bibtex/conf/models/ClarisoG19"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="https://oclworkshop.github.io/2019/papers/OCL2019_paper_000.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 2. Javier Luis Cánovas-Izquierdo, Robert Clarisó, David Bañeres.  
 [Una herramienta para la evaluación de debates en aulas virtuales](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=download&path%5B%5D=516&path%5B%5D=719).  
@@ -297,17 +298,18 @@ XXV Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2019).
 3. Loli Burgueño, Robert Clarisó, Jordi Cabot, Sébastien Gérard, Antonio Vallecillo.  
 [Belief Uncertainty in Software Models](https://dl.acm.org/doi/10.1109/MiSE.2019.00011).  
 In Proc. 11th Workshop on Modelling in Software Engineering (MiSE'2019) - co-located with ICSE'2019, 19--26.  
-[[BibTeX](https://dblp.org/rec/bibtex/conf/icse/BurguenoCCGV19)]
+<a href="https://dblp.org/rec/bibtex/conf/icse/BurguenoCCGV19"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 4. Robert Clarisó, Jordi Cabot.  
 [Applying Graph Kernels to Model-Driven Engineering Problems](https://dx.doi.org/10.1145/3243127.3243128).  
 In Proc. 1st International Workshop on Machine Learning and Software Engineering in Symbiosis (MASES'2018). ISBN: 978-1-4503-5972-6/18/09. ACM, New York.  
-[[BibTeX](https://dblp.org/rec/bibtex/conf/kbse/ClarisoC18)]
+<a href="https://dblp.org/rec/bibtex/conf/kbse/ClarisoC18"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 5. Jordi Cabot, Robert Clarisó, Marco Brambilla, Sébastién Gérard.  
 [Cognifying Model-Driven Software Engineering](http://www.edusymp.org/Grand2017/en/programme/Jordi.pdf).  
 In Proc. Workshop on Grand Challenges in Modeling 2017 (Grand'2017).  
-[[BibTeX](https://dblp.org/rec/bibtex/conf/staf/CabotC0G17)]
+<a href="https://dblp.org/rec/bibtex/conf/staf/CabotC0G17"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="http://www.edusymp.org/Grand2017/en/programme/Jordi.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 6. Robert Clarisó, Joan Arnedo-Moreno, David Bañeres, Santi Caballé, Jordi Conesa, David Gañán.  
 [Gamification as a Service for Formative Assessment E-Learning Tools](https://riull.ull.es/xmlui/handle/915/4768).  
@@ -316,41 +318,42 @@ In Proc. 1st Workshop on Gamification and Games for Learning (GamiLearn'2017). I
 7. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
 [Towards the Effective Software Development of an eLearning Platform Featuring Learning Analytics and Gamification](http://dx.doi.org/10.1109/WAINA.2016.7).  
 In Proc. 4th Int. Workshop on Collaborative Enterprise Systems (COLLABES'2016) in conjunction with the 30th IEEE Int. Conf. on Advanced Information Networking and Applications (AINA'2016), March 23-25, 2016. Crans-Montana, Switzerland, pp. 177-182. IEEE Computer Society. ISBN: 978-1-5090-2461-2/16. **Best paper award**  
-[[BibTeX](https://dblp.org/rec/bibtex/conf/aina/JimenezCCC16)]
+<a href="https://dblp.org/rec/bibtex/conf/aina/JimenezCCC16"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 8. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.  
 [Analysis of Feature Models Using Alloy: A Survey](http://dx.doi.org/10.4204/EPTCS.206.5).  
 In Julia Rubin and Thomas Thüm: Proc. 7th Int. Workshop on Formal Methods and Analysis in Software Product Line Engineering (FMSPLE 2016), Eindhoven, The Netherlands, April 3, 2016, Electronic Proceedings in Theoretical Computer Science 206, pp. 46--60.  
-[[BibTeX](https://dblp.org/rec/bibtex/journals/corr/Sree-KumarPC16)]
+<a href="https://dblp.org/rec/bibtex/journals/corr/Sree-KumarPC16"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 9. Ignasi Colomina, Joan Arnedo-Moreno, Robert Clarisó.  
 [A Study on Practices against Malware in Free Software Projects](https://doi.org/10.1109/WAINA.2013.245).  
 In Proc. 9th International Symposium on Frontiers of Information Systems and Network Applications (FINA'2013) in conjuntion with the 27th International Conference on Advanced Information Networking and Applications (AINA'2013), pp. 1070--1075, 2013.  
-[[BibTeX](https://dblp.org/rec/bibtex/conf/aina/ColominaAC13)]
+<a href="https://dblp.org/rec/bibtex/conf/aina/ColominaAC13"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 10. Carlos A. González, Fabian Büttner, Robert Clarisó, Jordi Cabot.  
 [EMFtoCSP: a tool for the lightweight verification of EMF models](http://dx.doi.org/10.1109/FormSERA.2012.6229788).  
 In Proc. 1st Int. Workshop on Formal Methods in Software Engineering - Rigorous and Agile Approaches (FormSERA), 44-50, IEEE, 2012.  
-[[BibTeX](https://dblp.org/rec/bibtex/conf/icse/GonzalezBCC12)]
+<a href="https://dblp.org/rec/bibtex/conf/icse/GonzalezBCC12"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 11. Salvador Sánchez-Alonso, Daniel Rodríguez-García, Robert Clarisó.  
 [Comparing a fully online course to a blended one: the case of compilers](http://www.uoc.edu/webs/rclariso/_resources/documents/mcce09.pdf).  
-In. Proc. 2nd Workshop on Methods and Cases in Computing Education (MCCE'09), 2009. 
+In. Proc. 2nd Workshop on Methods and Cases in Computing Education (MCCE'09), 2009.  
+<a href="http://www.uoc.edu/webs/rclariso/_resources/documents/mcce09.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 12. Jordi Cabot, Robert Clarisó.  
 [UML/OCL Verification in Practice](http://gres.uoc.edu/pubs/ChaMDE08.pdf).  
 In Proc. 1st International Workshop on Challenges in Model-Driven Software Engineering (ChaMDE'2008), 2008.  
-[[Preprint PDF](http://gres.uoc.edu/pubs/ChaMDE08.pdf)]
+<a href="http://gres.uoc.edu/pubs/ChaMDE08.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 13. Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [Verification of UML/OCL Class Diagrams using Constraint Programming](https://doi.org/10.1109/ICSTW.2008.54).  
 In Proc. ICST Workshop on Model Driven Engineering, Verification and Validation: Integrating Verification and Validation in MDE (MoDeVVa'2008), pp. 73--80, 2008.  
-[[BibTeX](https://dblp.org/rec/bibtex/conf/icst/CabotCR08)]
+<a href="https://dblp.org/rec/bibtex/conf/icst/CabotCR08"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 14. Jordi Cabot, Robert Clarisó, Patricia de la Fuente, Daniel Riera.  
 [UMLtoCSP: Una herramienta para la verificación de modelos UML/OCL mediante Constraint Programming](https://unavailable).  
 XII Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2007), pp. 385--386, 2007.  
-[[BibTeX](https://dblp.org/rec/bibtex/conf/jisbd/CabotCFR07)]
+<a href="https://dblp.org/rec/bibtex/conf/jisbd/CabotCFR07"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 15. Robert Clarisó, Jordi Cortadella.  
 [Verification of parametric timed circuits using octahedra](https://unavailable).  
