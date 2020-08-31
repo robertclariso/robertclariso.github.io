@@ -49,7 +49,7 @@ I have participated in the following research projects:
 I have participated in the organization of several scientific events:
 
 - [OCL 2020: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2020). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
-- [OCL 2020: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2018). Program co-chair with Dr. Achim Brucker and Dr. Hao Wu.
+- [OCL 2018: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2018). Program co-chair with Dr. Achim Brucker and Dr. Hao Wu.
 - [ECOOP 2017: 31st European Conference on Object-Oriented Programming](http://2017.ecoop.org/). Student volunteer co-chair with Dr. Elvira Pino.
 - [BPM 2017: 15th Int. Conference on Business Process Management](https://bpm2017.cs.upc.edu/). Demo session co-chair with Dr. Henrik Leopold.
 - [OCL 2011: International Workshop on OCL and Textual Modeling](http://gres.uoc.edu/OCL2011/). Program co-chair with Dr. Jordi Cabot, Dr. Martin Gogolla and Dr. Burkhart Wolff
