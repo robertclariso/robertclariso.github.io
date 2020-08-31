@@ -16,6 +16,9 @@
           display: inline-block;
           right: auto;
           max-width: 295px;
+          position: relative;
+          margin-left: auto; 
+          margin-right: auto;
         }
         td.hidden {
           display: none; 
@@ -44,7 +47,7 @@
         {% endif %}
         </div>
         <div class="smallmenu"> 
-          <ul style="vertical-align: middle; position: relative; display: block; margin-left: auto; margin-right: auto;">
+          <ul style="vertical-align: middle;">
           {% if site.show_downloads %}
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
             <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
