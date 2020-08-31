@@ -15,9 +15,6 @@
         header ul {
           display: block;
         }
-        header p {
-          width: 300px;  
-        }
       }
     </style>
     <!--[if lt IE 9]>
@@ -27,7 +24,7 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <div> <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <div style="width: 400px;"> <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
