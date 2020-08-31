@@ -24,9 +24,9 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <div style="width: 400px;"> <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <div style="width: 250px;"> <h1 style="width: 250px;">{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <p style= "width: 250px;">{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
         </div>
         <div style="float: left; clear: both;"> 
