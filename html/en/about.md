@@ -39,7 +39,7 @@ permalink: /
        </dd>
       </dl> 
     </td>
-    <td>
+    <td class="hidden">
       <img src="/img/robert-clariso.jpg" alt="Photo of Robert Clarisó" style = "overflow: hidden;" height="60%">
     </td>
   </tr>
