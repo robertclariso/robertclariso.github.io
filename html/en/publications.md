@@ -174,9 +174,9 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 
 ## International conferences
 
-1. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.
-[Validating Feature Models With Respect toTextual Product Line Specifications](https://to-appear).
-In Proc. 15th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMOS'2021), To appear.
+1. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.  
+[Validating Feature Models With Respect toTextual Product Line Specifications](https://to-appear).  
+In Proc. 15th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMOS'2021), To appear.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
