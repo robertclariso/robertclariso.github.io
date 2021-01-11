@@ -48,7 +48,7 @@ I have participated in the following research projects:
 
 I have participated in the organization of several scientific events:
 
-- [OCL 2020: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2020). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
+- [OCL 2021: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2021). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
 - [OCL 2018: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2018). Program co-chair with Dr. Achim Brucker and Dr. Hao Wu.
 - [ECOOP 2017: 31st European Conference on Object-Oriented Programming](http://2017.ecoop.org/). Student volunteer co-chair with Dr. Elvira Pino.
 - [BPM 2017: 15th Int. Conference on Business Process Management](https://bpm2017.cs.upc.edu/). Demo session co-chair with Dr. Henrik Leopold.
@@ -73,9 +73,9 @@ IEEE Andean Council International Conference (ANDESCON'2016),
 Int. Workshop on OCL and Textual Modeling (OCL'2010-2017, 2019),
 Workshop on Model-Driven Engineering, Logic and Optimization (MELO'2011,2016), 
 Workshop on Model-Driven Interoperability (MDI'2010),
-Jornadas de Ingeniería del SW y BB.DD. (JISBD'2011-2015, 2017-2020).
+Jornadas de Ingeniería del SW y BB.DD. (JISBD'2011-2015, 2017-2021).
 
 **Conference reviewer**: 
 ASYNC, ATPN, DAC, FORMATS, ASP-DAC, SAS, ASE, FASE, MODELS, VLHCC, ICMT, ICFEM, ACSD, SLE, SEFM, ECMFA.
 
-**Journal Reviewer**: IEEE Transactions on CAD, Higher Order and Symbolic Computation, Simulation, ACM Transactions on Software Engineering Methodology, Computers & Electrical Engineering, Science of Computer Programming, Software and Systems Modeling, IEEE Transactions on Learning Technologies, ACM Transactions on Embedded Computing Systems, IET Software, Journal of Object Technology, Journal of Systems and Software, Computer, Computer Languages, Systems and Structures, Educational Technology in Higher Education, Software: Practice & Experience, Information Systems, IEEE Transactions on Software Engineering
+**Journal Reviewer**: IEEE Transactions on Software Engineering, ACM Transactions on Software Engineering Methodology, Journal of Systems and Software, Software and Systems Modeling, ACM Transactions on Embedded Computing Systems, IEEE Transactions on CAD, IEEE Transactions on Learning Technologies, Information Systems, Science of Computer Programming, IET Software, Journal of Object Technology, Computer Languages, Systems and Structures, Software: Practice & Experience, Higher Order and Symbolic Computation, Simulation, Computers & Electrical Engineering, Educational Technology in Higher Education, Computer.  
