@@ -291,8 +291,8 @@ In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327
 ## Workshops and national conferences
 
 1. Jordi Cabot, Loli Burgueño, Robert Clarisó, Gwendal Daniel, Jorge Perianez-Pascual, Roberto Rodríguez-Echeverria.  
-[Testing NLP-intensive bots: challenges and roadmap](https://to-appear).
-3rd International Workshop on Bots in Software Engineering (BotSE'2021), virtual event.
+[Testing NLP-intensive bots: challenges and roadmap](https://to-appear).  
+3rd International Workshop on Bots in Software Engineering (BotSE'2021), virtual event.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
