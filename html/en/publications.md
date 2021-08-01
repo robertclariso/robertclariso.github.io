@@ -125,7 +125,7 @@ Fundamenta Informaticae, 78(1):1-33, 2007.
 1. Robert Clarisó, Carlos A. González, Jordi Cabot.  
 [Incremental verification of UML/OCL models](http://dx.doi.org/10.5381/jot.2020.19.3.a7).  
 Journal of Object Technology, 2020. 9(3):1–16, 2020. DOI: 10.5381/jot.2020.19.3.a7.  
-<a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="https://dblp.org/rec/journals/jot/ClarisoGC20.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
 2. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
@@ -296,11 +296,10 @@ In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327
 ## Workshops and national conferences
 
 1. Jordi Cabot, Loli Burgueño, Robert Clarisó, Gwendal Daniel, Jorge Perianez-Pascual, Roberto Rodríguez-Echeverria.  
-[Testing NLP-intensive bots: challenges and roadmap](https://to-appear).  
-3rd International Workshop on Bots in Software Engineering (BotSE'2021), virtual event.  
+[Testing NLP-intensive bots: challenges and roadmap](https://ieeexplore.ieee.org/abstract/document/9474367).  
+3rd International Workshop on Bots in Software Engineering (BotSE'2021), virtual event, pp. 31-34. DOI: 10.1109/BotSE52550.2021.00014.   
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
-
 
 2. Robert Clarisó, Martin Gogolla.  
 [A Feasibility Study on Using Classifying Terms in Alloy](https://oclworkshop.github.io/2019/papers/OCL2019_paper_000.pdf).  
