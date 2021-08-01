@@ -123,8 +123,8 @@ Fundamenta Informaticae, 78(1):1-33, 2007.
 ## Non-indexed Journals
 
 1. Robert Clarisó, Carlos A. González, Jordi Cabot.  
-[Incremental verification of UML/OCL models](http://dx.doi.org/10.5381/jot.2020.19.3.a7)
-Journal of Object Technology, 2020. 9(3):1–16, 2020.  DOI: 10.5381/jot.2020.19.3.a7.
+[Incremental verification of UML/OCL models](http://dx.doi.org/10.5381/jot.2020.19.3.a7).  
+Journal of Object Technology, 2020. 9(3):1–16, 2020. DOI: 10.5381/jot.2020.19.3.a7.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
@@ -174,8 +174,9 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 
 ## International conferences
 
-1. Loli Burgueño,  Robert  Clarisó,  Shuau  Li,  Sébastien  Gérard,  Jordi  Cabot.   [A  NLP-based  architecture  for the autocompletion of partial domain models](https://link.springer.com/chapter/10.1007%2F978-3-030-79382-1_6).  
-In Proc.  33rd International Conference on AdvancedInformation Systems Engineering (CAISE’2021). Lecture Notes in Computer Science vol. 12751, pp. 91--106, Springer. DOI: 10.1007/978-3-030-79382-1_6. 
+1. Loli Burgueño,  Robert  Clarisó,  Shuau  Li,  Sébastien  Gérard,  Jordi  Cabot.  
+[A  NLP-based  architecture  for the autocompletion of partial domain models](https://link.springer.com/chapter/10.1007%2F978-3-030-79382-1_6).  
+In Proc.  33rd International Conference on AdvancedInformation Systems Engineering (CAISE’2021). Lecture Notes in Computer Science vol. 12751, pp. 91--106, Springer. DOI: 10.1007/978-3-030-79382-1_6.  
 <a href="https://dblp.org/rec/conf/caise/BurguenoCGLC21.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 2. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.  
