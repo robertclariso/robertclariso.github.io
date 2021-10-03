@@ -41,7 +41,7 @@ I have participated in the following research projects:
 - [Open Data for All: an API-based infrastructure for exploiting online data sources](https://som-research.uoc.edu/research-projects/#Open_data_for_All_8211_RETOS_Spanish_National_Project_2017-2020) (2017-2020). Spanish Ministry of Economy and Competitivity  TIN2016-75944-R. Funding: 77.198€. Principal investigator: Dr. Jordi Cabot (ICREA, Span)
 - [Spanish  Research  Network in  Model-Driven  Engineering (MDE)](https://mde-network.github.io/) (2017-2019). Spanish Ministry of Economy, Industry and Competitivity TIN2016-81836-REDT. Funding: 15.000€. Principal investigator: Dr. Robert Clarisó (UOC, Spain).
 - [MegaM@Rt2: MegaModelling at Runtime - scalable model-based framework for continuous development and runtime validation of complex systems](https://megamart2-ecsel.eu/) (2017-2020). H2020 ECSEL Joint Undertaking #737494. Funding: 16.5M€. Principal investigator (UOC node): Dr. Jordi Cabot (ICREA, Spain).
-- LOCOSS: Low-code development of smart software (2021-204). Spanish Ministry of Science and Innovation PID2020-114615RB-I00. Funding: 56.870€. Principal investigator: Dr. Robert Clarisó (UOC, Spain) and Dr. Jordi Cabot (ICREA, Spain).
+- LOCOSS: Low-code development of smart software (2021-2024). Spanish Ministry of Science and Innovation PID2020-114615RB-I00. Funding: 56.870€. Principal investigator: Dr. Robert Clarisó (UOC, Spain) and Dr. Jordi Cabot (ICREA, Spain).
 
 ---
 
