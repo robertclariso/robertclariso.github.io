@@ -187,9 +187,9 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 ## International conferences
 
 1. Juan Antonio Gómez-Gutiérrez, Robert  Clarisó, Jordi  Cabot.  
-[A Tool for Debugging Unsatisfiable Integrity Constraints in UML/OCL Class Diagrams](https://to-appear).  
-In Proc. 27th International Working Conference on Exploring Modeling Methods for Systems Analysis and Development (EMMSAD'2022). To appear.  
-<a href="https://to-appear"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+[A Tool for Debugging Unsatisfiable Integrity Constraints in UML/OCL Class Diagrams](https://doi.org/10.1007/978-3-031-07475-2_18).  
+In Proc. 27th International Working Conference on Exploring Modeling Methods for Systems Analysis and Development (EMMSAD'2022). Lecture Notes in Business Information Processing vol. 450, pp. 267--275, Springer.  
+<a href="https://dblp.org/rec/conf/bpmds/Gomez-Gutierrez22.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 2. Loli Burgueño,  Robert  Clarisó,  Shuau  Li,  Sébastien  Gérard,  Jordi  Cabot.  
 [A  NLP-based  architecture  for the autocompletion of partial domain models](https://link.springer.com/chapter/10.1007%2F978-3-030-79382-1_6).  
