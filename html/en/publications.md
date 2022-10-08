@@ -59,7 +59,7 @@ Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 
 ## Indexed journals
 
 1. Lola Burgueño, Paula Muñoz, Robert Clarisó, Jordi Cabot, Sébastien Gérard, Antonio Vallecillo.  
-[Dealing with belief uncertainty in software models](https://to-appear).  
+[Dealing with belief uncertainty in software models](https://dl.acm.org/doi/10.1145/3542947).  
 ACM Transactions on Software Engineering and Methodology, In Press, 2022.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://to-appear"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
@@ -186,124 +186,129 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 
 ## International conferences
 
-1. Juan Antonio Gómez-Gutiérrez, Robert  Clarisó, Jordi  Cabot.  
+1. Sergio Morales, Robert  Clarisó, Jordi  Cabot.  
+[Towards a DSL for AI Engineering Process Modeling](https://to-appear).  
+In International Conference on Product-Focused Software Process Improvement (PROFES’2022). Lecture Notes in Computer Science, too appear, Springer.  
+<a href="https://dblp.org/rec/conf/bpmds/Gomez-Gutierrez22.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+
+2. Juan Antonio Gómez-Gutiérrez, Robert  Clarisó, Jordi  Cabot.  
 [A Tool for Debugging Unsatisfiable Integrity Constraints in UML/OCL Class Diagrams](https://doi.org/10.1007/978-3-031-07475-2_18).  
 In Proc. 27th International Working Conference on Exploring Modeling Methods for Systems Analysis and Development (EMMSAD'2022). Lecture Notes in Business Information Processing vol. 450, pp. 267--275, Springer.  
 <a href="https://dblp.org/rec/conf/bpmds/Gomez-Gutierrez22.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-2. Loli Burgueño,  Robert  Clarisó,  Shuau  Li,  Sébastien  Gérard,  Jordi  Cabot.  
+3. Loli Burgueño,  Robert  Clarisó,  Shuau  Li,  Sébastien  Gérard,  Jordi  Cabot.  
 [A  NLP-based  architecture  for the autocompletion of partial domain models](https://link.springer.com/chapter/10.1007%2F978-3-030-79382-1_6).  
 In Proc.  33rd International Conference on AdvancedInformation Systems Engineering (CAISE’2021). Lecture Notes in Computer Science vol. 12751, pp. 91--106, Springer. DOI: 10.1007/978-3-030-79382-1_6.  
 <a href="https://dblp.org/rec/conf/caise/BurguenoCGLC21.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-3. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.  
+4. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.  
 [Validating Feature Models With Respect toTextual Product Line Specifications](https://doi.org/10.1145/3442391.3442407).  
 In Proc. 15th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMOS'2021), article no. 15, pp. 1--10, ACM.  
 <a href="https://dblp.org/rec/conf/vamos/Sree-KumarPC21.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-4. Mattia Gasparini, Robert Clarisó, Marco Brambilla, Jordi Cabot.  
+5. Mattia Gasparini, Robert Clarisó, Marco Brambilla, Jordi Cabot.  
 [Participation Inequality and the 90-9-1 Principle in Open Source](https://doi.org/10.1145/3412569.3412582).  
 In Proc. 16th International Symposium on Open Collaboration (OpenSym'2020), Virtual Conference, ACM.  
 <a href="https://dblp.org/rec/conf/wikis/GaspariniC0C20.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="
 https://opensym.org/wp-content/uploads/2020/08/os20-paper-a6-gasparini.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-5. Robert Clarisó, Jordi Cabot.  
+6. Robert Clarisó, Jordi Cabot.  
 [Diverse scenario exploration in model finders using graph kernels and clustering](https://doi.org/10.1007/978-3-030-48077-6_3).   
 7th International Conference on Rigorous State Based Methods (ABZ'2020), pp. 27--43, Springer.  
 <a href="https://dblp.org/rec/bibtex/conf/asm/ClarisoC20"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-6. Loli Burgueño, Jordi Cabot, Robert Clarisó, Martin Gogolla.  
+7. Loli Burgueño, Jordi Cabot, Robert Clarisó, Martin Gogolla.  
 [A Systematic Approach to Generate Diverse Instantiations for Conceptual Schemas](https://doi.org/10.1007/978-3-030-33223-5_42).  
 In Proc. 38th International Conference on Conceptual Modeling (ER'2019), Lecture Notes in Computer Science, vol 11788, pp. 512--531, Springer.  
 <a href="https://dblp.org/rec/bibtex/conf/er/BurguenoCCG19"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-7. Mattia Gasparini, Javier Luis Cánovas-Izquierdo, Robert Clarisó, Marco Brambilla, Jordi Cabot.  
+8. Mattia Gasparini, Javier Luis Cánovas-Izquierdo, Robert Clarisó, Marco Brambilla, Jordi Cabot.  
 [Analyzing Rich-Club Behavior in Open Source Projects](https://doi.org/10.1145/3306446.3340825).  
 In Proc. 15th International Symposium on Open Collaboration (OpenSym'2019), pp. 6:1--6:9.  
 <a href="https://dblp.org/rec/bibtex/conf/wikis/GaspariniIC0C19"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-8. Jose-Ramon Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
+9. Jose-Ramon Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
 [Strategy in the making: Assessing the execution of a Strategic Information Systems Plan](https://doi.org/10.1007/978-3-030-11395-7_37).  
 In Proc. European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS'2018), Lecture Notes in Business Information Processing, vol 341, pp. 475--488, Springer.  
 <a href="https://dblp.org/rec/bibtex/conf/emcis/RodriguezCM18"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-9. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.   
+10. Anjali Sree-Kumar, Elena Planas, Robert Clarisó.   
 [Extracting Software Product Line Feature Models from Natural Language Specifications](https://doi.org/10.1145/3233027.3233029).  
 In. Proc. 22nd International Systems and Software Product Line Conference (SPLC'2018), Volume 1, pp. 43--53, ACM.  
 <a href="https://dblp.org/rec/bibtex/conf/splc/Sree-KumarPC18"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-10. Robert Clarisó, Jordi Cabot.  
+11. Robert Clarisó, Jordi Cabot.  
 [Fixing defects in integrity constraints via constraint mutation](https://doi.org/10.1109/QUATIC.2018.00020).  
 In Proc. 11th International Conference on the Quality of Information and Communications Technology (QUATIC'2018), pp. 74-82, IEEE, 2018.  
 <a href="https://dblp.org/rec/bibtex/conf/quatic/ClarisoC18"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-11. Jesús Sánchez Cuadrado, Esther Guerra, Juan de Lara, Robert Clarisó, Jordi Cabot.  
+12. Jesús Sánchez Cuadrado, Esther Guerra, Juan de Lara, Robert Clarisó, Jordi Cabot.  
 [Translating target to source constraints in model-to-model transformations](https://www.computer.org/csdl/proceedings/models/2017/3492/00/3492a012-abs.html).  
 In Proc. 20th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'2017), pp. 12--22, IEEE Computer Society, 2017.  
 <a href="https://dblp.org/rec/bibtex/conf/models/CuadradoGLCC17"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-12. David Bañeres, Santi Caballé, Robert Clarisó.  
+13. David Bañeres, Santi Caballé, Robert Clarisó.  
 [Towards a Learning Analytics Support for Intelligent Tutoring Systems on MOOC Platforms](https://doi.org/10.1109/CISIS.2016.48).  
 In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.103--110, IEEE Computer Society, 2016.  
 <a href="https://dblp.org/rec/bibtex/conf/cisis/BaneresCC16"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-13. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
+14. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
 [Analysis and Design of an eLearning Platform Featuring Learning Analytics and Gamification](https://doi.org/10.1109/CISIS.2016.42).  
 In Proc: 10th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS'2016), pp.87--94, IEEE Computer Society, 2016.  
 <a href="https://dblp.org/rec/bibtex/conf/cisis/GananCCC16"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-14. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
+15. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa.  
 [A Prototype of an eLearning Platform in Support for Learning Analytics and Gamification](https://doi.org/10.1109/INCoS.2016.33).  
 International Conference on Intelligent Networking and Collaborative Systems (INCoS'2016), pp. 362--369, IEEE, 2016.  
 <a href="https://dblp.org/rec/bibtex/conf/incos/GananCCC16"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-15. Robert Clarisó, Carlos A. González, Jordi Cabot.  
+16. Robert Clarisó, Carlos A. González, Jordi Cabot.  
 [Towards domain refinement for UML/OCL bounded verification](http://dx.doi.org/10.1007/978-3-319-22969-0_8).  
 In Proc. 13th Int. Conf. on Software Engineering and Formal Methods (SEFM'2015), pages 108-114, volume 9276 of LNCS, Springer, 2015.  
 <a href="https://dblp.org/rec/bibtex/conf/sefm/ClarisoGC15"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-16.	Asadullah Shaikh, Robert Clarisó, Uffe Kock Wiil, Nasrullah Memon.  
+17.	Asadullah Shaikh, Robert Clarisó, Uffe Kock Wiil, Nasrullah Memon.  
 [Verification-driven slicing of UML/OCL Models](http://doi.acm.org/10.1145/1858996.1859038).  
 In Proc. 25th IEEE/ACM Int. Conf. on Automated Software Engineering (ASE'2010), pages 185-194, ACM, 2010.  
 <a href="https://dblp.org/rec/bibtex/conf/kbse/ShaikhCWM10"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-17.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
+18.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [Synthesis of OCL Pre-conditions for Graph Transformation Rules](http://dx.doi.org/10.1007/978-3-642-13688-7_4).  
 In Proc. 3rd Int. Conf. on Model Transformation (ICMT'2010), volume 6142 of LNCS, pages 45-60, Springer-Verlag, 2010.  
 <a href="https://dblp.org/rec/bibtex/conf/icmt/CabotCGL10"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-18.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
+19.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [Verifying UML/OCL Operation Contracts](http://dx.doi.org/10.1007/978-3-642-00255-7_4).  
 In Proc. 7th Int. Conf. on Integrated Formal methods (iFM'2009), volume 5423 of LNCS, pages 40-55, Springer-Verlag, February 2009.  
 <a href="https://dblp.org/rec/bibtex/conf/ifm/CabotCR09"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-19.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
+20.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [An Invariant-Based Method for the Analysis of Declarative Model-to-Model Transformations](http://dx.doi.org/10.1007/978-3-540-87875-9_3).  
 In Proc. 11th Int. Conf. on Model-Driven Engineering Languages and Systems (MODELS'2008), volume 5301 of LNCS, pages 37-52, Springer-Verlag, September 2008.  
 <a href="https://dblp.org/rec/bibtex/conf/models/CabotCGL08"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-20.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
+21.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [Analysing Graph Transformation Rules Through OCL](http://dx.doi.org/10.1007/978-3-540-69927-9_16).  
 In Proc. Int. Conf. on Model Transformation (ICMT'2008), volume 5063 of LNCS, pages 225-239, Springer-Verlag, July 2008.  
 <a href="https://dblp.org/rec/bibtex/conf/icmt/CabotCGL08"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-21.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
+22.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [UMLtoCSP: A Tool For the Formal Verification of UML/OCL Models Using Constraint Programming](http://doi.acm.org/10.1145/1321631.1321737).  
 In Proc. 22nd ACM/IEEE Int. Conf. on Automated Software Engineering (ASE'2007), pages 547-548. November 2007.  
 <a href="https://dblp.org/rec/bibtex/conf/kbse/CabotCR07"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-22.	Robert Clarisó and Jordi Cortadella.  
+23.	Robert Clarisó and Jordi Cortadella.  
 [Verification of Concurrent Systems with Parametric Delays Using Octahedra](http://doi.ieeecomputersociety.org/10.1109/ACSD.2005.34).  
 In Proc. 5th Int. Conf. on Application of Concurrency to System Design (ACSD'2005), pages 122-131, IEEE Computer Society Press. 2005.  
 <a href="https://dblp.org/rec/bibtex/conf/acsd/ClarisoC05"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-23.	Robert Clarisó, Enric Rodríguez-Carbonell and Jordi Cortadella.  
+24.	Robert Clarisó, Enric Rodríguez-Carbonell and Jordi Cortadella.  
 [Derivation of Non-structural Invariants of Petri Nets Using Abstract Interpretation](http://dx.doi.org/10.1007/11494744_12).  
 In Proc. 26th Int. Conf. On Application and Theory of Petri Nets and Other Models of Concurrency (ICATPN'2005), volume 3536 of LNCS, pages 188-207, Springer-Verlag, 2005.  
 <a href="https://dblp.org/rec/bibtex/conf/apn/ClarisoRC05"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
-24.	Robert Clarisó and Jordi Cortadella.  
+25.	Robert Clarisó and Jordi Cortadella.  
 [The octahedron abstract domain](http://dx.doi.org/10.1007/978-3-540-27864-1_23).  
 In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327. Springer-Verlag, 2004.  
 <a href="https://dblp.org/rec/bibtex/conf/sas/ClarisoC04"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
