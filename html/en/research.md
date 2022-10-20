@@ -53,6 +53,7 @@ I have participated in the following research projects:
 
 I have participated in the organization of several scientific events:
 
+- [OCL 2022: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2022). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
 - [OCL 2021: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2021). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
 - [OCL 2018: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2018). Program co-chair with Dr. Achim Brucker and Dr. Hao Wu.
 - [ECOOP 2017: 31st European Conference on Object-Oriented Programming](http://2017.ecoop.org/). Student volunteer co-chair with Dr. Elvira Pino.
