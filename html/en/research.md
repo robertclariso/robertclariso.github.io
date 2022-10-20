@@ -42,6 +42,10 @@ I have participated in the following research projects:
 - [Spanish  Research  Network in  Model-Driven  Engineering (MDE)](https://mde-network.github.io/) (2017-2019). Spanish Ministry of Economy, Industry and Competitivity TIN2016-81836-REDT. Funding: 15.000€. Principal investigator: Dr. Robert Clarisó (UOC, Spain).
 - [MegaM@Rt2: MegaModelling at Runtime - scalable model-based framework for continuous development and runtime validation of complex systems](https://megamart2-ecsel.eu/) (2017-2020). H2020 ECSEL Joint Undertaking #737494. Funding: 16.5M€. Principal investigator (UOC node): Dr. Jordi Cabot (ICREA, Spain).
 - LOCOSS: Low-code development of smart software (2021-2024). Spanish Ministry of Science and Innovation PID2020-114615RB-I00. Funding: 56.870€. Principal investigator: Dr. Robert Clarisó (UOC, Spain) and Dr. Jordi Cabot (ICREA, Spain).
+- [AIDOART: AI-augmented automation for efficient DevOps](https://www.aidoart.eu/) (2021-2024). H2020 ECSEL Joint Undertaking Project ID: 101007350. Funding: 234.966,05€ (UOC Node). Principal investigator (UOC node): Dr. Jordi Cabot (ICREA, Spain).
+- [TRANSACT: Transform safety-critical cyber-physical systems into distributed solutions for end-users and partners](https://transact-ecsel.eu/) (2021-2024). H2020 ECSEL Joint Undertaking Project 2021 ID: 101007260. Funding: 312.448,44€ (UOC Node). Principal investigator (UOC node): Dr. Jordi Cabot (ICREA, Spain).
+- BODI: Bots for Open Data Interactions - Conversational Interfaces to facilitate the access to public data (2021-2023). Proyectos I+D+i Pruebas de Concepto 2021, Spanish Ministry of Science and Innovation PDC2021-121404-I00. Funding: 91.600€. Principal investigator: Dr. Jordi Cabot (ICREA, Spain).
+- BOSS: Bots Inteligentes para el desarrollo de Open Source (2022-2024). Proyectos Transición Ecológica y Transición Digital, Spanish Ministry of Science and Innovationm TED2021-130331B-I00. Funding: 101.100€. Principal investigator: Dr. Javier Cánovas (UOC, Spain).
 
 ---
 
@@ -63,21 +67,21 @@ I have participated in the organization of several scientific events:
 
 **PC Member**:
 Int. Conf. on Software Engineering and Formal Methods (SEFM'2019),
-Int. Conf. on Model Driven Engineering Languages and Systems (MODELS'2015, MODELS Educator Symposium'2018),
+Int. Conf. on Model Driven Engineering Languages and Systems (MODELS'2015, MODELS Educator Symposium'2018,2022),
 Int. Conference On Tests and Proof (TAP'2011-2015),
 Int. Conf. on the Quality of Information and Communications Technology (QUATIC'2018-2021),
 Int. Conf. Appl. of Concurrency to System Design, (ACSD'2011, 2014),
 European Conf. on Modelling Foundations and Applications (ECMFA'2021), 
 Int. Conf. on Model Transformation (ICMT'2010),
-Int. Workshop on Gamification and Games for Learning (GamiLearn'2018-2021),
+Int. Workshop on Gamification and Games for Learning (GamiLearn'2018-2022),
 Int. Conf. on Electronics, Electrical Engineering and Computing (INTERCON'2017-2018),
 IEEE Andean Council International Conference (ANDESCON'2016), 
 Int. Workshop on OCL and Textual Modeling (OCL'2010-2017, 2019),
 Workshop on Model-Driven Engineering, Logic and Optimization (MELO'2011,2016), 
 Workshop on Model-Driven Interoperability (MDI'2010),
-Jornadas de Ingeniería del SW y BB.DD. (JISBD'2011-2015, 2017-2021).
+Jornadas de Ingeniería del SW y BB.DD. (JISBD'2011-2015, 2017-2022).
 
 **Conference reviewer**: 
 ASYNC, ATPN, DAC, FORMATS, ASP-DAC, SAS, ASE, FASE, MODELS, VLHCC, ICMT, ICFEM, ACSD, SLE, SEFM, ECMFA.
 
-**Journal Reviewer**: IEEE Transactions on Software Engineering, ACM Transactions on Software Engineering Methodology, Journal of Systems and Software, Software and Systems Modeling, ACM Transactions on Embedded Computing Systems, IEEE Transactions on CAD, IEEE Transactions on Learning Technologies, Information Systems, Science of Computer Programming, Formal Aspects of Computing, Software Quality Journal, IET Software, Journal of Object Technology, Computer Languages, Systems and Structures, Software: Practice & Experience, Higher Order and Symbolic Computation, Journal of Web Semantics, Simulation, Computers & Electrical Engineering, Educational Technology in Higher Education, Computer.  
+**Journal Reviewer**: IEEE Transactions on Software Engineering, ACM Transactions on Software Engineering Methodology, Journal of Systems and Software, Software and Systems Modeling, ACM Transactions on Embedded Computing Systems, IEEE Transactions on CAD, IEEE Transactions on Learning Technologies, Information Systems, Science of Computer Programming, Formal Aspects of Computing, Software Quality Journal, IET Software, Journal of Object Technology, Computer Languages, Systems and Structures, Software: Practice & Experience, Higher Order and Symbolic Computation, Journal of Web Semantics, Simulation, Computers & Electrical Engineering, Educational Technology in Higher Education, Computer, Fundamenta Informaticae.  
