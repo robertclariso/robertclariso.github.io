@@ -187,8 +187,8 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 ## International conferences
 
 1. Sergio Morales, Robert  Clarisó, Jordi  Cabot.  
-[Towards a DSL for AI Engineering Process Modeling](https://to-appear).  
-In International Conference on Product-Focused Software Process Improvement (PROFES’2022). Lecture Notes in Computer Science, too appear, Springer.  
+[Towards a DSL for AI Engineering Process Modeling](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_4}).  
+In International Conference on Product-Focused Software Process Improvement (PROFES’2022). Lecture Notes in Computer Science, vol 13709, pp. 53--60, Springer.  
 <a href="https://dblp.org/rec/conf/bpmds/Gomez-Gutierrez22.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 
 2. Juan Antonio Gómez-Gutiérrez, Robert  Clarisó, Jordi  Cabot.  
