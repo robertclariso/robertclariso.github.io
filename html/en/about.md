@@ -52,7 +52,7 @@ I am a full-time associate professor in the
 
 Moreover, I am the programme director of the [Bachelor's degree in Techniques for Software Development](https://studies.uoc.edu/en/bachelors-degrees/software-development/presentation) at UOC.
 
-Regarding my [research](html/en/research), I am a member of the 
+Regarding my [research](html/en/research), I lead the 
 [Systems, Software and Models Lab (SOM)](https://som-research.uoc.edu/) at the [Internet Interdisciplinary Institute (IN3-UOC)](https://in3.uoc.edu). My research interests include: 
 - Formal methods
 - Model-driven software engineering
