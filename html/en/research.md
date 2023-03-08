@@ -53,6 +53,7 @@ I have participated in the following research projects:
 
 I have participated in the organization of several scientific events:
 
+- [MDE track @ JISBD 2023: Ingenieria del Software Dirigida por Modelos @ XXVII Jornadas de Ingeniería del Software y Bases de Datos](https://sistedes2023.uclm.es/MJISBD_ISDM.php). Program co-chair with Dr. Juan Manuel Vara.
 - [OCL 2022: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2022). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
 - [OCL 2021: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2021). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
 - [OCL 2018: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2018). Program co-chair with Dr. Achim Brucker and Dr. Hao Wu.
