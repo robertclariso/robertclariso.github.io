@@ -1,6 +1,6 @@
 # Research
 
-I am a member of the [SOM Research Lab](https://som-research.uoc.edu), an [ICREA](https://www.icrea.cat)-[UOC](https://www.uoc.edu) research group within the [Internet Interdisciplinary Institute (IN3)](https://in3.uoc.edu) at Universitat Oberta de Catalunya.
+I lead the [SOM Research Lab](https://som-research.uoc.edu), a research group within the [Internet Interdisciplinary Institute (IN3)](https://in3.uoc.edu) at [Universitat Oberta de Catalunya](https://www.uoc.edu).
 
 ---
 
