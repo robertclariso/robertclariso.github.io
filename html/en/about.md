@@ -56,6 +56,7 @@ Regarding my [research](html/en/research), I lead the
 [Systems, Software and Models Lab (SOM)](https://som-research.uoc.edu/) at the [Internet Interdisciplinary Institute (IN3-UOC)](https://in3.uoc.edu). My research interests include: 
 - Formal methods
 - Model-driven software engineering
+- Software engineering for/with artificial intelligence (SE4AI/AI4SE) 
 - Tools for e-learning
 
 You can find additional information in my [full CV (PDF)](/docs/rclariso-research-cv.pdf).
