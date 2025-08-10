@@ -73,21 +73,23 @@ I have participated in the organization of several scientific events:
 
 **PC Member**:
 Int. Conf. on Software Engineering and Formal Methods (SEFM'2019),
-Int. Conf. on Model Driven Engineering Languages and Systems (MODELS'2015, MODELS Educator Symposium'2018,2022),
+Int. Conf. on Model Driven Engineering Languages and Systems (MODELS'2015, MODELS Educator Symposium'2018,2022-2025, MODELS New Ideas and Emerging Results'2025),
 Int. Conference On Tests and Proof (TAP'2011-2015),
 Int. Conf. on the Quality of Information and Communications Technology (QUATIC'2018-2021),
 Int. Conf. Appl. of Concurrency to System Design, (ACSD'2011, 2014),
-European Conf. on Modelling Foundations and Applications (ECMFA'2021), 
+European Conf. on Modelling Foundations and Applications (ECMFA'2021, 2023-2024), 
 Int. Conf. on Model Transformation (ICMT'2010),
-Int. Workshop on Gamification and Games for Learning (GamiLearn'2018-2022),
+Int. Workshop on Gamification and Games for Learning (GamiLearn'2018-2025),
 Int. Conf. on Electronics, Electrical Engineering and Computing (INTERCON'2017-2018),
 IEEE Andean Council International Conference (ANDESCON'2016), 
 Int. Workshop on OCL and Textual Modeling (OCL'2010-2017, 2019),
 Workshop on Model-Driven Engineering, Logic and Optimization (MELO'2011,2016), 
 Workshop on Model-Driven Interoperability (MDI'2010),
-Jornadas de Ingeniería del SW y BB.DD. (JISBD'2011-2015, 2017-2022).
+Jornadas de Ingeniería del SW y BB.DD. (JISBD'2011-2015, 2017-2025),
+Int. Workshop on Artificial Intelligence and Model-driven Engineering (MDE Intelligence'2023),
+AAAI/ACM Conf. on AI, Ethics and Society (AIES'2025).
 
 **Conference reviewer**: 
 ASYNC, ATPN, DAC, FORMATS, ASP-DAC, SAS, ASE, FASE, MODELS, VLHCC, ICMT, ICFEM, ACSD, SLE, SEFM, ECMFA.
 
-**Journal Reviewer**: IEEE Transactions on Software Engineering, ACM Transactions on Software Engineering Methodology, Journal of Systems and Software, Software and Systems Modeling, ACM Transactions on Embedded Computing Systems, IEEE Transactions on CAD, IEEE Transactions on Learning Technologies, Information Systems, Science of Computer Programming, Formal Aspects of Computing, Software Quality Journal, IET Software, Journal of Object Technology, Computer Languages, Systems and Structures, Software: Practice & Experience, Higher Order and Symbolic Computation, Journal of Web Semantics, Simulation, Computers & Electrical Engineering, Educational Technology in Higher Education, Computer, Fundamenta Informaticae.  
+**Journal Reviewer**: IEEE Transactions on Software Engineering, ACM Transactions on Software Engineering Methodology, Journal of Systems and Software, Software and Systems Modeling, ACM Transactions on Embedded Computing Systems, IEEE Transactions on CAD, IEEE Transactions on Learning Technologies, Information Systems, Science of Computer Programming, Innovations in Systems and Software Engineering, Expert Systems with Applications, Computers in Human Behavior: Artificial Humans, Formal Aspects of Computing, Software Quality Journal, IET Software, Journal of Object Technology, Computer Languages, Systems and Structures, Software: Practice & Experience, Higher Order and Symbolic Computation, Journal of Web Semantics, Simulation, Computers & Electrical Engineering, Educational Technology in Higher Education, International Review of Research in Open and Distributed Learning, Computer, Fundamenta Informaticae.  
