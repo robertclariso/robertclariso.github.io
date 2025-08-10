@@ -70,9 +70,9 @@ Software and Systems Modeling, 2025.
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://doi.org/10.1007/s10270-025-01286-1"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-3. Sergio Morales, Robert Clarisó, Jordi Cabot. 
-[Impromptu: a framework for model-driven prompt engineering](https://doi.org/10.1007/s10270-024-01235-4). 
-Software and Systems Modeling, 2025.
+3. Sergio Morales, Robert Clarisó, Jordi Cabot.  
+[Impromptu: a framework for model-driven prompt engineering](https://doi.org/10.1007/s10270-024-01235-4).  
+Software and Systems Modeling, 2025.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://doi.org/10.1007/s10270-024-01235-4"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
