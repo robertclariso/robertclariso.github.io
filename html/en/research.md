@@ -44,7 +44,8 @@ I have participated in the following research projects:
 - [AIDOART: AI-augmented automation for efficient DevOps](https://www.aidoart.eu/) (2021-2024). H2020 ECSEL Joint Undertaking Project ID: 101007350. Funding: 234.966,05€ (UOC Node). Principal investigator (UOC node): Dr. Jordi Cabot (ICREA, Spain).
 - [TRANSACT: Transform safety-critical cyber-physical systems into distributed solutions for end-users and partners](https://transact-ecsel.eu/) (2021-2024). H2020 ECSEL Joint Undertaking Project 2021 ID: 101007260. Funding: 312.448,44€ (UOC Node). Principal investigator (UOC node): Dr. Jordi Cabot (ICREA, Spain).
 - BODI: Bots for Open Data Interactions - Conversational Interfaces to facilitate the access to public data (2021-2023). Proyectos I+D+i Pruebas de Concepto 2021, Spanish Ministry of Science and Innovation PDC2021-121404-I00. Funding: 91.600€. Principal investigator: Dr. Jordi Cabot (ICREA, Spain).
-- BOSS: Bots Inteligentes para el desarrollo de Open Source (2022-2024). Proyectos Transición Ecológica y Transición Digital, Spanish Ministry of Science and Innovationm TED2021-130331B-I00. Funding: 101.100€. Principal investigator: Dr. Javier Cánovas (UOC, Spain).
+- BOSS: Bots Inteligentes para el desarrollo de Open Source (2022-2024). Proyectos Transición Ecológica y Transición Digital, Spanish Ministry of Science and Innovation TED2021-130331B-I00. Funding: 101.100€. Principal investigator: Dr. Javier Cánovas (UOC, Spain).
+- SE4GenAI: Software Engineering methods and tools for systems embedding Generative Artificial Intelligence (2024-2027). Proyectos de Generación de Conocimiento 2024, Spanish Ministry of Science, Innovation and Universities PID2023-147592OB-I00. Funding: 136.375€. Principal investigator: Dr. Robert Clarisó (UOC, Spain) and Dr. Javier Cánovas (UOC, Spain).
 
 ---
 
@@ -52,6 +53,10 @@ I have participated in the following research projects:
 
 I have participated in the organization of several scientific events:
 
+- [EMMSAD'2025: "Domain-Specific & Knowledge Modeling" track at 30th Exploring Modeling Methods for Systems Analysis and Development](https://www.emmsad.org/archive/2025). Program co-chair with Dr. Tiago Prince Sales.
+- [OCL 2025: International Workshop on OCL and Textual Modeling](https://conf.researchr.org/home/staf-2025/ocl-2025). Program co-chair with Dr. Lars Hamann.
+- [OCL 2023: International Workshop on OCL and Textual Modeling](https://oclworkshop.github.io/2023/). Program co-chair with Dr. Lars Hamann.
+- [EMMSAD'2024: "Domain-Specific & Ontology Modeling" track at 29th Exploring Modeling Methods for Systems Analysis and Development](https://www.emmsad.org/archive/2024). Program co-chair with Dr. Oscar Pastor and Dr. Tiago Prince Sales.
 - [MDE track @ JISBD 2023: Ingenieria del Software Dirigida por Modelos @ XXVII Jornadas de Ingeniería del Software y Bases de Datos](https://sistedes2023.uclm.es/MJISBD_ISDM.php). Program co-chair with Dr. Juan Manuel Vara.
 - [OCL 2022: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2022). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
 - [OCL 2021: International Workshop on OCL and Textual Modeling](http://oclworkshop.github.io/2021). Program co-chair with Dr. Edward Willink and Dr. Daniel Calegary.
