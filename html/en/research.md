@@ -20,13 +20,15 @@ If you are looking for a **PhD advisor**, you can find a list of open research l
 
 I have co-authored the following research tools:
 
-- [UMLtoCSP](http://gres.uoc.edu/UMLtoCSP/): A tool for the verification and validation of UML class diagrams annotated with OCL constraints.
+- **[UMLtoCSP](http://gres.uoc.edu/UMLtoCSP/)**: A tool for the verification and validation of UML class diagrams annotated with OCL constraints.
 UMLtoCSP is implemented in Java and uses the [ECLiPSe](http://eclipseclp.org/) contraint logic programming solver. 
-- [EMFtoSCP](https://github.com/SOM-Research/EMFtoCSP): An evolution of UMLtoCSP for the analysis of class diagrams in EMF format.
-- [FeatureX](https://github.com/5Quintessential/FeatureX): A tool for the extraction of feature models of a software product line from a set of textual requirements. 
+- **[EMFtoSCP](https://github.com/SOM-Research/EMFtoCSP)**: An evolution of UMLtoCSP for the analysis of class diagrams in EMF format.
+- **[FeatureX](https://github.com/5Quintessential/FeatureX)**: A tool for the extraction of feature models of a software product line from a set of textual requirements. 
 FeatureX is implemented in Python and uses the [Natural Language Toolkit (NLTK)](https://www.nltk.org/) for the analysis of natural language text.
-- [OCL#](https://github.com/SOM-Research/OCLsharp): Toolkit (parser, type-checker and evaluator) for OCL#, a reformulation of the Object Constraint Language (OCL). OCL# aims to solve some of the shortcomings with the semantics of OCL. It provides several primitives that can be used to implement the rest of operations and iterators in OCL.
-- [Impromptu](https://github.com/SOM-Research/Impromptu): A model-driven engineering tool for prompt engineering. 
+- **[OCL#](https://github.com/SOM-Research/OCLsharp)**: Toolkit (parser, type-checker and evaluator) for OCL#, a reformulation of the Object Constraint Language (OCL). OCL# aims to solve some of the shortcomings with the semantics of OCL. It provides several primitives that can be used to implement the rest of operations and iterators in OCL.
+- **[Impromptu](https://github.com/SOM-Research/Impromptu)**: A model-driven engineering tool for prompt engineering. 
+- **[LangBite](https://github.com/SOM-Research/LangBiTe)**: Tool for testing large language models (LLMs) for bias.
+- **[ImageBite](https://github.com/SOM-Research/ImageBiTe)**: Tools for testing biases in text-to-image generative AI models.
 
 ---
 
