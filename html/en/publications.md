@@ -58,14 +58,15 @@ Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 
 
 ## Indexed journals
 
-1. Sergio Morales, Robert Clarisó, Jordi Cabot. 
-[LangBiTe: An open-source platform to automate bias testing of large language models](https://doi.org/10.1016/j.softx.2025.102248). SoftwareX, Volume 31, 192248, 2025.
+1. Sergio Morales, Robert Clarisó, Jordi Cabot.  
+[LangBiTe: An open-source platform to automate bias testing of large language models](https://doi.org/10.1016/j.softx.2025.102248).  
+SoftwareX, Volume 31, 192248, 2025.  
 <a href="https://dblp.org/rec/journals/softx/MoralesCC25.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://doi.org/10.1016/j.softx.2025.102248"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-2. Friedrich Steimann, Robert Clarisó, Martin Gogolla. 
-[Meet OCL\#, A Relational Object Constraint Language](https://doi.org/10.1007/s10270-025-01286-1). 
-Software and Systems Modeling, 2025.
+2. Friedrich Steimann, Robert Clarisó, Martin Gogolla.  
+[Meet OCL\#, A Relational Object Constraint Language](https://doi.org/10.1007/s10270-025-01286-1).  
+Software and Systems Modeling, 2025.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://doi.org/10.1007/s10270-025-01286-1"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
@@ -81,9 +82,9 @@ ACM Transactions on Software Engineering and Methodology, 32(2), article 31, pp.
 <a href="https://dblp.org/rec/journals/tosem/BurguenoMCCGV23.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://dl.acm.org/doi/10.1145/3542947"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-5. Robert Clarisó, Jordi Cabot.
-[Low Code for Smart Software Development](\hrefhttps://doi.org/10.1109/MS.2022.3211352).
-IEEE Software, 40(1):89--93, 2023. 
+5. Robert Clarisó, Jordi Cabot.  
+[Low Code for Smart Software Development](\hrefhttps://doi.org/10.1109/MS.2022.3211352).  
+IEEE Software, 40(1):89--93, 2023.  
 <a href="https://dblp.org/rec/journals/software/CabotC23.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://to-appear"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
@@ -159,7 +160,7 @@ Fundamenta Informaticae, 78(1):1-33, 2007.
 
 1. Robert Clarisó.  
 [Intel·ligència artificial generativa i sostenibilitat](https://doi.org/10.7238/o.n24.2501).  
-Oikonomics (ISSN 2330-9546), num 24, 2025. DOI: 10.7238/o.n24.2501. 
+Oikonomics (ISSN 2330-9546), num 24, 2025. DOI: 10.7238/o.n24.2501.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://oikonomics.uoc.edu/divulgacio/oikonomics/_recursos/documents/24/06_OIKO24_CA.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
@@ -171,7 +172,7 @@ ERCIM News 136:23-24, 2024.
 
 3. Robert Clarisó, Lola Burgueño, Jordi Cabot.  
 [Managing Design-time Uncertainty in OCL Expressions](https://doi.org/10.5381/jot.2022.21.4.a8).  
-Journal of Object Technology, 21(4):1--10, 2022. DOI: 10.5381/jot.2022.21.4.a8. 
+Journal of Object Technology, 21(4):1--10, 2022. DOI: 10.5381/jot.2022.21.4.a8.  
 <a href="https://dblp.org/rec/journals/jot/ClarisoBC22.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="http://www.jot.fm/issues/issue_2022_04/article8.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
