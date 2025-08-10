@@ -25,6 +25,8 @@ UMLtoCSP is implemented in Java and uses the [ECLiPSe](http://eclipseclp.org/) c
 - [EMFtoSCP](https://github.com/SOM-Research/EMFtoCSP): An evolution of UMLtoCSP for the analysis of class diagrams in EMF format.
 - [FeatureX](https://github.com/5Quintessential/FeatureX): A tool for the extraction of feature models of a software product line from a set of textual requirements. 
 FeatureX is implemented in Python and uses the [Natural Language Toolkit (NLTK)](https://www.nltk.org/) for the analysis of natural language text.
+- [OCL#](https://github.com/SOM-Research/OCLsharp): Toolkit (parser, type-checker and evaluator) for OCL#, a reformulation of the Object Constraint Language (OCL). OCL# aims to solve some of the shortcomings with the semantics of OCL. It provides several primitives that can be used to implement the rest of operations and iterators in OCL.
+- [Impromptu](https://github.com/SOM-Research/Impromptu): A model-driven engineering tool for prompt engineering. 
 
 ---
 
