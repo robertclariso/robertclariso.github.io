@@ -12,7 +12,7 @@
     <td width="25%" style="text-align:center;"> <strong><a href="https://orcid.org/0000-0001-9639-0186">ORCID</a> </strong></td>
     <td width="25%" style="text-align:center;"> <strong><a href="https://dblp.org/pid/07/1881.html">DBLP</a></strong></td>
     <td width="25%" style="text-align:center;"> <strong><a href="https://www.researchgate.net/profile/Robert_Clariso">ResearchGate</a> </strong></td>
-    <td width="25%" style="text-align:center;"> <strong><a href="https://academic.microsoft.com/profile/991hfjie-3eh6-475g-9h0f-3i14j6ef8e83/RobertClaris&">MSN Academic Search</a></strong> </td>
+    <td width="25%" style="text-align:center;"> <strong><a href="https://openalex.org/works?filter=authorships.author.id:a5008576695">OpenAlex</a></strong> </td>
   </tr> 
 </table>
 
