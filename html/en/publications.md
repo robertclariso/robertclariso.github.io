@@ -58,73 +58,96 @@ Intelligent Data Centric Systems series, Academic Press - Elsevier, 2016. ISBN: 
 
 ## Indexed journals
 
-1. Lola Burgueño, Paula Muñoz, Robert Clarisó, Jordi Cabot, Sébastien Gérard, Antonio Vallecillo.  
-[Dealing with belief uncertainty in software models](https://dl.acm.org/doi/10.1145/3542947).  
-ACM Transactions on Software Engineering and Methodology, In Press, 2022.  
+1. Sergio Morales, Robert Clarisó, Jordi Cabot. 
+[LangBiTe: An open-source platform to automate bias testing of large language models](https://doi.org/10.1016/j.softx.2025.102248). SoftwareX, Volume 31, 192248, 2025.
+<a href="https://dblp.org/rec/journals/softx/MoralesCC25.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="https://doi.org/10.1016/j.softx.2025.102248"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+
+2. Friedrich Steimann, Robert Clarisó, Martin Gogolla. 
+[Meet OCL\#, A Relational Object Constraint Language](https://doi.org/10.1007/s10270-025-01286-1). 
+Software and Systems Modeling, 2025.
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="https://doi.org/10.1007/s10270-025-01286-1"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+
+3. Sergio Morales, Robert Clarisó, Jordi Cabot. 
+[Impromptu: a framework for model-driven prompt engineering](https://doi.org/10.1007/s10270-024-01235-4). 
+Software and Systems Modeling, 2025.
+<a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="https://doi.org/10.1007/s10270-024-01235-4"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+
+4. Lola Burgueño, Paula Muñoz, Robert Clarisó, Jordi Cabot, Sébastien Gérard, Antonio Vallecillo.  
+[Dealing with belief uncertainty in software models](https://dl.acm.org/doi/10.1145/3542947).  
+ACM Transactions on Software Engineering and Methodology, 32(2), article 31, pp. 1–34, 2023.  
+<a href="https://dblp.org/rec/journals/tosem/BurguenoMCCGV23.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="https://dl.acm.org/doi/10.1145/3542947"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+
+5. Robert Clarisó, Jordi Cabot.
+[Low Code for Smart Software Development](\hrefhttps://doi.org/10.1109/MS.2022.3211352).
+IEEE Software, 40(1):89--93, 2023. 
+<a href="https://dblp.org/rec/journals/software/CabotC23.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://to-appear"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-2. Robert Clarisó, Jordi Cabot.  
+6. Robert Clarisó, Jordi Cabot.  
 [User-driven diverse scenario exploration in model finders](https://doi.org/10.1016/j.scico.2021.102745).  
 Science of Computer Programming, Volume 215, 102745, 2022.  
 <a href="https://dblp.org/rec/journals/scp/ClarisoC22.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://doi.org/10.1016/j.scico.2021.102745"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-3. Robert Clarisó, Carlos A. González, Jordi Cabot.  
+7. Robert Clarisó, Carlos A. González, Jordi Cabot.  
 [Smart Bound Selection for the Verification of UML/OCL Class Diagrams](http://dx.doi.org/10.1109/TSE.2017.2777830).  
 IEEE Transactions on Software Engineering, 45(4):412--426, 2019.  
 <a href="https://dblp.org/rec/bibtex/journals/tse/ClarisoGC19"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-4. David Bañeres, Robert Clarisó.  
+8. David Bañeres, Robert Clarisó.  
 [Evaluation of a New Self-Study Platform for Introductory Digital Systems](https://www.ijee.ie/latestissues/Vol35-1A/25_ijee3717.pdf).   
 International Journal of Engineering Education, 35(1(A)):286--303, 2019.  
 <a href="https://robertclariso.github.io/docs/bibtex/baneres2019evaluation.bib"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-5. Athanasios Zolotas, Robert Clarisó, Nicholas Matragkas, Dimitrios S. Kolovos, Richard F. Paige.  
+9. Athanasios Zolotas, Robert Clarisó, Nicholas Matragkas, Dimitrios S. Kolovos, Richard F. Paige.  
 [Constraint Programming for Type Inference in Flexible Model-Driven Engineering](http://dx.doi.org/10.1016/j.cl.2016.12.002).  
 Computer Languages, Systems & Structures, 49:216--230,  2017.  
 <a href="https://dblp.org/rec/bibtex/journals/cl/ZolotasCMKP17"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-6. Robert Clarisó, Jordi Cabot, Esther Guerra, Juan de Lara.  
+10. Robert Clarisó, Jordi Cabot, Esther Guerra, Juan de Lara.  
 [Backwards reasoning for model transformations: Method and applications](http://dx.doi.org/10.1016/j.jss.2015.08.017).  
 Journal of Systems and Software, 116:113--132, 2016.  
 <a href="https://dblp.org/rec/bibtex/journals/jss/ClarisoCGL16"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-7.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
+11.	Jordi Cabot, Robert Clarisó, Daniel Riera.  
 [On the Verification of UML/OCL Class Diagrams Using Constraint Programming](http://dx.doi.org/10.1016/j.jss.2014.03.023).  
 Journal of Systems and Software, 93:1--23, 2014.  
 <a href="https://dblp.org/rec/bibtex/journals/jss/CabotCR14"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-8.	David Bañeres, Robert Clarisó, Josep Jorba, Montse Serra.  
+12.	David Bañeres, Robert Clarisó, Josep Jorba, Montse Serra.  
 [Experiences in Digital Circuit Design Courses: A Self-Study Platform for Learning Support](http://dx.doi.org/10.1109/TLT.2014.2320919).  
 IEEE Transactions on Learning Technologies, 7(4):360-374, 2014.  
 <a href="https://dblp.org/rec/bibtex/journals/tlt/BaneresCJS14"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-9. Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
+13. Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [Verification and Validation of Declarative Model-to-Model Transformations Through Invariants](http://dx.doi.org/10.1016/j.jss.2009.08.012).  
 Journal of Systems and Software, 83(2): 283-302, 2010.  
 <a href="https://dblp.org/rec/bibtex/journals/jss/CabotCGL10"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-10.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
+14.	Jordi Cabot, Robert Clarisó, Esther Guerra, Juan de Lara.  
 [A UML/OCL Framework for the Analysis of Graph Transformation Rules](http://dx.doi.org/10.1007/s10270-009-0129-0).  
 Software and Systems Modeling. 9(3): 335-357, 2010.  
 <a href="https://dblp.org/rec/bibtex/journals/sosym/CabotCGL10"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-11.	Robert Clarisó, Jordi Cortadella.  
+15.	Robert Clarisó, Jordi Cortadella.  
 [The octahedron abstract domain](http://dx.doi.org/10.1016/j.scico.2006.03.009).  
 Science of Computer Programming, 64(1):115-139, 2007.  
 <a href="https://dblp.org/rec/bibtex/journals/scp/ClarisoC07"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-12. Robert Clarisó, Jordi Cortadella.  
+16. Robert Clarisó, Jordi Cortadella.  
 [Verification of Concurrent Systems with Parametric Delays using Octahedra](http://iospress.metapress.com/content/6304h65116152104/).  
 Fundamenta Informaticae, 78(1):1-33, 2007.  
 <a href="https://dblp.org/rec/bibtex/journals/fuin/ClarisoC07"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
@@ -134,49 +157,67 @@ Fundamenta Informaticae, 78(1):1-33, 2007.
 
 ## Non-indexed Journals
 
-1. Robert Clarisó, Carlos A. González, Jordi Cabot.  
-[Incremental verification of UML/OCL models](http://dx.doi.org/10.5381/jot.2020.19.3.a7).  
-Journal of Object Technology, 2020. 9(3):1–16, 2020. DOI: 10.5381/jot.2020.19.3.a7.  
-<a href="https://dblp.org/rec/journals/jot/ClarisoGC20.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
-<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+1. Robert Clarisó. 
+[Intel·ligència artificial generativa i sostenibilitat](https://doi.org/10.7238/o.n24.2501). 
+Oikonomics (ISSN 2330-9546), num 24, 2025. DOI: 10.7238/o.n24.2501
+<a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="https://oikonomics.uoc.edu/divulgacio/oikonomics/_recursos/documents/24/06_OIKO24_CA.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-2. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
+2. Sergio Morales, Robert Clarisó, Jordi Cabot.
+[Unveiling Ethical Biases in Generative AI](https://ercim-news.ercim.eu/en136/special/unveiling-ethical-biases-in-generative-ai). 
+ERCIM News 136:23-24, 2024. 
+<a href="https://dblp.org/rec/journals/ercim/MoralesCC24.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="https://ercim-news.ercim.eu/images/stories/EN136/EN136-web.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+
+3. Robert Clarisó, Lola Burgueño, Jordi Cabot. 
+[Managing Design-time Uncertainty in OCL Expressions](https://doi.org/10.5381/jot.2022.21.4.a8). 
+Journal of Object Technology, 21(4):1--10, 2022. DOI: 10.5381/jot.2022.21.4.a8
+<a href="https://dblp.org/rec/journals/jot/ClarisoBC22.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="http://www.jot.fm/issues/issue_2022_04/article8.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+
+4. Robert Clarisó, Carlos A. González, Jordi Cabot.  
+[Incremental verification of UML/OCL models](http://dx.doi.org/10.5381/jot.2020.19.3.a7).  
+Journal of Object Technology, 2020. 9(3):1–16, 2020. DOI: 10.5381/jot.2020.19.3.a7  
+<a href="https://dblp.org/rec/journals/jot/ClarisoGC20.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
+<a href="http://www.jot.fm/issues/issue_2020_03/article7.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+
+5. Jose-Ramón Rodríguez, Robert Clarisó, Josep Maria Marco-Simó.  
 [Towards a Framework for Assessing IT Strategy Execution](https://www.mdpi.com/2073-431X/8/3/69/pdf).  
 Computers, 8(69), 2019. DOI: 10.3390/computers8030069  
 <a href="https://dblp.org/rec/bibtex/journals/computers/RodriguezCM19"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
-<a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
+<a href="https://www.mdpi.com/2073-431X/8/3/69/pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-3. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres.   
+6. David Gañán, Santi Caballé, Robert Clarisó, Jordi Conesa, David Bañeres.   
 [ICT-FLAG: A Web-based e-Assessment Platform Featuring Learning Analytics and Gamification](http://www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-12-2016-0074).  
 International Journal of Web Information Systems, 13(1), 2017. DOI: 10.1108/IJWIS-12-2016-0074.  
 <a href="https://dblp.org/rec/bibtex/journals/ijwis/GananCCCB17"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-4. Robert Clarisó, Maria Jesús Marco, Josep Maria Marco-Simó, Josep Prieto, Daniel Riera.  
+7. Robert Clarisó, Maria Jesús Marco, Josep Maria Marco-Simó, Josep Prieto, Daniel Riera.  
 [El Máster Universitario en Ingeniería Informática en un contexto no presencial](http://www.aenui.net/ojs/index.php?journal=revision&page=article&op=view&path%5B%5D=189).  
 ReVisión, 8(2), 2015.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="http://www.aenui.net/ojs/index.php?journal=revision&page=article&op=view&path%5B%5D=189&path%5B%5D=308"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-5. Jordi Cabot, Robert Clarisó.  
+8. Jordi Cabot, Robert Clarisó.  
 [Evaluating the Quality of Software Models using Light-weight Formal Methods](http://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods).  
 ERCIM News, 99:29--30, 2014.  
 <a href="https://dblp.org/rec/bibtex/journals/ercim/CabotC14"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://ercim-news.ercim.eu/en99/special/evaluating-the-quality-of-software-models-using-light-weight-formal-methods"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-6. Àngels Rius, Robert Clarisó, David Masip.  
+9. Àngels Rius, Robert Clarisó, David Masip.  
 [Student projects empowering mobile learning in higher education](http://dx.doi.org/10.7238/rusc.v11i1.1901).  
 Universities and Knowledge Society Journal (RUSC), 11(1):192--207, 2014.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="http://rusc.uoc.edu/rusc/ca/index.php/rusc/article/view/v11n1-rius-clariso-masip/v11n1-rius-clariso-masip-en.html"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-7. Jordi Cabot, Robert Clarisó, Martin Gogolla, Burkhart Wolff.  
+10. Jordi Cabot, Robert Clarisó, Martin Gogolla, Burkhart Wolff.  
 [Preface to the Proceedings of the Workshop on OCL and Textual Modeling (OCL 2011)](http://journal.ub.tu-berlin.de/eceasst/article/viewFile/666/676).  
 Electronic Communications of the EASST, 44, 2011.  
 <a href="https://dblp.org/rec/bibtex/journals/eceasst/CabotCGW11"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://journal.ub.tu-berlin.de/eceasst/article/viewFile/666/676"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-8. Davinia Hernández-Leo, Verónica Moreno Oliver, Irene Camps, Robert Clarisó, Alejandra Martínez-Monés, Maria Jesús Marco, Javier Melero.  
+11. Davinia Hernández-Leo, Verónica Moreno Oliver, Irene Camps, Robert Clarisó, Alejandra Martínez-Monés, Maria Jesús Marco, Javier Melero.  
 [Implementación de buenas prácticas en los Trabajos Fin de Grado](https://polipapers.upv.es/index.php/REDU/article/view/5556/5547).  
 Revista de Docencia Universitaria, 11:269--278, 2013.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
