@@ -28,8 +28,8 @@ UMLtoCSP is implemented in Java and uses the [ECLiPSe](http://eclipseclp.org/) c
 FeatureX is implemented in Python and uses the [Natural Language Toolkit (NLTK)](https://www.nltk.org/) for the analysis of natural language text.
 - **[OCL#](https://github.com/SOM-Research/OCLsharp)**: Toolkit (parser, type-checker and evaluator) for OCL#, a reformulation of the Object Constraint Language (OCL). OCL# aims to solve some of the shortcomings with the semantics of OCL. It provides several primitives that can be used to implement the rest of operations and iterators in OCL.
 - **[Impromptu](https://github.com/SOM-Research/Impromptu)**: A model-driven engineering tool for prompt engineering. 
-- **[LangBite](https://github.com/SOM-Research/LangBiTe)**: Tool for testing large language models (LLMs) for bias.
-- **[ImageBite](https://github.com/SOM-Research/ImageBiTe)**: Tools for testing biases in text-to-image generative AI models.
+- **[LangBiTe](https://github.com/SOM-Research/LangBiTe)**: Tool for testing large language models (LLMs) for bias.
+- **[ImageBiTe](https://github.com/SOM-Research/ImageBiTe)**: Tools for testing biases in text-to-image generative AI models.
 
 ---
 
