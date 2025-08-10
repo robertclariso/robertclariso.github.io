@@ -157,21 +157,21 @@ Fundamenta Informaticae, 78(1):1-33, 2007.
 
 ## Non-indexed Journals
 
-1. Robert Clarisó. 
-[Intel·ligència artificial generativa i sostenibilitat](https://doi.org/10.7238/o.n24.2501). 
-Oikonomics (ISSN 2330-9546), num 24, 2025. DOI: 10.7238/o.n24.2501
+1. Robert Clarisó.  
+[Intel·ligència artificial generativa i sostenibilitat](https://doi.org/10.7238/o.n24.2501).  
+Oikonomics (ISSN 2330-9546), num 24, 2025. DOI: 10.7238/o.n24.2501. 
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://oikonomics.uoc.edu/divulgacio/oikonomics/_recursos/documents/24/06_OIKO24_CA.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-2. Sergio Morales, Robert Clarisó, Jordi Cabot.
-[Unveiling Ethical Biases in Generative AI](https://ercim-news.ercim.eu/en136/special/unveiling-ethical-biases-in-generative-ai). 
-ERCIM News 136:23-24, 2024. 
+2. Sergio Morales, Robert Clarisó, Jordi Cabot.  
+[Unveiling Ethical Biases in Generative AI](https://ercim-news.ercim.eu/en136/special/unveiling-ethical-biases-in-generative-ai).  
+ERCIM News 136:23-24, 2024.  
 <a href="https://dblp.org/rec/journals/ercim/MoralesCC24.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="https://ercim-news.ercim.eu/images/stories/EN136/EN136-web.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
-3. Robert Clarisó, Lola Burgueño, Jordi Cabot. 
-[Managing Design-time Uncertainty in OCL Expressions](https://doi.org/10.5381/jot.2022.21.4.a8). 
-Journal of Object Technology, 21(4):1--10, 2022. DOI: 10.5381/jot.2022.21.4.a8
+3. Robert Clarisó, Lola Burgueño, Jordi Cabot.  
+[Managing Design-time Uncertainty in OCL Expressions](https://doi.org/10.5381/jot.2022.21.4.a8).  
+Journal of Object Technology, 21(4):1--10, 2022. DOI: 10.5381/jot.2022.21.4.a8. 
 <a href="https://dblp.org/rec/journals/jot/ClarisoBC22.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href="http://www.jot.fm/issues/issue_2022_04/article8.pdf"><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
@@ -227,7 +227,7 @@ Revista de Docencia Universitaria, 11:269--278, 2013.
 
 ## International conferences
 
-1. Sergio Morales, Robert  Clarisó, Jordi  Cabot.  
+1. Sergio Morales, Robert  Clarisó, Jordi  Cabot.   
 [Towards a DSL for AI Engineering Process Modeling](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_4).  
 In International Conference on Product-Focused Software Process Improvement (PROFES’2022). Lecture Notes in Computer Science, vol 13709, pp. 53--60, Springer.  
 <a href="https://dblp.org/rec/conf/bpmds/Gomez-Gutierrez22.html?view=bibtex"><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
