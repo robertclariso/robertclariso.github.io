@@ -535,7 +535,7 @@ In Proc. of the 12th International Workshop on Logic and Synthesis (IWLS'03), pp
 [Symbolic timing analysis for the verification of asynchronous circuits](https://unavailable).  
 In 3rd Workshop of the Working Group on Asynchronous Circuit Design (ACiD-WG'03), 2003.
 
-27s. Robert Clarisó, Jordi Cortadella, Alex Kondratyev, Luciano Lavagno, Claudio Passerone and Yosinori Watanabe.  
+27. Robert Clarisó, Jordi Cortadella, Alex Kondratyev, Luciano Lavagno, Claudio Passerone and Yosinori Watanabe.  
 [Synthesis of embedded software for reactive systems](https://unavailable).  
 In Proc. 2nd International Workshop on Integration of Specification Techniques for Applications in Engineering (INT'02), pp. 2--20, 2002.
 
