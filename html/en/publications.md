@@ -399,7 +399,7 @@ In 11th Static Analysis Symposium (SAS'2004), volume 3148 of LNCS, pages 312-327
 
 ## Workshops and national conferences
 
-1.David García-Solórzano, Nati Cabrera, Carolina García-Londoño, Maria Jesús Marco-Galindo, Julià Minguillón, Carlos Casado-Martínez,  Marcelo Fabián Maina, Montse Vall-llovera Llovet, Rosa Maria Mayordomo, Lourdes Guàrdia Ortiz, Robert Clarisó.  
+1. David García-Solórzano, Nati Cabrera, Carolina García-Londoño, Maria Jesús Marco-Galindo, Julià Minguillón, Carlos Casado-Martínez,  Marcelo Fabián Maina, Montse Vall-llovera Llovet, Rosa Maria Mayordomo, Lourdes Guàrdia Ortiz, Robert Clarisó.  
 [FeedSmart: una herramienta basada en IA generativa para asistir al profesorado en la elaboración de feedback formativo y personalizado](https://aenui.org/actas/pdf/JENUI_2025_018.pdf).  
 XXXI Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI'2025).  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
@@ -407,7 +407,7 @@ XXXI Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI'2025).
 
 2. Fernando Ares-Robledo, Helena Rifà-Pous, Robert Clarisó.  
 [Hyperparameter Optimization in Neuro-Symbolic Unsupervised Graph Learning](https://doi.org/10.1007/978-3-032-00639-4_16).  
-5th International Workshop on Graph-based Approaches for CyberSecurity (GRASEC'2025).
+5th International Workshop on Graph-based Approaches for CyberSecurity (GRASEC'2025).  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
@@ -431,7 +431,7 @@ Jornadas de Ingeniería del Software y Bases de Datos (JISBD'2024).
 
 6. Marcos Gómez, Sergio Morales, German Castignani, Robert Clarisó, Aaron Corardy, Louis Deladiennee, Samuel Renault, Jordi Cabot.  
 [A Leaderboard to Benchmark Ethical Biases in LLMs](https://ceur-ws.org/Vol-3744/paper1.pdf).  
-Workshop on AI bias: Measurements, Mitigation, Explanation Strategies (AIMMES'2024). CEUR Workshop Proceedings, vol. 3744, 2024.
+Workshop on AI bias: Measurements, Mitigation, Explanation Strategies (AIMMES'2024). CEUR Workshop Proceedings, vol. 3744, 2024.  
 <a href=""><img src="https://robertclariso.github.io/img/bibtex.png" height="30" alt="BibTeX entry"></a>
 <a href=""><img src="https://robertclariso.github.io/img/pdf.png" height="30" alt="PDF preprint"></a>
 
@@ -535,7 +535,7 @@ In Proc. of the 12th International Workshop on Logic and Synthesis (IWLS'03), pp
 [Symbolic timing analysis for the verification of asynchronous circuits](https://unavailable).  
 In 3rd Workshop of the Working Group on Asynchronous Circuit Design (ACiD-WG'03), 2003.
 
-27. Robert Clarisó, Jordi Cortadella, Alex Kondratyev, Luciano Lavagno, Claudio Passerone and Yosinori Watanabe.  
+27s. Robert Clarisó, Jordi Cortadella, Alex Kondratyev, Luciano Lavagno, Claudio Passerone and Yosinori Watanabe.  
 [Synthesis of embedded software for reactive systems](https://unavailable).  
 In Proc. 2nd International Workshop on Integration of Specification Techniques for Applications in Engineering (INT'02), pp. 2--20, 2002.
 
